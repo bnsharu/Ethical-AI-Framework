@@ -1,0 +1,5 @@
+metric,value,risk_level
+Demographic Parity Difference,0.0181472746331236,LOW
+Equalized Odds Difference,0.2452380952380952,HIGH
+TPR Difference,0.2452380952380952,HIGH
+FPR Difference,0.1142156862745098,MEDIUM

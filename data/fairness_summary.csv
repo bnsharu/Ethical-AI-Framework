@@ -1,0 +1,5 @@
+metric,value
+demographic_parity_difference,0.018147274633123656
+equalized_odds_difference,0.24523809523809526
+tpr_difference,0.24523809523809526
+fpr_difference,0.11421568627450981

@@ -1,0 +1,5001 @@
+age,income,credit_score,experience_years,education,group,decision
+60,69319,714,4,Master,Group_A,0
+27,44050,672,6,Bachelor,Group_B,0
+52,84562,673,12,Master,Group_B,1
+39,79060,691,17,Master,Group_B,0
+26,35071,716,13,Master,Group_A,1
+40,46625,763,17,Master,Group_A,1
+47,73857,653,2,High School,Group_A,0
+57,73152,615,16,Master,Group_B,0
+27,99932,644,18,High School,Group_B,1
+25,44162,623,6,High School,Group_B,1
+31,86266,581,20,High School,Group_A,0
+35,43550,772,3,Bachelor,Group_B,1
+23,69006,736,14,Bachelor,Group_B,1
+25,76062,532,7,Bachelor,Group_A,0
+43,18000,694,15,High School,Group_A,0
+57,76402,656,0,Bachelor,Group_A,1
+29,84922,648,15,Bachelor,Group_A,1
+35,79726,518,1,Master,Group_B,1
+23,96960,678,1,Bachelor,Group_A,0
+49,77373,685,7,High School,Group_A,1
+26,50330,604,11,Bachelor,Group_B,1
+37,82302,785,10,Bachelor,Group_A,1
+46,49309,731,5,Bachelor,Group_A,1
+41,61484,611,18,Bachelor,Group_A,0
+28,74972,746,17,Bachelor,Group_A,1
+41,68065,650,4,Bachelor,Group_B,1
+31,84320,749,14,Bachelor,Group_A,1
+58,104796,586,7,Master,Group_B,1
+28,39527,691,5,High School,Group_B,0
+44,54090,601,11,Master,Group_A,1
+55,65695,626,18,Bachelor,Group_B,1
+34,51663,554,11,High School,Group_A,0
+34,58637,600,11,Master,Group_A,0
+30,73965,599,8,Master,Group_B,0
+32,71572,591,9,Bachelor,Group_B,1
+58,64452,692,16,Bachelor,Group_B,1
+54,62659,565,17,Bachelor,Group_A,1
+30,55970,699,15,Bachelor,Group_A,1
+37,85281,745,3,High School,Group_B,1
+37,89941,622,17,Master,Group_A,1
+23,78339,674,2,Master,Group_A,1
+51,39311,658,15,High School,Group_A,0
+21,55280,653,13,Master,Group_A,0
+32,63594,514,8,Bachelor,Group_B,0
+59,43067,607,5,High School,Group_A,0
+24,61424,775,3,Bachelor,Group_B,1
+33,60400,701,1,Bachelor,Group_A,1
+54,79514,664,9,Master,Group_B,0
+41,51031,549,10,Master,Group_B,1
+42,80939,719,6,High School,Group_A,1
+24,42767,621,4,Bachelor,Group_B,0
+38,45279,600,3,Master,Group_B,0
+25,53171,606,5,Master,Group_B,1
+39,60862,713,1,High School,Group_B,1
+22,18000,675,1,Bachelor,Group_B,0
+32,68267,736,15,Master,Group_B,1
+37,90768,753,12,Bachelor,Group_A,1
+30,71723,632,20,Bachelor,Group_A,1
+54,56208,677,6,Master,Group_A,0
+26,40477,660,4,High School,Group_A,1
+28,27366,591,16,Master,Group_A,0
+31,30426,601,12,Bachelor,Group_A,0
+32,57645,669,14,High School,Group_B,0
+29,97924,676,2,High School,Group_A,0
+22,18000,676,3,High School,Group_A,0
+28,72604,677,14,High School,Group_B,0
+31,47801,627,17,Bachelor,Group_A,0
+56,53961,818,2,High School,Group_B,1
+30,43121,695,6,Master,Group_A,1
+41,35386,643,7,Bachelor,Group_B,1
+40,62261,706,10,Bachelor,Group_B,1
+28,64730,625,8,Bachelor,Group_A,1
+56,72030,682,19,Bachelor,Group_A,1
+49,29666,706,11,Bachelor,Group_B,1
+32,75732,716,4,High School,Group_B,0
+34,76053,598,0,Master,Group_B,0
+41,67641,850,13,Bachelor,Group_B,1
+42,52423,757,2,High School,Group_A,0
+41,65552,812,14,Bachelor,Group_A,1
+50,57112,663,9,Bachelor,Group_A,0
+59,77433,696,9,Bachelor,Group_B,1
+40,53402,682,2,Master,Group_B,1
+44,61944,644,5,Bachelor,Group_A,1
+43,28710,729,4,Bachelor,Group_A,0
+27,65495,623,18,Bachelor,Group_A,0
+29,46508,725,13,Master,Group_A,1
+21,69224,648,16,Bachelor,Group_B,0
+46,74192,706,11,Bachelor,Group_B,1
+58,49020,775,8,Bachelor,Group_B,1
+58,60561,671,2,Bachelor,Group_A,1
+42,63141,731,17,High School,Group_A,1
+30,66625,647,3,High School,Group_B,0
+26,74217,603,13,Master,Group_B,0
+37,71862,788,5,Bachelor,Group_B,1
+58,53162,729,14,Bachelor,Group_B,1
+44,88770,671,16,Bachelor,Group_A,1
+30,73536,725,4,Bachelor,Group_B,1
+28,85293,614,5,High School,Group_A,1
+41,66241,709,20,High School,Group_A,1
+26,67304,694,4,Master,Group_A,1
+41,57891,722,18,Bachelor,Group_A,0
+59,52012,787,13,Bachelor,Group_B,1
+44,77556,774,3,Master,Group_A,1
+53,64763,590,4,Bachelor,Group_B,0
+38,57632,550,10,High School,Group_B,0
+48,41593,696,1,High School,Group_A,0
+52,87992,691,1,Bachelor,Group_A,1
+32,62027,606,19,Master,Group_B,1
+47,37919,618,11,High School,Group_A,0
+30,61466,630,15,High School,Group_A,1
+52,56383,767,16,Master,Group_A,1
+46,55645,649,3,High School,Group_A,1
+45,70373,582,13,Bachelor,Group_B,0
+31,56408,676,6,High School,Group_B,0
+43,54501,680,14,Bachelor,Group_B,1
+54,84523,613,15,Bachelor,Group_B,1
+60,28688,718,7,High School,Group_B,1
+43,59075,754,1,Bachelor,Group_A,0
+49,76719,657,18,Bachelor,Group_B,1
+51,71285,582,0,Bachelor,Group_B,0
+27,78361,662,3,Bachelor,Group_B,1
+60,96388,700,20,Bachelor,Group_B,1
+53,90581,540,10,Bachelor,Group_A,0
+41,39200,711,9,Bachelor,Group_A,0
+22,31007,656,17,Bachelor,Group_A,0
+38,65883,683,0,Bachelor,Group_A,0
+53,35626,661,16,Bachelor,Group_B,1
+57,25324,631,15,High School,Group_B,1
+54,65692,673,11,High School,Group_A,1
+40,70207,647,15,Bachelor,Group_B,1
+55,90801,657,8,Master,Group_A,0
+38,73832,623,16,Master,Group_A,1
+44,94552,715,2,Bachelor,Group_A,0
+28,66400,760,17,Bachelor,Group_A,1
+50,39547,623,14,High School,Group_B,1
+30,74799,672,14,Master,Group_A,1
+43,84018,609,15,Master,Group_B,0
+31,67040,705,19,High School,Group_B,1
+22,86110,695,0,Master,Group_A,1
+46,57781,642,0,Bachelor,Group_B,1
+56,69826,675,3,Bachelor,Group_B,0
+53,56862,736,12,Bachelor,Group_A,1
+33,102823,576,3,Bachelor,Group_A,0
+60,75143,596,7,Master,Group_A,1
+45,39899,718,12,High School,Group_A,1
+24,93347,684,7,Bachelor,Group_A,1
+39,46803,675,13,Bachelor,Group_B,0
+38,60247,741,0,Bachelor,Group_B,1
+57,68429,726,8,Bachelor,Group_A,1
+50,69900,791,0,Bachelor,Group_A,0
+39,68707,738,6,Bachelor,Group_B,1
+43,39605,714,19,Bachelor,Group_A,1
+36,68767,676,12,Bachelor,Group_A,0
+21,79812,671,14,Bachelor,Group_A,0
+32,79294,680,8,Bachelor,Group_B,0
+44,36567,694,15,High School,Group_A,0
+54,48198,602,16,Bachelor,Group_B,0
+28,41199,697,8,High School,Group_B,1
+38,66117,664,5,High School,Group_A,0
+25,32070,703,19,Bachelor,Group_B,1
+46,39791,642,11,High School,Group_A,0
+50,48028,637,15,Bachelor,Group_B,0
+33,27658,695,20,Master,Group_B,0
+39,59500,711,14,High School,Group_B,1
+49,22083,641,6,Master,Group_A,1
+23,68736,766,9,High School,Group_B,1
+46,52854,765,3,Bachelor,Group_A,0
+60,48768,577,2,Bachelor,Group_A,1
+32,51707,629,17,Master,Group_A,1
+22,58913,688,0,High School,Group_B,0
+31,70672,704,12,Bachelor,Group_B,1
+48,83708,819,17,High School,Group_A,1
+38,78250,689,7,Bachelor,Group_B,0
+33,100170,672,10,Master,Group_A,1
+57,72155,606,9,Master,Group_B,1
+42,62526,577,3,Bachelor,Group_A,0
+32,51773,671,3,Bachelor,Group_B,0
+22,52372,814,3,Master,Group_A,1
+57,69703,666,11,Bachelor,Group_B,1
+27,42010,630,7,High School,Group_A,1
+46,64122,709,12,Master,Group_A,0
+46,59660,550,7,Bachelor,Group_A,0
+44,46894,685,20,High School,Group_B,1
+32,41079,734,2,High School,Group_B,1
+36,105445,618,11,Bachelor,Group_A,0
+43,34862,769,17,Bachelor,Group_B,1
+60,58780,723,14,Bachelor,Group_B,1
+29,82007,770,13,Bachelor,Group_B,1
+52,69523,591,8,Master,Group_B,1
+35,51476,668,4,Master,Group_A,0
+57,38541,740,14,Bachelor,Group_A,1
+33,62336,583,7,Master,Group_B,0
+25,18000,742,2,Master,Group_B,1
+31,63058,668,11,Bachelor,Group_B,0
+30,60627,741,4,Bachelor,Group_A,1
+33,79262,694,8,Bachelor,Group_A,1
+35,39420,772,19,High School,Group_B,1
+27,54178,596,2,Bachelor,Group_B,1
+60,67864,701,7,Bachelor,Group_B,1
+48,63700,582,20,High School,Group_B,0
+52,35832,707,12,High School,Group_B,1
+55,48345,701,7,Bachelor,Group_A,1
+35,85198,661,4,Bachelor,Group_A,1
+56,64668,629,6,Master,Group_B,0
+41,30046,659,4,Bachelor,Group_B,0
+26,75898,686,8,Bachelor,Group_A,0
+21,31213,698,4,Bachelor,Group_A,1
+24,54474,806,7,High School,Group_B,1
+31,70139,737,11,High School,Group_A,1
+46,81847,642,3,Master,Group_A,1
+57,18000,718,8,Bachelor,Group_B,1
+43,72809,737,13,Master,Group_B,1
+49,75511,637,18,Bachelor,Group_B,1
+41,49974,726,12,High School,Group_A,1
+47,61636,583,2,Bachelor,Group_B,0
+59,18000,635,3,Bachelor,Group_A,0
+60,18000,587,0,Bachelor,Group_A,0
+33,79954,666,0,Bachelor,Group_B,1
+43,50300,649,10,Master,Group_B,0
+36,53768,654,15,Master,Group_B,0
+50,64224,733,3,Master,Group_B,1
+24,53413,686,6,High School,Group_B,1
+60,51744,732,11,High School,Group_A,1
+36,67101,786,5,High School,Group_A,0
+51,33080,816,19,Bachelor,Group_A,1
+45,80879,671,8,Bachelor,Group_A,1
+32,55855,715,7,Bachelor,Group_B,1
+46,41898,670,13,Bachelor,Group_A,0
+57,39476,746,14,Master,Group_B,1
+53,60768,733,20,Master,Group_B,1
+48,54486,637,4,High School,Group_B,0
+29,32121,647,14,Master,Group_B,1
+32,49167,770,5,Bachelor,Group_B,1
+25,45434,644,0,Bachelor,Group_A,0
+48,82713,673,19,Master,Group_A,1
+55,62348,724,8,High School,Group_B,1
+25,88248,669,3,Master,Group_A,1
+54,47220,780,1,Bachelor,Group_A,1
+54,54760,747,5,Master,Group_B,1
+33,66958,623,1,Master,Group_A,0
+59,70874,642,2,Bachelor,Group_B,1
+34,72978,718,6,High School,Group_B,1
+31,44019,677,19,High School,Group_B,1
+58,44526,554,16,Bachelor,Group_A,1
+24,53602,617,8,High School,Group_A,0
+53,86656,695,8,Master,Group_B,0
+27,41988,738,18,Bachelor,Group_A,0
+28,50515,739,4,Master,Group_B,1
+57,73137,808,5,Bachelor,Group_B,1
+30,72174,635,17,High School,Group_B,1
+35,69998,638,0,Bachelor,Group_A,0
+58,61455,678,16,Bachelor,Group_A,1
+35,40828,571,13,Bachelor,Group_B,0
+25,47566,680,14,Bachelor,Group_A,1
+49,80277,667,4,High School,Group_A,1
+39,73925,731,16,Bachelor,Group_B,1
+30,35970,742,20,Bachelor,Group_B,1
+32,75650,703,20,Master,Group_B,1
+24,83558,680,10,Master,Group_B,1
+51,60969,704,9,High School,Group_A,0
+38,67673,628,16,High School,Group_B,1
+36,78207,675,0,Bachelor,Group_B,1
+60,47477,681,4,Master,Group_A,1
+56,101933,675,15,Bachelor,Group_B,1
+45,82015,669,6,Bachelor,Group_B,1
+43,69433,640,11,High School,Group_B,0
+32,59379,613,7,Bachelor,Group_B,0
+54,68906,667,17,Bachelor,Group_B,1
+56,31915,719,0,Bachelor,Group_A,0
+57,97478,567,19,Bachelor,Group_A,0
+23,80320,648,11,Bachelor,Group_B,1
+29,86352,814,3,High School,Group_B,1
+38,60554,667,11,Bachelor,Group_B,0
+55,53515,690,0,Master,Group_B,1
+54,47862,800,0,Bachelor,Group_B,1
+34,74644,701,2,Master,Group_B,1
+24,50774,702,20,Bachelor,Group_B,1
+49,56628,621,11,Bachelor,Group_B,1
+35,69835,700,20,High School,Group_B,1
+48,48132,679,12,Bachelor,Group_B,0
+36,78791,740,12,Bachelor,Group_B,1
+32,59681,763,20,Bachelor,Group_A,1
+25,32854,682,8,Master,Group_A,0
+54,47940,705,17,Bachelor,Group_A,0
+21,83547,557,0,High School,Group_B,1
+59,43134,535,5,Master,Group_A,0
+52,76093,751,4,Bachelor,Group_A,1
+46,62190,518,3,Bachelor,Group_B,1
+37,56909,701,5,Bachelor,Group_A,0
+47,105227,669,2,Bachelor,Group_B,1
+44,36884,760,16,High School,Group_A,1
+55,46678,678,10,Bachelor,Group_A,1
+59,59578,797,3,Bachelor,Group_B,1
+46,103483,667,19,Bachelor,Group_A,0
+58,59620,755,0,High School,Group_A,1
+43,64937,583,3,High School,Group_B,0
+42,53955,530,2,High School,Group_B,0
+24,66455,678,9,Bachelor,Group_A,1
+29,55071,589,0,Master,Group_B,1
+24,72516,676,3,High School,Group_A,1
+27,73935,653,18,Bachelor,Group_A,1
+43,55786,719,0,Bachelor,Group_B,0
+22,39741,611,15,Master,Group_B,1
+44,61684,708,18,High School,Group_B,1
+60,85238,736,19,High School,Group_B,1
+51,45120,667,20,High School,Group_B,1
+51,66011,711,17,Master,Group_B,1
+60,38297,616,1,Bachelor,Group_A,1
+54,41283,655,5,High School,Group_B,0
+44,83407,593,20,Bachelor,Group_A,0
+46,72448,832,0,High School,Group_A,1
+36,66281,760,18,High School,Group_A,1
+33,18208,788,4,Master,Group_A,1
+35,50048,759,1,Bachelor,Group_B,1
+47,70923,637,0,Bachelor,Group_B,0
+24,33917,580,15,Bachelor,Group_B,1
+36,53630,652,20,Bachelor,Group_A,1
+50,73800,711,1,Bachelor,Group_A,0
+50,32800,661,3,Bachelor,Group_A,1
+56,29773,535,2,Bachelor,Group_A,0
+23,33111,729,16,High School,Group_B,1
+42,66021,576,14,Bachelor,Group_B,0
+42,49974,653,9,Master,Group_B,0
+32,75805,793,11,High School,Group_A,1
+41,62178,683,11,Master,Group_B,0
+24,93850,750,19,High School,Group_B,1
+51,37725,703,6,Bachelor,Group_B,1
+51,65972,614,9,Bachelor,Group_B,1
+43,45686,727,4,Bachelor,Group_A,0
+40,70804,676,19,High School,Group_A,1
+35,62159,583,19,Master,Group_A,1
+43,42124,573,10,Master,Group_B,1
+48,57171,705,1,High School,Group_A,1
+36,61316,819,15,Master,Group_A,1
+57,49212,610,11,Bachelor,Group_A,0
+41,73089,618,15,Master,Group_A,1
+35,41440,706,3,High School,Group_B,1
+37,97638,595,1,Master,Group_B,1
+57,77166,833,9,High School,Group_A,1
+33,66277,624,12,Master,Group_A,0
+39,111216,648,18,Bachelor,Group_A,0
+50,54433,628,14,Bachelor,Group_A,1
+38,71005,741,0,High School,Group_A,1
+34,64008,821,16,Master,Group_A,1
+56,74354,634,19,Bachelor,Group_A,1
+56,86930,736,3,Bachelor,Group_B,1
+40,69881,595,19,Bachelor,Group_B,1
+39,78752,742,8,Master,Group_A,1
+27,50093,794,5,Bachelor,Group_A,0
+24,56289,774,2,High School,Group_B,1
+54,89489,689,1,Master,Group_B,1
+22,70743,613,17,Bachelor,Group_B,1
+25,64470,680,18,Bachelor,Group_B,1
+30,46442,660,6,High School,Group_A,1
+52,77399,651,2,Master,Group_A,0
+33,45934,693,17,High School,Group_B,1
+59,40629,676,19,Bachelor,Group_A,1
+25,62069,726,19,Master,Group_B,1
+30,18000,726,18,High School,Group_B,1
+30,70999,676,8,Master,Group_B,1
+58,66785,708,15,Bachelor,Group_A,1
+47,53650,766,5,Bachelor,Group_B,0
+41,55282,645,20,Bachelor,Group_A,1
+28,57852,681,11,Bachelor,Group_B,1
+21,45796,613,5,Bachelor,Group_B,1
+48,63322,711,12,High School,Group_A,1
+59,55511,693,4,Master,Group_B,1
+34,62024,710,12,High School,Group_B,1
+41,57197,616,19,Master,Group_A,1
+50,53654,730,6,High School,Group_A,1
+41,65013,687,11,Bachelor,Group_A,0
+29,74060,747,20,Master,Group_A,1
+37,50554,652,3,High School,Group_A,1
+25,67119,724,4,Master,Group_B,1
+51,69350,709,15,Bachelor,Group_A,0
+60,36890,779,3,Bachelor,Group_A,1
+58,77578,672,7,Bachelor,Group_B,1
+39,97016,644,15,Bachelor,Group_A,1
+56,58414,648,7,Bachelor,Group_B,0
+53,56918,608,16,Bachelor,Group_A,1
+33,56166,647,13,Bachelor,Group_A,0
+34,71171,528,11,High School,Group_B,0
+53,69194,769,2,Master,Group_B,1
+49,31368,806,19,Master,Group_B,1
+56,44410,670,1,Bachelor,Group_B,0
+30,69132,708,12,Bachelor,Group_B,1
+51,57390,691,20,Bachelor,Group_A,1
+26,39010,595,10,Bachelor,Group_A,1
+21,87005,747,11,Bachelor,Group_B,1
+27,45605,756,17,Master,Group_B,1
+47,60644,612,8,High School,Group_B,0
+41,56913,701,6,Bachelor,Group_A,0
+48,40584,663,5,Master,Group_A,0
+36,63329,757,13,Bachelor,Group_B,1
+43,67058,675,17,Master,Group_A,0
+40,51582,676,13,Bachelor,Group_B,1
+58,53949,798,4,Bachelor,Group_B,1
+45,70809,596,19,Master,Group_A,0
+48,24448,696,12,Bachelor,Group_B,1
+25,44790,686,0,Bachelor,Group_B,0
+41,63842,641,11,High School,Group_A,0
+38,50519,813,18,Master,Group_B,1
+26,50261,702,9,Bachelor,Group_B,1
+49,76230,724,4,Bachelor,Group_B,1
+39,48600,733,19,Bachelor,Group_A,1
+53,95625,659,5,Bachelor,Group_B,1
+21,28419,761,11,High School,Group_A,1
+23,20184,748,20,Bachelor,Group_A,1
+41,75821,672,2,Bachelor,Group_B,1
+55,42289,741,13,High School,Group_A,1
+60,42593,761,20,Master,Group_A,0
+23,77725,732,3,Bachelor,Group_B,1
+45,51049,626,16,Bachelor,Group_B,0
+58,76387,674,16,Bachelor,Group_B,0
+40,49013,711,13,Bachelor,Group_B,1
+54,66526,696,14,Master,Group_A,0
+41,50794,632,6,High School,Group_A,0
+43,43443,661,3,Bachelor,Group_A,1
+26,91151,703,16,High School,Group_B,1
+33,80096,582,5,Master,Group_B,1
+43,46920,681,10,Bachelor,Group_B,0
+29,56789,725,11,Bachelor,Group_B,1
+37,86572,698,14,Bachelor,Group_A,1
+22,42212,624,11,Master,Group_A,1
+39,43186,636,10,Bachelor,Group_A,0
+39,68461,777,16,Master,Group_B,1
+27,100869,619,7,High School,Group_A,1
+40,60969,757,11,Bachelor,Group_B,0
+29,78897,640,8,Master,Group_A,1
+37,41686,753,10,Bachelor,Group_A,1
+47,66499,715,2,High School,Group_A,1
+22,53527,657,6,Master,Group_B,1
+56,93599,565,20,Bachelor,Group_B,1
+39,88776,706,2,High School,Group_A,1
+37,101030,692,20,Bachelor,Group_A,1
+25,47481,707,15,Bachelor,Group_B,0
+59,60639,715,9,Master,Group_A,1
+38,66753,595,6,Bachelor,Group_B,1
+27,48184,706,19,Bachelor,Group_B,1
+37,62359,728,14,Bachelor,Group_A,1
+59,76362,727,20,Bachelor,Group_A,1
+56,50093,599,20,Master,Group_B,0
+60,47340,755,9,Master,Group_A,1
+24,46146,708,11,Bachelor,Group_A,1
+58,35813,716,17,High School,Group_B,1
+45,75372,622,8,Master,Group_B,1
+25,47298,729,8,High School,Group_B,1
+50,45400,568,3,High School,Group_B,0
+32,69523,625,4,High School,Group_A,0
+24,59809,762,6,High School,Group_A,1
+44,50540,726,6,Master,Group_B,1
+49,74591,699,10,Bachelor,Group_B,1
+29,49822,741,9,Master,Group_A,1
+24,20815,746,10,High School,Group_B,1
+44,83998,729,17,Bachelor,Group_A,1
+34,45092,666,11,Master,Group_A,0
+25,47059,623,15,Master,Group_A,0
+38,47138,637,3,Bachelor,Group_A,1
+39,61073,772,16,High School,Group_A,1
+32,55064,597,16,Master,Group_A,1
+38,77785,712,20,Bachelor,Group_A,1
+37,89612,712,4,Bachelor,Group_B,0
+50,47774,775,12,Bachelor,Group_B,1
+44,43116,712,2,Bachelor,Group_B,1
+31,50606,652,16,Bachelor,Group_B,0
+55,67903,654,10,Bachelor,Group_A,1
+43,57906,680,0,High School,Group_A,1
+37,50993,754,17,Bachelor,Group_B,1
+21,36654,732,16,Bachelor,Group_A,1
+35,20240,609,8,Bachelor,Group_B,1
+52,41915,698,19,Bachelor,Group_A,0
+29,82759,734,6,High School,Group_B,1
+35,67848,665,4,Bachelor,Group_A,1
+48,56552,540,15,Master,Group_B,1
+44,73136,667,6,Bachelor,Group_B,0
+55,36818,583,12,Bachelor,Group_B,0
+42,61022,573,12,Bachelor,Group_A,0
+47,27846,749,14,High School,Group_B,1
+39,66228,844,16,Master,Group_B,1
+32,64671,769,16,Bachelor,Group_B,1
+40,65100,510,18,Master,Group_B,0
+21,81017,669,9,High School,Group_B,1
+41,73968,642,1,High School,Group_A,0
+21,38240,584,13,Bachelor,Group_B,1
+30,81289,710,2,Bachelor,Group_B,1
+52,56230,668,6,Master,Group_B,1
+59,24537,604,10,High School,Group_A,1
+42,58042,546,16,Bachelor,Group_A,1
+38,71648,640,14,High School,Group_B,0
+52,41751,681,18,Master,Group_B,1
+47,83991,672,10,Master,Group_A,1
+48,43380,749,14,Bachelor,Group_B,1
+38,51340,702,14,High School,Group_A,0
+59,48035,658,5,Bachelor,Group_A,0
+49,29238,627,14,High School,Group_A,1
+38,42124,565,8,High School,Group_A,0
+28,47187,609,4,Bachelor,Group_B,1
+51,57658,768,18,Master,Group_A,1
+54,18000,736,4,Master,Group_B,1
+27,72898,699,12,Bachelor,Group_B,1
+56,72720,648,17,Bachelor,Group_B,1
+38,81266,761,19,Master,Group_B,1
+58,33150,614,16,Bachelor,Group_A,1
+29,54729,615,14,Bachelor,Group_B,0
+29,76946,674,13,Master,Group_B,1
+28,78495,538,15,High School,Group_A,0
+55,86621,612,3,High School,Group_B,0
+38,61849,665,16,Bachelor,Group_B,0
+25,58992,650,19,High School,Group_B,1
+34,31957,616,13,Bachelor,Group_B,1
+48,79168,812,17,Bachelor,Group_B,1
+50,51714,769,5,Bachelor,Group_A,1
+24,60611,791,7,Master,Group_B,1
+59,59409,674,8,High School,Group_B,1
+40,18000,648,0,Bachelor,Group_A,0
+45,45394,784,12,High School,Group_A,0
+48,68170,686,2,Bachelor,Group_A,1
+32,59125,611,5,Bachelor,Group_B,0
+22,68313,616,16,Bachelor,Group_B,1
+34,74109,659,7,High School,Group_A,1
+42,45182,679,5,Bachelor,Group_B,0
+51,50727,685,15,Bachelor,Group_A,1
+43,57459,668,0,High School,Group_B,1
+40,73923,832,9,Bachelor,Group_B,1
+58,55786,592,17,Bachelor,Group_B,0
+24,27940,724,13,Master,Group_A,1
+35,56433,649,4,Master,Group_A,0
+44,73199,677,16,Bachelor,Group_A,0
+45,84426,741,13,Master,Group_A,1
+21,65050,564,17,Bachelor,Group_B,0
+27,33252,619,3,Master,Group_B,0
+51,52685,671,19,High School,Group_B,1
+32,68551,776,1,Bachelor,Group_B,1
+25,75592,776,6,Bachelor,Group_B,1
+58,69127,763,6,Bachelor,Group_B,1
+32,55471,537,6,High School,Group_B,0
+59,75453,612,12,Bachelor,Group_B,1
+38,48470,614,18,Bachelor,Group_A,1
+22,63324,676,5,Bachelor,Group_A,1
+30,73496,560,19,Bachelor,Group_A,0
+35,70379,751,16,Bachelor,Group_B,1
+50,70784,550,17,Master,Group_B,1
+37,70330,747,0,Bachelor,Group_A,0
+24,41124,737,12,Master,Group_B,0
+27,60316,609,18,Master,Group_B,0
+51,43634,762,15,Bachelor,Group_A,1
+59,54789,658,9,Bachelor,Group_A,1
+54,38961,641,12,High School,Group_B,0
+26,66209,653,9,Master,Group_B,0
+58,24627,658,13,High School,Group_B,0
+54,71111,664,8,Bachelor,Group_B,1
+35,60276,666,20,Bachelor,Group_B,1
+34,94239,622,10,Master,Group_B,1
+26,56317,637,2,Bachelor,Group_B,1
+57,56312,643,7,Master,Group_B,1
+52,72286,789,11,Bachelor,Group_A,1
+23,57363,643,2,Bachelor,Group_A,0
+23,64947,639,6,Bachelor,Group_A,0
+42,77899,779,13,Master,Group_B,1
+42,55185,659,6,Bachelor,Group_B,1
+30,81515,622,6,Master,Group_B,0
+23,29776,608,13,Master,Group_A,0
+32,88863,588,11,Master,Group_A,0
+49,27813,715,0,Bachelor,Group_A,0
+37,84339,563,4,Bachelor,Group_A,1
+27,26404,768,10,High School,Group_B,1
+33,95651,674,0,Master,Group_A,1
+22,62896,652,12,Master,Group_A,1
+24,42992,665,16,Bachelor,Group_B,1
+30,93572,710,2,Bachelor,Group_A,1
+59,40400,649,9,High School,Group_B,0
+44,55908,668,18,Master,Group_B,1
+37,106885,748,6,High School,Group_A,1
+26,67120,703,19,Master,Group_B,1
+39,23532,599,2,Bachelor,Group_B,1
+25,55081,634,11,Bachelor,Group_B,0
+52,53488,564,9,Master,Group_A,1
+30,63393,720,20,High School,Group_B,0
+29,59200,727,11,Bachelor,Group_A,1
+47,69825,619,14,Master,Group_A,0
+33,32495,830,5,Bachelor,Group_A,1
+39,50138,838,18,Master,Group_B,1
+41,65613,681,4,Master,Group_A,0
+44,46281,628,19,High School,Group_A,1
+58,79727,698,1,High School,Group_B,1
+24,46642,627,20,Bachelor,Group_A,0
+44,62580,742,18,Bachelor,Group_A,1
+55,58111,691,18,Bachelor,Group_A,0
+23,41736,695,3,Master,Group_A,1
+24,61089,794,19,High School,Group_A,1
+57,36385,640,4,Bachelor,Group_A,0
+60,52015,642,6,High School,Group_B,1
+55,60545,736,3,High School,Group_A,1
+51,34308,653,10,Bachelor,Group_A,1
+45,71223,784,2,Master,Group_B,1
+60,64687,745,4,High School,Group_A,1
+33,69576,656,19,Bachelor,Group_B,1
+24,60044,562,14,Bachelor,Group_A,0
+34,39288,586,20,High School,Group_A,1
+33,59999,649,17,Bachelor,Group_A,1
+47,71216,706,15,Master,Group_A,1
+26,38574,752,15,Bachelor,Group_A,1
+37,40005,666,9,High School,Group_A,0
+56,55570,622,0,Bachelor,Group_A,0
+60,53316,671,10,Bachelor,Group_A,1
+55,59709,681,16,High School,Group_A,1
+37,54749,765,14,High School,Group_A,0
+22,62880,761,6,High School,Group_A,0
+33,81993,615,5,High School,Group_B,0
+22,69691,710,14,Bachelor,Group_B,1
+48,61011,625,14,Bachelor,Group_A,0
+46,40079,626,6,Bachelor,Group_B,1
+42,47004,748,2,Master,Group_B,0
+23,75151,667,13,Bachelor,Group_A,1
+55,51567,722,8,Master,Group_B,0
+32,42580,715,2,Bachelor,Group_B,1
+44,97765,675,5,High School,Group_A,1
+25,87440,702,19,Bachelor,Group_A,1
+40,57760,693,8,Master,Group_B,1
+59,40512,605,0,High School,Group_B,0
+59,73020,712,8,High School,Group_A,1
+33,51179,634,11,Bachelor,Group_A,0
+32,75994,611,3,Bachelor,Group_A,1
+33,51197,736,15,Bachelor,Group_A,1
+30,89617,642,4,High School,Group_B,1
+53,50663,752,16,Bachelor,Group_A,0
+60,102565,751,16,Bachelor,Group_A,1
+36,63511,649,5,Bachelor,Group_B,1
+55,84918,749,14,Bachelor,Group_A,1
+23,50278,655,0,Bachelor,Group_A,0
+25,36396,676,12,Bachelor,Group_B,1
+46,18488,712,15,High School,Group_B,1
+31,82979,813,1,Bachelor,Group_B,1
+27,61224,741,18,High School,Group_B,1
+30,37544,676,1,Bachelor,Group_A,0
+54,83728,687,20,Bachelor,Group_A,0
+23,80808,577,11,High School,Group_B,0
+28,84883,745,11,Bachelor,Group_A,1
+51,35884,738,7,High School,Group_A,0
+31,82435,698,11,High School,Group_A,1
+27,66913,727,10,Bachelor,Group_A,1
+22,85697,548,1,Master,Group_A,0
+26,69769,610,0,Bachelor,Group_A,0
+52,63114,797,3,Bachelor,Group_A,1
+40,82680,663,8,Bachelor,Group_A,0
+54,75334,729,6,Bachelor,Group_B,1
+36,79472,631,9,Master,Group_B,1
+45,51215,651,19,Master,Group_B,0
+32,56897,801,13,Master,Group_B,0
+27,28791,670,0,Master,Group_A,0
+59,49918,714,4,High School,Group_A,0
+37,74227,688,12,Bachelor,Group_B,1
+31,70155,696,5,Master,Group_B,1
+26,42368,694,16,Bachelor,Group_B,1
+43,83082,551,14,Master,Group_A,1
+47,113515,711,6,High School,Group_A,1
+26,43751,645,7,Bachelor,Group_A,1
+58,56294,796,20,Master,Group_A,1
+22,48811,630,1,Bachelor,Group_B,0
+42,58292,649,17,Bachelor,Group_B,1
+40,64930,839,20,High School,Group_A,1
+45,47448,727,6,Bachelor,Group_B,0
+35,55015,616,19,Master,Group_B,1
+49,61570,691,15,Bachelor,Group_A,0
+28,68489,601,18,High School,Group_A,0
+57,86397,697,8,High School,Group_A,1
+53,59739,628,11,Master,Group_A,1
+42,49887,801,13,Bachelor,Group_A,1
+25,72534,707,6,High School,Group_A,0
+59,67203,714,1,High School,Group_A,0
+38,56529,742,16,Master,Group_A,1
+58,68730,749,10,Master,Group_B,1
+57,53103,635,17,High School,Group_A,1
+50,50453,686,11,Bachelor,Group_B,1
+51,25812,651,2,Master,Group_A,1
+30,54097,816,20,Bachelor,Group_B,1
+35,28275,531,13,Master,Group_A,0
+38,48491,643,14,Bachelor,Group_A,0
+43,70431,675,18,Bachelor,Group_B,1
+53,32907,689,9,Bachelor,Group_B,0
+36,56583,688,8,Master,Group_B,1
+58,61179,677,9,Bachelor,Group_A,1
+55,55705,669,19,High School,Group_A,1
+54,51336,696,3,Bachelor,Group_B,1
+48,65857,710,18,Master,Group_B,1
+22,68354,796,9,Bachelor,Group_B,1
+50,60027,796,16,Bachelor,Group_B,1
+33,52336,700,11,Bachelor,Group_A,1
+36,75565,648,0,High School,Group_B,0
+25,36407,652,10,High School,Group_A,1
+48,72373,595,12,Bachelor,Group_A,1
+59,67554,742,0,Bachelor,Group_A,1
+40,63582,677,0,Bachelor,Group_B,0
+44,59822,708,20,Master,Group_A,1
+47,25981,702,15,Master,Group_A,0
+50,84972,635,6,Bachelor,Group_B,1
+47,75096,627,9,Bachelor,Group_A,0
+46,42695,651,15,High School,Group_B,1
+27,73659,712,0,High School,Group_A,0
+58,63399,675,8,High School,Group_A,1
+25,49506,565,5,Bachelor,Group_B,1
+43,81452,613,14,High School,Group_A,1
+48,52245,663,3,Bachelor,Group_A,1
+54,84410,678,14,Bachelor,Group_A,0
+35,69617,714,9,Bachelor,Group_A,0
+52,77218,683,15,Bachelor,Group_B,0
+46,70424,656,12,Bachelor,Group_A,1
+51,69589,654,18,High School,Group_B,1
+39,63874,693,19,High School,Group_A,1
+29,46917,707,3,High School,Group_B,0
+49,61125,659,19,High School,Group_B,1
+59,76495,610,15,Bachelor,Group_B,1
+24,72947,674,10,Master,Group_A,0
+23,69023,638,14,Bachelor,Group_A,1
+49,22276,699,10,Bachelor,Group_A,0
+31,56162,776,10,Master,Group_B,1
+53,54271,592,2,High School,Group_B,1
+58,40141,755,16,High School,Group_B,1
+31,76268,710,4,Bachelor,Group_A,0
+47,23544,752,12,Bachelor,Group_B,1
+53,75059,652,9,Bachelor,Group_B,0
+41,83926,586,4,Bachelor,Group_A,0
+59,56223,692,11,High School,Group_A,0
+51,58662,771,7,Bachelor,Group_B,1
+58,77416,611,11,High School,Group_B,0
+22,46254,621,15,Master,Group_B,0
+47,71894,718,1,Master,Group_A,1
+56,43479,647,2,Bachelor,Group_B,1
+31,38086,788,17,High School,Group_A,1
+38,65328,722,16,Bachelor,Group_A,0
+21,59520,633,1,High School,Group_A,1
+55,29022,643,11,Bachelor,Group_B,0
+55,85476,646,16,Bachelor,Group_B,1
+51,52535,677,5,Master,Group_B,0
+48,69192,700,16,Bachelor,Group_A,1
+59,88893,695,1,High School,Group_B,1
+21,64457,607,7,High School,Group_A,0
+45,82919,739,13,High School,Group_B,1
+58,44465,661,5,High School,Group_A,0
+40,85578,620,8,Master,Group_A,1
+23,45134,650,0,High School,Group_A,0
+22,49719,746,4,Master,Group_A,1
+38,33816,692,6,Bachelor,Group_B,0
+30,64832,698,8,Bachelor,Group_B,1
+25,71357,604,13,Bachelor,Group_A,0
+29,73803,689,8,Bachelor,Group_B,0
+22,34231,745,3,Bachelor,Group_A,1
+54,66750,563,19,Bachelor,Group_B,1
+58,67416,655,14,Bachelor,Group_B,0
+51,71066,721,3,Master,Group_B,1
+30,46091,690,2,Bachelor,Group_A,1
+32,18000,614,20,Bachelor,Group_B,0
+56,72717,706,13,Bachelor,Group_B,1
+41,57375,604,8,High School,Group_A,0
+26,65044,624,18,High School,Group_A,0
+23,58297,630,5,High School,Group_B,1
+30,64221,780,2,Bachelor,Group_B,1
+25,73268,571,17,Bachelor,Group_B,1
+46,26574,576,15,Master,Group_B,0
+41,80538,698,2,Bachelor,Group_B,1
+46,56721,687,1,High School,Group_A,1
+58,89287,649,1,Bachelor,Group_A,0
+46,51730,681,9,Bachelor,Group_A,0
+28,47731,611,14,Bachelor,Group_B,0
+25,57330,686,2,Bachelor,Group_A,0
+35,69000,694,7,Bachelor,Group_B,1
+36,55062,759,17,High School,Group_B,1
+21,70305,804,10,Bachelor,Group_B,1
+36,53032,663,6,Bachelor,Group_A,1
+57,60628,597,18,Bachelor,Group_B,0
+23,100258,705,6,High School,Group_A,0
+51,66431,671,1,Master,Group_B,1
+33,67875,668,5,Bachelor,Group_A,1
+36,33494,575,4,Bachelor,Group_A,0
+41,84377,686,13,Master,Group_B,1
+22,79196,707,17,Master,Group_A,1
+47,47140,745,3,Bachelor,Group_A,0
+58,78841,647,3,High School,Group_B,0
+46,65936,626,12,Master,Group_B,0
+58,60835,647,20,Bachelor,Group_B,0
+45,83237,741,0,Bachelor,Group_B,0
+31,50779,770,19,Master,Group_B,1
+28,46998,753,4,High School,Group_A,0
+28,63736,722,2,High School,Group_A,1
+53,69508,678,20,Bachelor,Group_A,1
+27,77394,688,18,Master,Group_B,0
+58,57283,698,12,Bachelor,Group_B,0
+41,44704,664,6,Bachelor,Group_A,0
+28,105514,738,9,Bachelor,Group_A,1
+41,40441,573,2,Bachelor,Group_B,0
+40,60992,585,1,Master,Group_A,0
+28,74035,572,6,High School,Group_B,0
+51,80720,628,8,Bachelor,Group_B,1
+49,49791,768,20,Master,Group_B,1
+29,26251,603,11,Bachelor,Group_A,0
+35,49375,605,9,Bachelor,Group_B,1
+50,75504,626,18,High School,Group_B,1
+46,71475,752,12,Master,Group_B,1
+30,72062,773,9,Bachelor,Group_B,1
+49,72810,746,4,Bachelor,Group_B,1
+36,84122,750,14,Bachelor,Group_B,1
+56,46034,787,20,Bachelor,Group_A,1
+40,38438,563,2,Bachelor,Group_B,0
+57,66669,600,7,Master,Group_B,0
+42,41127,634,5,Bachelor,Group_A,0
+27,37304,687,18,Bachelor,Group_B,0
+43,82031,687,16,Bachelor,Group_B,1
+60,64506,688,9,Bachelor,Group_B,0
+49,60513,734,0,High School,Group_A,1
+36,60887,555,12,Master,Group_A,0
+58,58089,671,9,Bachelor,Group_B,1
+48,81910,697,11,Bachelor,Group_B,0
+58,32737,659,1,High School,Group_A,0
+51,31992,692,9,Master,Group_B,0
+34,43145,746,20,Bachelor,Group_B,1
+53,65205,684,0,Master,Group_B,1
+29,92496,819,0,Master,Group_B,1
+47,75644,742,19,Master,Group_A,1
+44,70664,697,14,Master,Group_A,1
+33,58562,713,0,High School,Group_A,1
+46,36014,728,20,Master,Group_B,1
+49,69270,790,8,High School,Group_A,1
+48,96467,756,6,Master,Group_A,1
+48,55679,713,15,Bachelor,Group_A,1
+28,49908,633,15,Bachelor,Group_B,0
+43,55766,707,12,High School,Group_B,1
+49,70796,718,9,Master,Group_A,0
+25,62011,731,17,High School,Group_A,1
+27,76380,632,8,Bachelor,Group_B,0
+56,59398,728,11,Master,Group_A,1
+47,55662,732,12,Bachelor,Group_A,1
+22,64122,601,10,High School,Group_A,0
+45,50286,602,14,Bachelor,Group_A,0
+29,91334,753,9,High School,Group_A,1
+47,74816,624,9,Bachelor,Group_A,1
+21,40205,780,8,Master,Group_A,1
+43,46576,662,2,Bachelor,Group_B,0
+30,70176,705,15,High School,Group_A,1
+45,63300,702,11,Bachelor,Group_B,1
+23,65445,634,16,Master,Group_B,0
+26,56542,770,14,High School,Group_A,1
+26,68193,662,2,Bachelor,Group_B,1
+22,56965,684,4,Bachelor,Group_A,1
+38,70141,551,12,Master,Group_B,0
+43,73915,593,5,Master,Group_A,1
+22,88921,753,8,Bachelor,Group_A,1
+32,50735,680,18,Bachelor,Group_A,1
+42,59800,642,6,Bachelor,Group_B,0
+57,38058,643,12,Bachelor,Group_B,1
+40,92873,716,4,Bachelor,Group_B,1
+59,24441,762,15,Bachelor,Group_A,1
+44,90292,643,3,High School,Group_B,1
+40,61682,751,4,Master,Group_A,1
+21,67532,670,19,High School,Group_B,1
+21,57018,713,18,High School,Group_A,1
+37,60560,565,5,Bachelor,Group_A,0
+21,70586,576,3,High School,Group_A,0
+50,30540,733,0,Bachelor,Group_A,0
+23,48262,698,16,Bachelor,Group_B,0
+31,44789,706,8,Bachelor,Group_A,1
+44,68053,610,15,Master,Group_B,0
+42,60079,653,1,Master,Group_A,0
+46,71126,571,10,High School,Group_B,1
+33,62966,625,4,Master,Group_A,1
+21,79055,679,12,Bachelor,Group_A,0
+44,46675,701,19,Bachelor,Group_B,1
+30,61047,634,16,Bachelor,Group_A,0
+55,79969,716,14,Bachelor,Group_A,1
+44,76368,678,11,Master,Group_B,1
+48,33366,665,5,Bachelor,Group_B,0
+56,41620,685,19,Bachelor,Group_A,0
+36,58528,816,12,High School,Group_A,1
+60,55773,670,17,Master,Group_B,1
+36,58822,742,14,Master,Group_A,1
+37,74331,716,14,Bachelor,Group_A,0
+35,65209,664,7,Bachelor,Group_A,0
+36,66258,579,18,Bachelor,Group_B,0
+35,72071,639,13,Bachelor,Group_B,1
+54,79335,685,6,Bachelor,Group_A,1
+31,18000,673,13,Bachelor,Group_A,0
+21,53041,764,4,High School,Group_A,1
+35,44107,632,14,Bachelor,Group_B,1
+46,68556,670,20,Bachelor,Group_A,1
+24,51682,715,14,Bachelor,Group_A,1
+25,61366,662,3,Master,Group_B,0
+55,75339,743,0,High School,Group_A,1
+33,49146,609,16,Bachelor,Group_B,1
+30,66531,581,19,High School,Group_A,1
+31,87969,661,0,High School,Group_A,1
+38,74969,675,15,Bachelor,Group_A,1
+54,31456,694,12,Master,Group_B,1
+59,54749,689,17,Bachelor,Group_B,1
+43,66405,653,9,Bachelor,Group_B,1
+27,69950,582,17,High School,Group_A,0
+59,55458,672,16,Bachelor,Group_B,0
+23,48484,612,8,Master,Group_A,0
+32,61220,685,13,Bachelor,Group_A,1
+27,40436,608,20,Master,Group_B,0
+46,79795,705,12,Master,Group_A,1
+53,93636,788,19,Bachelor,Group_A,1
+57,67104,633,19,Bachelor,Group_A,0
+35,55816,598,13,Bachelor,Group_A,0
+22,76936,754,10,Master,Group_A,1
+27,73895,795,12,High School,Group_B,1
+52,55040,599,16,Bachelor,Group_A,0
+24,59139,674,2,Bachelor,Group_B,1
+40,49028,712,0,Bachelor,Group_B,1
+56,62964,663,20,Master,Group_A,0
+52,65380,566,4,Bachelor,Group_A,0
+48,45958,591,12,Bachelor,Group_A,0
+33,40656,598,4,Bachelor,Group_B,0
+21,36132,612,4,High School,Group_A,0
+55,67498,686,11,High School,Group_B,1
+50,59793,751,1,Bachelor,Group_A,0
+56,58496,592,15,Bachelor,Group_B,1
+45,68361,629,16,Bachelor,Group_A,1
+36,43783,608,4,High School,Group_A,0
+39,40735,699,11,Bachelor,Group_B,0
+21,64339,627,14,Master,Group_B,1
+25,28884,614,5,Master,Group_A,0
+42,55338,576,12,High School,Group_B,0
+44,104396,768,10,Bachelor,Group_A,1
+57,35726,822,16,Master,Group_B,1
+56,52265,685,8,Bachelor,Group_B,0
+56,21788,777,15,Master,Group_A,1
+24,55793,643,16,Master,Group_A,1
+56,95398,680,19,High School,Group_A,1
+38,68405,722,17,Bachelor,Group_B,1
+36,48952,631,12,High School,Group_B,1
+38,99265,670,10,High School,Group_A,1
+42,28638,662,12,Master,Group_A,1
+22,68171,708,12,Master,Group_B,1
+41,61168,684,11,High School,Group_B,0
+56,55554,633,13,Bachelor,Group_B,0
+59,74528,660,12,Bachelor,Group_A,0
+59,38724,752,8,Bachelor,Group_A,1
+49,65627,716,13,Bachelor,Group_A,1
+46,63342,710,0,Master,Group_B,0
+41,44322,827,8,High School,Group_A,1
+37,95100,606,3,High School,Group_B,1
+36,56727,726,11,High School,Group_A,1
+51,57504,684,13,Bachelor,Group_B,0
+29,41502,702,8,Bachelor,Group_B,1
+51,57060,692,2,Bachelor,Group_B,0
+34,102026,634,5,Bachelor,Group_A,1
+57,55451,613,2,Master,Group_A,0
+22,69337,680,0,Bachelor,Group_A,0
+34,77110,629,20,Bachelor,Group_B,1
+53,56735,656,2,Master,Group_B,0
+55,52627,732,13,Master,Group_B,0
+59,68501,600,19,High School,Group_B,0
+40,55657,668,1,Bachelor,Group_B,1
+22,54027,749,11,Master,Group_A,1
+39,76918,647,9,High School,Group_B,1
+57,58750,776,12,Bachelor,Group_A,1
+38,81838,579,19,Bachelor,Group_A,1
+36,58345,798,3,High School,Group_B,1
+24,36290,681,18,High School,Group_A,1
+32,18000,594,0,Bachelor,Group_A,0
+49,26913,734,10,Master,Group_B,0
+27,30013,708,15,Master,Group_A,1
+34,64798,770,18,Master,Group_B,1
+32,42516,580,18,High School,Group_A,1
+55,24466,609,11,High School,Group_A,1
+25,57644,730,2,Master,Group_A,0
+37,40527,846,17,Bachelor,Group_A,1
+52,68336,717,16,Bachelor,Group_B,1
+30,67889,727,4,High School,Group_A,1
+37,69794,631,15,Bachelor,Group_B,0
+25,18000,668,13,Bachelor,Group_A,1
+29,60817,640,18,High School,Group_B,1
+53,57815,713,5,Master,Group_B,1
+56,38010,740,2,High School,Group_B,0
+56,21526,692,5,Master,Group_A,1
+38,58044,732,11,Master,Group_A,1
+29,79154,678,19,Bachelor,Group_A,1
+49,18000,766,10,Bachelor,Group_B,0
+34,45015,624,6,Bachelor,Group_A,1
+45,62368,772,0,High School,Group_A,0
+35,80249,633,15,Bachelor,Group_B,1
+26,54377,681,15,Bachelor,Group_A,1
+49,94758,602,16,Bachelor,Group_B,1
+35,27684,713,14,Bachelor,Group_A,0
+49,23695,689,20,Bachelor,Group_A,1
+24,78319,728,8,Bachelor,Group_B,1
+38,18000,567,4,Bachelor,Group_A,1
+59,68308,689,19,Bachelor,Group_B,1
+36,54698,706,7,Bachelor,Group_A,0
+31,43782,616,20,Master,Group_A,1
+34,52320,715,0,Bachelor,Group_B,1
+23,36797,531,6,Bachelor,Group_B,0
+58,54270,672,10,Bachelor,Group_B,0
+38,60314,772,19,Bachelor,Group_A,1
+40,52508,671,20,Bachelor,Group_B,0
+45,49471,633,12,High School,Group_A,1
+58,64574,676,12,Master,Group_A,1
+33,89872,686,6,High School,Group_B,1
+24,55208,738,10,Bachelor,Group_A,0
+34,74760,688,17,High School,Group_B,1
+53,42609,730,0,High School,Group_A,1
+48,35987,686,11,Master,Group_A,0
+57,68160,631,2,Bachelor,Group_B,0
+28,55796,589,0,Master,Group_B,0
+54,80331,704,3,Bachelor,Group_B,1
+25,83858,519,5,Bachelor,Group_B,0
+25,75104,565,4,Bachelor,Group_B,0
+51,74712,589,10,Bachelor,Group_B,1
+29,18000,726,19,Master,Group_B,1
+52,68001,583,12,Bachelor,Group_A,0
+53,75532,711,10,Bachelor,Group_A,0
+23,37108,613,5,Master,Group_A,0
+50,60158,670,18,High School,Group_B,0
+32,41231,676,14,Bachelor,Group_B,1
+49,78495,670,20,Bachelor,Group_A,1
+23,42792,638,12,High School,Group_B,0
+46,45728,578,9,Bachelor,Group_B,0
+50,51647,682,0,High School,Group_A,1
+29,100489,716,12,Master,Group_B,1
+46,78084,724,5,Bachelor,Group_B,1
+22,89027,685,20,Master,Group_A,1
+23,27364,697,19,Bachelor,Group_B,1
+24,37153,630,11,Bachelor,Group_A,0
+45,84094,709,16,Bachelor,Group_B,1
+33,28317,707,17,Master,Group_B,1
+59,47910,661,7,High School,Group_B,0
+55,96996,683,13,Bachelor,Group_A,1
+43,42658,678,4,Bachelor,Group_B,0
+29,27222,710,1,Master,Group_B,1
+22,60855,580,10,Master,Group_A,0
+51,27965,578,2,Bachelor,Group_B,0
+22,82271,582,15,High School,Group_A,0
+52,43893,651,20,High School,Group_B,1
+38,40286,710,15,Master,Group_A,1
+33,60529,534,8,Bachelor,Group_A,0
+25,52720,686,12,High School,Group_A,0
+30,64542,758,9,Master,Group_B,1
+45,69387,698,16,High School,Group_A,1
+54,56089,549,20,Bachelor,Group_B,0
+57,39094,714,16,Bachelor,Group_A,0
+50,73149,696,9,High School,Group_A,1
+27,47519,658,7,Bachelor,Group_B,0
+26,44356,692,6,High School,Group_B,0
+23,62568,589,13,Bachelor,Group_A,0
+33,25284,683,17,Bachelor,Group_B,1
+23,67036,711,20,High School,Group_B,1
+46,63524,635,18,Master,Group_B,0
+44,80193,649,17,Bachelor,Group_A,1
+26,50993,643,13,Bachelor,Group_A,0
+32,83847,649,9,High School,Group_B,1
+56,69534,626,0,High School,Group_A,1
+22,59518,630,8,Master,Group_B,0
+31,92701,714,17,Bachelor,Group_B,1
+59,61714,567,12,Bachelor,Group_B,0
+54,50669,692,16,Master,Group_B,1
+46,62229,713,15,Bachelor,Group_B,1
+38,50299,592,10,Bachelor,Group_A,0
+41,66726,675,8,Master,Group_B,0
+56,83772,620,6,Bachelor,Group_A,1
+60,59856,754,0,High School,Group_A,1
+42,61623,667,8,Bachelor,Group_B,0
+50,74361,776,9,Master,Group_B,1
+50,81370,766,15,Bachelor,Group_B,1
+28,51853,700,20,Bachelor,Group_B,0
+54,63102,819,17,Master,Group_A,1
+29,74441,578,13,Bachelor,Group_A,1
+40,65939,774,10,High School,Group_B,1
+60,26482,663,3,High School,Group_A,1
+45,77689,672,18,Bachelor,Group_A,1
+39,69412,650,12,Bachelor,Group_A,1
+25,70691,586,0,Master,Group_A,0
+31,38541,717,20,Bachelor,Group_A,1
+35,62743,599,18,Bachelor,Group_A,0
+28,75180,642,14,Bachelor,Group_A,1
+39,44150,644,19,Bachelor,Group_A,1
+43,48830,745,14,Bachelor,Group_B,1
+47,75489,675,10,High School,Group_A,1
+60,47992,521,4,Bachelor,Group_A,0
+52,56247,622,9,Master,Group_B,1
+46,41377,578,17,Bachelor,Group_A,1
+47,92759,713,6,Bachelor,Group_B,1
+39,69371,603,0,High School,Group_B,0
+49,55403,641,2,Master,Group_A,1
+59,52037,794,0,Master,Group_A,1
+53,37889,721,16,Bachelor,Group_B,1
+39,58018,604,14,Bachelor,Group_B,1
+57,71971,734,4,Bachelor,Group_A,1
+39,45423,633,15,Bachelor,Group_B,1
+53,61900,733,11,Master,Group_A,0
+36,53387,653,18,High School,Group_B,0
+43,84842,618,13,Bachelor,Group_A,1
+27,48539,612,2,High School,Group_B,0
+46,73989,699,18,Bachelor,Group_B,0
+52,85092,739,0,Bachelor,Group_B,1
+32,53212,704,20,High School,Group_B,1
+28,49406,652,0,Bachelor,Group_A,0
+25,76609,563,9,Bachelor,Group_A,0
+48,27938,638,2,Bachelor,Group_A,0
+25,67751,599,12,High School,Group_A,0
+46,31644,769,5,Bachelor,Group_B,1
+25,82003,654,10,Bachelor,Group_A,0
+42,55462,700,5,Master,Group_A,1
+35,58366,658,2,Master,Group_B,1
+33,46964,708,15,Bachelor,Group_B,1
+48,31511,727,8,High School,Group_B,0
+53,82785,831,7,Bachelor,Group_B,1
+43,56921,650,2,Bachelor,Group_A,1
+53,117758,748,4,High School,Group_A,1
+38,45417,698,20,High School,Group_B,1
+50,48360,642,13,Bachelor,Group_B,0
+46,43850,647,4,Master,Group_A,1
+36,56829,711,18,Master,Group_B,1
+33,88354,661,4,High School,Group_A,1
+59,78182,687,20,Bachelor,Group_A,1
+53,32918,723,19,High School,Group_B,1
+46,81674,842,19,Bachelor,Group_B,1
+21,72290,682,1,Master,Group_B,1
+58,68665,607,6,Master,Group_A,0
+22,47684,706,0,Bachelor,Group_B,0
+26,49022,649,20,High School,Group_A,1
+58,62467,803,17,Bachelor,Group_A,1
+44,50043,648,9,Master,Group_B,0
+38,83627,681,5,High School,Group_B,1
+47,49273,720,6,Bachelor,Group_B,1
+28,24958,712,11,Bachelor,Group_B,1
+48,36574,770,17,Bachelor,Group_B,1
+30,37717,723,10,Master,Group_B,1
+37,55260,832,18,Bachelor,Group_A,0
+49,63889,709,3,Bachelor,Group_A,1
+26,60968,764,18,Bachelor,Group_A,1
+34,68296,649,12,Master,Group_A,1
+42,55459,808,18,Master,Group_B,1
+26,56096,657,1,Master,Group_A,0
+46,91533,777,8,High School,Group_A,1
+59,81696,738,7,Master,Group_A,1
+32,67349,684,20,Bachelor,Group_B,1
+55,76500,777,13,High School,Group_A,1
+34,25328,679,8,High School,Group_B,1
+42,45194,769,12,Bachelor,Group_A,1
+43,52220,705,17,Bachelor,Group_A,1
+27,45406,655,5,Master,Group_B,0
+60,32177,701,2,Bachelor,Group_B,1
+45,67570,682,9,High School,Group_A,1
+33,84943,651,9,Bachelor,Group_B,1
+41,59769,695,9,High School,Group_B,1
+30,71667,706,8,Bachelor,Group_A,1
+29,59234,520,11,Bachelor,Group_B,0
+35,52051,713,7,Master,Group_B,0
+22,76546,728,8,Bachelor,Group_B,0
+45,34293,774,16,Master,Group_B,1
+33,26459,600,7,Master,Group_B,0
+54,34039,614,17,Bachelor,Group_B,1
+54,75365,694,19,Bachelor,Group_B,0
+55,61570,634,16,Bachelor,Group_B,1
+58,66778,603,5,High School,Group_B,1
+23,90185,653,9,Master,Group_B,1
+26,39060,657,0,Master,Group_B,1
+39,81675,614,20,High School,Group_A,1
+23,52866,614,0,Master,Group_B,1
+38,50130,672,8,High School,Group_B,1
+59,61462,586,19,Master,Group_A,0
+29,64279,585,2,Bachelor,Group_B,0
+32,56210,685,5,Master,Group_A,1
+25,70986,778,6,Bachelor,Group_A,1
+23,61534,728,8,Bachelor,Group_B,1
+31,56412,759,4,High School,Group_A,1
+50,52507,563,15,Bachelor,Group_B,0
+24,64290,588,1,High School,Group_B,1
+25,35580,681,2,Master,Group_B,0
+21,40660,734,2,Bachelor,Group_A,1
+47,53386,721,19,Bachelor,Group_A,1
+48,69808,593,9,Master,Group_B,0
+49,98571,754,2,Master,Group_B,1
+38,57132,675,14,High School,Group_B,0
+32,28064,731,13,Master,Group_A,0
+33,45776,641,3,High School,Group_B,1
+22,71860,580,9,Bachelor,Group_B,1
+57,42535,735,10,Bachelor,Group_B,0
+36,36497,711,10,High School,Group_A,0
+44,71766,599,7,High School,Group_B,1
+55,68368,637,8,Bachelor,Group_B,1
+42,33494,725,7,Bachelor,Group_B,1
+56,43890,693,11,Master,Group_A,1
+31,82404,713,16,Bachelor,Group_B,1
+49,75351,646,14,Master,Group_B,1
+55,38447,773,18,Bachelor,Group_A,1
+35,24200,673,19,Master,Group_B,1
+51,64833,526,5,Bachelor,Group_B,1
+36,54671,687,4,Master,Group_A,0
+30,63271,719,7,High School,Group_A,0
+52,71424,699,17,Bachelor,Group_B,1
+22,42787,652,20,High School,Group_A,1
+44,52221,553,20,Bachelor,Group_B,0
+43,43817,638,14,Bachelor,Group_A,1
+22,44462,644,2,Bachelor,Group_B,1
+58,70166,637,13,High School,Group_A,1
+51,62593,720,14,Bachelor,Group_B,1
+60,31867,658,12,Bachelor,Group_B,1
+46,73052,770,20,High School,Group_B,1
+49,53699,665,19,Bachelor,Group_B,1
+23,73881,759,20,Bachelor,Group_A,1
+34,41735,694,8,High School,Group_B,1
+45,43338,697,16,Master,Group_A,1
+21,64531,636,18,Bachelor,Group_A,1
+23,40264,592,3,Master,Group_A,0
+46,55052,675,19,High School,Group_A,0
+38,38219,790,9,Master,Group_B,1
+29,52955,650,2,High School,Group_B,1
+58,59427,640,18,Bachelor,Group_A,0
+43,60275,669,8,High School,Group_A,1
+41,53435,795,4,Master,Group_B,1
+21,66000,731,13,Bachelor,Group_A,1
+41,62660,759,6,High School,Group_A,1
+47,58391,551,20,High School,Group_A,1
+26,48735,626,5,Bachelor,Group_B,0
+56,79228,629,7,High School,Group_B,0
+48,66953,754,1,Bachelor,Group_A,1
+37,41350,723,13,Bachelor,Group_A,0
+60,71680,749,6,Master,Group_B,0
+23,75759,558,2,Master,Group_B,1
+32,58532,752,19,Bachelor,Group_A,1
+59,59728,723,5,High School,Group_B,1
+32,22940,620,20,Bachelor,Group_A,1
+22,44818,667,13,Bachelor,Group_A,1
+42,75186,622,11,Bachelor,Group_B,0
+43,45913,674,17,Bachelor,Group_A,1
+50,57123,709,11,Master,Group_B,1
+25,44545,771,6,Master,Group_A,0
+29,64155,619,4,High School,Group_A,0
+41,67087,650,11,Bachelor,Group_B,1
+31,67569,608,8,Master,Group_A,1
+25,39492,730,10,Master,Group_B,1
+55,61921,578,3,Bachelor,Group_A,0
+47,88378,692,13,Bachelor,Group_A,1
+22,73473,600,11,Bachelor,Group_A,0
+44,61680,683,17,Bachelor,Group_B,1
+51,25242,755,6,High School,Group_A,1
+53,55512,647,0,Master,Group_B,1
+59,89635,694,12,Bachelor,Group_A,1
+50,83735,622,15,High School,Group_B,1
+57,68306,673,4,Bachelor,Group_A,1
+48,47052,579,18,Bachelor,Group_B,0
+51,60941,726,8,Master,Group_B,1
+31,73923,653,8,High School,Group_B,1
+43,76930,666,11,Master,Group_B,1
+22,65627,684,17,High School,Group_B,1
+60,75391,552,9,Bachelor,Group_B,0
+47,58944,635,16,Bachelor,Group_A,0
+55,58148,689,18,Bachelor,Group_A,0
+22,51740,670,10,Bachelor,Group_B,1
+59,67642,822,15,Master,Group_B,1
+57,78006,762,7,Bachelor,Group_B,0
+41,72752,689,14,Bachelor,Group_A,1
+25,38075,614,10,High School,Group_A,1
+41,39039,648,6,High School,Group_A,0
+49,79866,723,1,High School,Group_B,0
+40,63178,685,18,Master,Group_A,1
+58,63882,763,8,Master,Group_A,1
+40,63476,684,17,Master,Group_A,0
+45,91530,688,12,High School,Group_A,0
+22,51967,786,0,Bachelor,Group_B,1
+52,80099,609,18,High School,Group_A,0
+46,64205,793,12,Master,Group_B,1
+26,31191,730,13,Bachelor,Group_A,1
+23,45153,850,16,High School,Group_A,1
+53,49073,634,19,Bachelor,Group_A,1
+21,79676,786,0,Bachelor,Group_A,1
+25,82091,689,4,Bachelor,Group_A,1
+33,66369,668,19,Bachelor,Group_A,1
+39,50590,700,13,Bachelor,Group_B,1
+32,43602,688,17,Master,Group_A,1
+45,80476,629,12,Bachelor,Group_B,0
+55,36878,671,11,Bachelor,Group_B,1
+32,58130,700,14,Master,Group_B,0
+50,102560,652,3,Bachelor,Group_A,1
+25,50644,715,8,High School,Group_A,1
+54,37109,661,2,Master,Group_A,0
+42,28222,710,10,High School,Group_A,0
+59,103272,702,14,High School,Group_B,1
+33,66275,709,15,High School,Group_A,1
+23,44357,592,6,High School,Group_A,0
+40,56596,751,6,High School,Group_B,0
+51,48067,624,8,High School,Group_B,0
+25,26456,668,16,Bachelor,Group_B,0
+44,74186,638,12,Bachelor,Group_A,1
+60,60609,685,8,High School,Group_A,1
+53,72690,673,8,Bachelor,Group_B,1
+28,60118,722,19,High School,Group_A,1
+44,62362,683,11,High School,Group_A,1
+40,19773,655,20,Bachelor,Group_A,0
+36,76341,563,18,Bachelor,Group_A,1
+32,40410,737,14,Bachelor,Group_A,1
+33,45022,714,17,Bachelor,Group_A,1
+59,50498,740,7,Bachelor,Group_B,1
+45,22944,668,5,Bachelor,Group_B,0
+52,49514,703,5,Master,Group_B,0
+44,48261,638,2,Bachelor,Group_A,0
+29,53199,632,2,Bachelor,Group_A,1
+60,29379,662,1,High School,Group_A,0
+43,76699,740,4,Master,Group_B,1
+33,67165,662,19,High School,Group_B,1
+52,44447,676,11,Bachelor,Group_A,1
+35,49532,696,5,Bachelor,Group_B,1
+56,75087,682,15,Bachelor,Group_A,1
+25,55365,746,4,Master,Group_B,1
+42,37670,631,5,Master,Group_B,1
+36,58495,686,3,High School,Group_B,1
+30,40419,711,13,Bachelor,Group_B,0
+44,47258,573,2,Master,Group_B,0
+38,59089,697,16,Bachelor,Group_A,0
+38,78994,767,4,Bachelor,Group_B,1
+27,96420,657,20,Bachelor,Group_A,1
+24,84527,609,20,Bachelor,Group_B,0
+46,58707,710,5,Master,Group_B,1
+25,100632,692,19,Bachelor,Group_B,1
+36,70049,779,3,Bachelor,Group_A,1
+55,42366,708,12,Bachelor,Group_B,1
+46,61702,619,7,Master,Group_B,0
+38,48176,616,10,Bachelor,Group_B,1
+49,37538,736,18,Bachelor,Group_A,0
+43,38864,703,4,Master,Group_A,0
+34,57350,676,4,Bachelor,Group_A,1
+35,73576,691,2,Bachelor,Group_A,1
+53,79228,709,1,Bachelor,Group_B,0
+45,37595,704,2,Bachelor,Group_A,1
+41,54541,582,14,High School,Group_B,0
+37,68759,759,6,Bachelor,Group_A,1
+43,62733,763,2,Bachelor,Group_A,0
+37,72502,798,14,Bachelor,Group_B,1
+34,52176,784,10,Master,Group_B,1
+49,82912,772,15,Bachelor,Group_A,1
+40,59924,661,12,Master,Group_B,1
+50,73639,700,1,Bachelor,Group_B,0
+39,53146,756,19,High School,Group_A,0
+59,61051,563,11,Bachelor,Group_B,0
+33,31272,666,20,Bachelor,Group_B,1
+38,44938,569,6,Bachelor,Group_B,0
+43,56266,698,0,High School,Group_A,0
+53,61801,762,13,Bachelor,Group_B,1
+59,108262,681,9,Bachelor,Group_A,1
+60,53126,643,2,Bachelor,Group_A,1
+38,35220,698,10,Master,Group_A,1
+29,90645,707,19,Master,Group_A,1
+53,79419,711,20,Bachelor,Group_B,1
+52,39183,601,14,Bachelor,Group_B,1
+37,68375,696,5,Bachelor,Group_B,0
+39,75034,692,17,Master,Group_A,1
+47,62949,742,12,Master,Group_A,0
+26,65865,675,14,Bachelor,Group_A,0
+55,48619,808,2,High School,Group_B,1
+57,69068,685,14,High School,Group_A,1
+54,51156,649,0,Bachelor,Group_B,0
+40,18000,615,9,Bachelor,Group_B,1
+45,63533,647,17,Bachelor,Group_A,0
+24,29833,628,7,Bachelor,Group_B,1
+30,78243,670,11,Bachelor,Group_A,1
+30,39645,790,4,Master,Group_B,1
+44,18000,585,0,Bachelor,Group_B,0
+41,28153,590,7,High School,Group_A,1
+31,59253,665,4,Bachelor,Group_A,0
+47,63357,591,16,Bachelor,Group_B,1
+36,34573,616,14,Master,Group_B,0
+46,40697,702,3,Bachelor,Group_A,0
+50,59855,677,12,Bachelor,Group_B,1
+36,77500,709,16,Bachelor,Group_B,1
+27,38219,718,12,Bachelor,Group_B,1
+36,66825,767,1,Bachelor,Group_A,1
+55,28704,705,3,High School,Group_B,1
+36,65686,758,1,Bachelor,Group_B,1
+60,73604,687,11,High School,Group_A,0
+32,69436,705,18,Bachelor,Group_A,1
+55,77899,705,17,Bachelor,Group_B,1
+41,76699,698,9,High School,Group_A,0
+56,93245,693,4,Bachelor,Group_B,1
+37,61955,798,10,Bachelor,Group_A,1
+52,93298,725,0,Bachelor,Group_A,1
+26,43006,651,2,High School,Group_B,0
+44,56304,832,16,Bachelor,Group_A,1
+47,57930,655,14,High School,Group_B,1
+40,41230,680,13,Bachelor,Group_A,0
+45,18000,626,14,Bachelor,Group_B,1
+22,75647,727,15,High School,Group_A,1
+29,43261,790,3,Master,Group_A,1
+48,52785,583,18,High School,Group_B,1
+58,88523,662,7,Master,Group_A,1
+23,70298,753,5,Master,Group_B,1
+40,91324,611,15,Master,Group_A,1
+26,62170,717,2,Bachelor,Group_B,1
+59,69999,595,7,Master,Group_A,1
+53,55668,707,4,Master,Group_B,1
+21,44723,685,4,High School,Group_A,1
+57,69932,850,11,Bachelor,Group_A,1
+26,52154,728,0,High School,Group_A,1
+54,71601,539,6,Bachelor,Group_A,0
+35,49732,675,10,Bachelor,Group_B,1
+46,56843,734,9,High School,Group_A,1
+34,58285,653,2,Master,Group_B,1
+27,79385,650,7,High School,Group_A,1
+51,52362,653,0,Master,Group_A,0
+44,81366,716,7,High School,Group_B,1
+51,43713,598,19,Bachelor,Group_B,1
+49,64857,644,10,High School,Group_A,0
+52,47623,747,6,Bachelor,Group_A,1
+37,80083,648,15,Bachelor,Group_A,1
+34,45264,644,6,Bachelor,Group_B,0
+60,47099,591,12,Bachelor,Group_B,1
+56,37387,722,9,Master,Group_A,1
+44,61855,708,16,High School,Group_B,1
+47,70639,743,2,Master,Group_B,1
+45,68696,673,6,High School,Group_B,1
+52,57404,701,10,High School,Group_B,0
+38,48110,700,12,High School,Group_A,1
+38,54984,587,4,Master,Group_A,0
+57,55670,833,18,High School,Group_A,1
+46,64547,744,14,Master,Group_A,1
+29,63309,685,0,Master,Group_B,1
+55,91315,665,4,Bachelor,Group_B,1
+28,60713,766,12,Bachelor,Group_A,1
+40,66494,686,9,Master,Group_A,1
+42,61286,739,4,Bachelor,Group_A,0
+39,54119,642,0,High School,Group_B,0
+50,66373,623,9,Bachelor,Group_A,0
+48,52428,669,17,Master,Group_B,0
+55,58952,681,7,Master,Group_A,1
+31,80867,708,19,High School,Group_A,1
+51,51264,775,2,High School,Group_B,1
+59,66972,752,18,Master,Group_B,1
+56,18000,766,18,High School,Group_A,1
+50,56664,632,1,Bachelor,Group_B,0
+43,51142,661,16,High School,Group_B,1
+39,62165,743,15,Master,Group_B,1
+32,55748,759,20,Master,Group_A,1
+35,62547,728,9,Bachelor,Group_B,1
+51,53184,643,20,High School,Group_A,0
+57,66954,612,15,Bachelor,Group_B,0
+57,29136,695,4,Bachelor,Group_A,0
+35,62005,622,19,Bachelor,Group_A,1
+49,43133,710,2,Bachelor,Group_A,0
+46,81022,761,2,High School,Group_B,0
+22,42842,692,1,Bachelor,Group_A,1
+40,77914,595,20,Master,Group_B,1
+35,59792,647,3,Bachelor,Group_B,1
+24,27082,736,17,Bachelor,Group_A,1
+42,44227,711,1,Bachelor,Group_B,0
+58,75260,716,5,Master,Group_A,1
+43,74238,795,2,Bachelor,Group_B,1
+46,36612,703,20,High School,Group_A,1
+31,88131,701,2,High School,Group_B,1
+48,59558,736,1,Master,Group_B,1
+22,75927,604,2,Master,Group_B,1
+28,38187,651,16,Bachelor,Group_B,1
+49,51793,632,13,High School,Group_A,1
+31,67486,723,6,Bachelor,Group_B,1
+57,54363,620,20,Master,Group_B,0
+38,18000,717,5,Bachelor,Group_B,1
+34,56566,666,7,High School,Group_A,0
+30,24635,657,18,Bachelor,Group_B,0
+55,40728,739,18,Master,Group_B,1
+29,34748,593,11,High School,Group_B,0
+55,80386,648,4,Bachelor,Group_A,0
+31,86034,850,4,Bachelor,Group_B,1
+32,66148,800,13,Bachelor,Group_A,1
+23,55859,562,16,Bachelor,Group_B,1
+59,60510,647,15,Bachelor,Group_A,1
+34,80373,684,3,High School,Group_B,1
+48,24298,588,7,High School,Group_B,0
+31,40648,811,2,Bachelor,Group_A,1
+59,78073,682,20,High School,Group_B,0
+45,81821,668,4,Bachelor,Group_A,0
+41,70615,705,6,Bachelor,Group_B,1
+30,41191,704,17,High School,Group_B,1
+35,77812,624,7,Bachelor,Group_B,1
+39,84506,765,10,Bachelor,Group_B,1
+42,72929,691,13,Bachelor,Group_B,1
+41,18000,765,17,Bachelor,Group_A,1
+52,62243,643,12,Master,Group_A,1
+43,70534,563,5,Bachelor,Group_B,0
+33,50719,773,12,Bachelor,Group_B,0
+25,63360,728,0,High School,Group_B,0
+24,50758,756,10,High School,Group_B,1
+48,44491,760,6,High School,Group_A,1
+34,87191,681,9,Master,Group_B,1
+28,63871,656,1,Bachelor,Group_A,1
+29,40092,674,15,High School,Group_B,0
+55,35221,716,4,Bachelor,Group_A,0
+57,44502,698,15,High School,Group_A,1
+41,44600,561,15,High School,Group_A,0
+38,62638,672,14,Bachelor,Group_A,0
+53,68740,772,8,Bachelor,Group_B,1
+28,68721,680,0,Bachelor,Group_A,1
+37,46498,825,8,Bachelor,Group_A,0
+51,76571,618,10,Bachelor,Group_A,1
+54,82101,703,4,Master,Group_A,1
+26,55321,616,5,Master,Group_A,0
+42,41423,624,7,Master,Group_A,1
+34,61805,625,14,Master,Group_B,0
+23,98881,824,15,Bachelor,Group_B,1
+32,40951,664,17,Bachelor,Group_B,1
+56,50529,634,11,Bachelor,Group_A,1
+32,61034,680,3,Master,Group_A,1
+22,69750,666,15,Bachelor,Group_B,1
+22,24260,733,10,High School,Group_B,1
+35,83506,547,6,Master,Group_A,0
+43,83261,618,14,Master,Group_A,0
+49,52354,735,16,Master,Group_A,1
+37,108719,648,14,High School,Group_A,1
+52,82099,631,9,Bachelor,Group_A,1
+27,81140,628,3,Bachelor,Group_B,0
+50,81376,727,16,Bachelor,Group_B,1
+48,80857,724,3,High School,Group_B,1
+34,59606,742,10,Bachelor,Group_B,1
+50,57823,604,3,High School,Group_B,1
+37,43016,601,11,Bachelor,Group_B,1
+52,49607,754,9,Bachelor,Group_B,1
+26,54404,693,13,Master,Group_A,1
+44,61178,641,17,High School,Group_A,0
+26,88769,670,5,Bachelor,Group_A,1
+47,22155,600,4,High School,Group_B,0
+38,84209,646,1,High School,Group_B,0
+44,41786,690,12,Bachelor,Group_A,0
+57,58119,703,13,Bachelor,Group_B,0
+44,46961,674,2,Master,Group_A,0
+58,93377,668,10,Bachelor,Group_B,1
+54,51001,728,3,Master,Group_A,0
+60,69386,673,12,High School,Group_A,1
+35,70319,651,7,High School,Group_A,0
+31,39120,630,7,High School,Group_A,0
+42,58258,565,12,Master,Group_A,1
+44,81678,722,9,High School,Group_A,1
+21,44282,775,12,High School,Group_B,1
+38,74921,626,12,Bachelor,Group_B,1
+32,54041,597,16,High School,Group_A,0
+48,80946,640,5,High School,Group_B,1
+60,91455,699,1,High School,Group_B,1
+27,23859,647,16,High School,Group_A,1
+43,35914,646,11,Bachelor,Group_A,0
+41,52107,675,5,Bachelor,Group_A,1
+54,86378,687,4,High School,Group_A,0
+31,69584,704,4,High School,Group_B,1
+42,37594,661,8,Master,Group_A,1
+55,72221,660,2,Bachelor,Group_B,1
+49,43553,555,19,Bachelor,Group_B,1
+48,75670,741,4,Bachelor,Group_A,1
+38,69701,696,6,High School,Group_B,1
+34,43474,778,11,Master,Group_A,1
+38,58813,713,6,Bachelor,Group_B,0
+48,82044,675,9,High School,Group_A,0
+44,25943,583,7,Bachelor,Group_B,0
+28,65420,574,16,Bachelor,Group_B,1
+28,40076,748,4,High School,Group_A,1
+24,59709,717,14,Master,Group_B,1
+47,68240,775,8,Master,Group_B,1
+56,96237,741,10,High School,Group_B,1
+25,59527,656,12,Bachelor,Group_B,1
+53,86379,530,17,Master,Group_B,0
+54,44871,719,16,High School,Group_A,1
+50,51090,614,8,Bachelor,Group_A,0
+28,70567,668,9,Bachelor,Group_B,1
+59,63632,707,4,Bachelor,Group_A,1
+46,54088,639,10,Bachelor,Group_B,1
+57,53601,626,14,Bachelor,Group_B,1
+54,83999,660,1,Master,Group_A,1
+27,54808,547,20,Bachelor,Group_A,0
+60,41625,613,19,Master,Group_B,0
+48,44612,612,13,High School,Group_A,1
+59,72058,665,4,Bachelor,Group_B,1
+59,100617,618,5,High School,Group_A,0
+48,50568,646,14,Bachelor,Group_B,0
+34,98675,651,3,High School,Group_A,0
+58,59805,818,9,Master,Group_B,1
+24,54963,730,18,Bachelor,Group_A,0
+38,43615,672,8,High School,Group_B,0
+45,56436,709,20,Bachelor,Group_A,1
+27,46389,740,9,Master,Group_B,1
+58,44945,699,3,Bachelor,Group_B,0
+48,30263,613,3,High School,Group_A,0
+25,91790,671,5,Master,Group_A,1
+23,79159,617,7,Bachelor,Group_A,1
+51,64889,659,15,Bachelor,Group_B,1
+40,57408,670,7,Bachelor,Group_B,1
+39,59900,748,15,Bachelor,Group_B,1
+31,46016,628,5,Master,Group_A,1
+60,39591,623,16,Bachelor,Group_A,0
+23,72913,633,0,High School,Group_B,0
+43,55280,640,18,Master,Group_A,1
+27,65863,659,17,High School,Group_B,1
+43,30076,701,16,Master,Group_A,1
+27,54322,629,16,Bachelor,Group_B,0
+54,39240,687,11,Bachelor,Group_A,0
+39,68713,688,11,High School,Group_A,1
+29,77915,716,5,Master,Group_B,1
+38,86275,666,6,Bachelor,Group_B,0
+45,48678,734,7,Master,Group_B,0
+34,39698,704,2,Bachelor,Group_A,0
+45,52465,701,16,High School,Group_A,1
+39,47412,644,20,Bachelor,Group_B,1
+59,67762,698,7,Bachelor,Group_B,1
+35,34750,703,10,Bachelor,Group_A,0
+36,28421,641,19,Master,Group_A,0
+47,53764,758,17,Bachelor,Group_A,1
+60,73077,850,15,Bachelor,Group_B,1
+30,41506,637,12,Master,Group_A,1
+24,75284,649,8,High School,Group_A,0
+39,66576,651,18,Master,Group_A,1
+48,87842,595,6,Bachelor,Group_A,1
+41,45559,623,16,Bachelor,Group_A,1
+34,31084,736,7,Bachelor,Group_B,1
+53,70774,675,7,Bachelor,Group_A,0
+30,65038,805,2,High School,Group_B,1
+39,63645,661,15,Master,Group_A,0
+50,41139,707,11,Master,Group_B,1
+42,73953,621,14,High School,Group_B,1
+23,48598,673,20,Master,Group_B,0
+57,63637,686,3,Bachelor,Group_B,0
+38,51728,543,6,Master,Group_A,0
+31,66379,626,10,High School,Group_A,0
+22,38488,721,4,Bachelor,Group_B,0
+32,68994,718,12,Bachelor,Group_B,1
+26,71837,599,10,High School,Group_B,1
+60,62088,657,4,Bachelor,Group_B,1
+49,89590,526,7,Bachelor,Group_B,0
+50,63729,680,20,High School,Group_A,1
+22,76538,762,16,Bachelor,Group_A,1
+29,61664,765,10,Master,Group_B,1
+22,74929,762,18,Bachelor,Group_B,1
+49,32401,714,17,High School,Group_A,0
+53,60593,755,9,Bachelor,Group_B,1
+30,39715,668,4,Bachelor,Group_A,0
+54,62528,646,0,Bachelor,Group_B,1
+28,66915,754,16,Master,Group_A,1
+57,74535,699,16,High School,Group_A,1
+53,68818,563,0,Bachelor,Group_B,1
+26,53937,759,0,Master,Group_A,0
+60,46435,666,8,Master,Group_B,1
+39,18000,637,3,Bachelor,Group_B,0
+52,61239,744,8,High School,Group_B,1
+47,80482,735,13,Bachelor,Group_A,1
+21,61951,618,14,High School,Group_A,1
+53,58474,670,15,Bachelor,Group_A,1
+60,62575,621,15,High School,Group_B,1
+52,53021,623,12,High School,Group_B,0
+25,63509,485,13,Bachelor,Group_B,0
+37,52711,614,20,Bachelor,Group_B,0
+28,43820,669,8,Bachelor,Group_B,1
+54,58645,496,8,Bachelor,Group_B,0
+29,58252,591,20,Bachelor,Group_A,1
+43,93753,719,3,Bachelor,Group_B,1
+55,45498,588,9,Bachelor,Group_A,0
+27,57130,670,2,Bachelor,Group_B,1
+35,55380,573,20,Bachelor,Group_B,0
+40,51942,707,8,Bachelor,Group_B,0
+45,69236,659,18,Bachelor,Group_A,1
+23,100283,620,15,Bachelor,Group_A,1
+44,54225,508,15,Bachelor,Group_A,0
+54,69286,622,16,Master,Group_A,1
+42,25577,723,17,Bachelor,Group_A,1
+31,52916,781,9,Bachelor,Group_B,1
+28,87994,666,20,Bachelor,Group_B,0
+59,59010,673,18,High School,Group_A,1
+55,69042,636,14,Bachelor,Group_A,1
+58,48790,760,14,Bachelor,Group_A,1
+28,64636,664,10,High School,Group_B,0
+57,89390,738,7,Bachelor,Group_B,1
+47,39119,696,15,Bachelor,Group_B,1
+48,99358,688,9,Master,Group_A,1
+60,32173,614,8,Master,Group_B,1
+54,51261,796,14,Bachelor,Group_B,1
+52,44953,775,4,Bachelor,Group_A,1
+35,55096,828,19,High School,Group_B,1
+37,44720,609,1,High School,Group_A,0
+53,43355,697,15,Master,Group_B,1
+36,38639,628,17,High School,Group_A,0
+49,71593,709,15,Bachelor,Group_B,0
+29,55717,699,4,Master,Group_B,1
+53,51009,653,0,Master,Group_B,1
+49,65081,665,18,Master,Group_B,0
+33,33097,816,9,Master,Group_A,1
+41,65515,671,20,Bachelor,Group_A,1
+41,58312,537,12,High School,Group_A,0
+25,58865,645,10,Bachelor,Group_A,1
+30,69345,609,14,Bachelor,Group_B,1
+26,89583,620,1,Bachelor,Group_A,1
+33,65814,726,5,Master,Group_B,1
+21,56402,738,20,Bachelor,Group_B,1
+40,38712,625,10,High School,Group_B,1
+28,18000,644,14,Bachelor,Group_A,1
+30,62302,635,8,High School,Group_B,1
+29,37327,779,11,Master,Group_B,1
+23,18000,740,3,Bachelor,Group_A,1
+31,53684,724,13,Bachelor,Group_B,1
+32,64311,613,2,Bachelor,Group_B,0
+30,73397,569,20,Bachelor,Group_A,0
+45,79103,760,16,Master,Group_B,1
+45,75763,805,12,Bachelor,Group_A,1
+31,76246,566,7,Master,Group_A,0
+56,33575,826,11,Master,Group_A,1
+59,57307,673,11,Master,Group_A,1
+46,70437,691,11,Bachelor,Group_A,1
+34,60835,594,1,Master,Group_A,1
+59,57207,565,9,Bachelor,Group_B,1
+60,60506,533,8,Master,Group_B,0
+21,64420,747,0,Master,Group_B,1
+24,58616,675,3,Master,Group_A,1
+50,44767,710,13,Master,Group_A,1
+32,29349,754,15,Bachelor,Group_B,0
+55,56328,674,17,High School,Group_A,1
+33,61035,790,1,Bachelor,Group_A,1
+51,60838,626,5,Master,Group_B,1
+58,77153,653,2,High School,Group_A,1
+43,80351,621,19,Bachelor,Group_B,0
+24,58128,734,18,Bachelor,Group_B,1
+36,58256,752,12,Bachelor,Group_A,1
+27,70316,651,16,Master,Group_A,1
+42,67678,589,13,Bachelor,Group_B,0
+49,52034,760,10,Master,Group_A,1
+31,71862,623,15,Bachelor,Group_A,1
+53,57365,654,10,Master,Group_B,1
+49,57748,610,17,Bachelor,Group_A,1
+59,67805,699,1,High School,Group_B,1
+32,54579,630,20,Master,Group_B,1
+27,61704,726,7,Bachelor,Group_A,1
+59,65356,644,13,Bachelor,Group_A,1
+46,74709,715,1,Bachelor,Group_A,0
+60,73467,620,12,Bachelor,Group_A,1
+29,64807,760,9,Bachelor,Group_A,1
+54,18000,648,7,High School,Group_B,1
+33,64380,686,6,Bachelor,Group_A,1
+56,67162,603,12,Bachelor,Group_B,0
+45,70817,679,18,Bachelor,Group_B,0
+44,42792,605,14,Bachelor,Group_B,0
+37,21803,677,1,Master,Group_B,1
+22,74511,618,4,Bachelor,Group_A,0
+33,37959,670,18,Master,Group_B,1
+51,81999,710,0,Bachelor,Group_B,0
+49,49584,591,6,Bachelor,Group_A,0
+48,41511,677,17,High School,Group_A,0
+47,66293,707,0,High School,Group_B,0
+35,71091,706,0,Bachelor,Group_A,0
+51,70018,805,6,Bachelor,Group_A,1
+60,69029,632,16,Master,Group_A,0
+35,47260,680,5,Bachelor,Group_A,1
+53,32516,794,19,Master,Group_B,1
+40,52986,591,11,Master,Group_B,0
+32,39377,531,19,High School,Group_B,0
+57,67786,715,14,Bachelor,Group_A,1
+29,75736,748,12,Bachelor,Group_A,1
+43,63109,543,11,Bachelor,Group_A,0
+28,59983,659,20,Bachelor,Group_A,1
+52,54412,614,1,Master,Group_A,1
+34,77646,700,20,Master,Group_B,1
+47,27052,678,17,Master,Group_A,1
+45,38289,765,3,Bachelor,Group_B,0
+33,92881,593,9,Bachelor,Group_A,1
+41,37411,705,10,Bachelor,Group_A,0
+51,69559,720,20,Bachelor,Group_A,1
+57,73262,683,5,Bachelor,Group_B,1
+25,25327,550,5,High School,Group_B,0
+33,28783,707,8,Master,Group_B,1
+48,82765,633,19,Master,Group_A,1
+45,42487,567,12,Bachelor,Group_A,0
+55,42979,704,4,Master,Group_B,0
+59,50624,730,5,Bachelor,Group_A,1
+27,42531,640,3,High School,Group_B,0
+58,69473,734,5,Master,Group_A,1
+52,38723,735,17,Master,Group_A,1
+23,24616,679,12,Bachelor,Group_A,0
+59,80814,719,2,High School,Group_A,1
+57,39608,743,9,Master,Group_B,1
+42,46464,714,3,High School,Group_A,0
+28,74937,531,14,Bachelor,Group_A,0
+37,61264,516,11,Bachelor,Group_A,0
+47,80022,749,14,Master,Group_A,1
+53,75213,635,20,Bachelor,Group_B,1
+37,51838,648,9,Master,Group_B,0
+32,78395,803,11,Bachelor,Group_B,1
+47,63020,632,7,Bachelor,Group_B,1
+28,49229,671,20,Master,Group_A,1
+43,65227,681,20,High School,Group_B,1
+49,36430,666,2,Bachelor,Group_A,0
+40,75009,767,6,Bachelor,Group_A,1
+36,72674,656,17,Master,Group_B,0
+37,62166,727,2,High School,Group_A,1
+36,25471,685,14,Bachelor,Group_B,1
+39,80779,743,1,Bachelor,Group_A,0
+28,67868,591,14,Bachelor,Group_B,1
+58,59587,534,12,High School,Group_B,0
+58,56748,682,19,Bachelor,Group_B,0
+49,50339,625,9,Bachelor,Group_B,0
+56,53800,775,7,High School,Group_B,1
+46,73846,675,15,Bachelor,Group_A,0
+51,50699,694,15,Master,Group_B,0
+32,55063,660,1,High School,Group_A,0
+37,57703,638,8,Bachelor,Group_B,1
+35,58196,684,7,Bachelor,Group_B,1
+29,48879,746,10,High School,Group_B,1
+59,56936,660,0,High School,Group_A,1
+32,66180,655,20,Bachelor,Group_A,1
+52,43714,732,10,Master,Group_B,1
+45,57020,570,17,High School,Group_A,1
+59,94758,757,20,Master,Group_A,1
+38,58863,628,14,Bachelor,Group_A,1
+35,43252,741,8,Bachelor,Group_B,1
+52,41147,699,8,Bachelor,Group_B,0
+26,37226,545,0,Master,Group_A,0
+55,89288,681,6,High School,Group_A,0
+54,78144,765,11,Bachelor,Group_A,1
+58,36787,660,9,Bachelor,Group_B,0
+25,63847,666,18,High School,Group_B,1
+38,82047,630,15,High School,Group_A,1
+36,59272,758,5,High School,Group_A,1
+28,51151,650,10,Bachelor,Group_A,1
+45,100336,796,18,High School,Group_B,1
+52,25704,755,18,Master,Group_B,1
+46,107386,767,17,Master,Group_A,1
+42,61080,685,14,High School,Group_A,1
+51,83228,648,15,Bachelor,Group_A,1
+30,38389,711,13,High School,Group_B,0
+32,46939,781,7,High School,Group_A,1
+48,40561,795,7,Bachelor,Group_B,1
+26,58181,559,1,Bachelor,Group_B,0
+40,65539,850,5,Master,Group_A,1
+25,79202,696,12,Bachelor,Group_A,1
+43,29194,731,12,Bachelor,Group_A,1
+29,62824,622,20,High School,Group_B,0
+49,76108,617,11,High School,Group_B,0
+36,79479,586,1,Master,Group_B,0
+42,52071,791,20,High School,Group_B,1
+28,52295,635,19,Master,Group_A,0
+40,58344,674,11,High School,Group_B,1
+34,63349,660,16,Bachelor,Group_B,1
+59,83447,614,5,Master,Group_A,0
+57,38218,667,6,High School,Group_B,1
+54,45847,686,5,Bachelor,Group_B,1
+31,36035,761,20,Master,Group_B,1
+60,67700,611,3,High School,Group_B,0
+53,79825,642,20,Bachelor,Group_B,1
+51,34423,716,8,High School,Group_B,1
+54,61597,683,4,High School,Group_A,0
+27,78522,684,9,High School,Group_A,1
+43,74122,617,14,Master,Group_B,0
+27,73910,731,7,High School,Group_A,1
+45,38582,772,3,High School,Group_A,1
+23,73850,766,4,Bachelor,Group_A,1
+58,56653,667,6,Bachelor,Group_A,0
+40,79263,512,5,Bachelor,Group_B,0
+54,68085,695,12,High School,Group_B,1
+50,45321,687,18,Bachelor,Group_A,1
+37,65019,614,9,Bachelor,Group_A,1
+30,74733,627,14,Bachelor,Group_A,1
+55,50885,615,2,High School,Group_B,0
+40,62318,698,17,Bachelor,Group_B,0
+38,35941,627,13,Master,Group_A,0
+47,69883,691,2,Bachelor,Group_B,1
+56,58987,834,10,High School,Group_B,1
+43,76454,668,9,High School,Group_B,1
+52,69376,605,16,Bachelor,Group_B,0
+30,52671,586,12,Master,Group_A,1
+31,44765,701,1,High School,Group_B,1
+58,40625,810,12,Bachelor,Group_A,1
+26,50866,621,18,High School,Group_B,1
+54,75968,540,4,Bachelor,Group_B,0
+56,28387,791,15,Bachelor,Group_B,1
+57,41357,844,9,Master,Group_B,1
+37,75462,729,11,High School,Group_A,1
+60,83921,708,19,Master,Group_B,1
+60,42303,684,12,Bachelor,Group_B,1
+32,41157,724,20,Master,Group_B,0
+41,85329,721,15,Bachelor,Group_A,1
+60,57775,698,20,High School,Group_A,1
+39,43898,618,0,Master,Group_A,0
+23,78803,698,8,High School,Group_B,1
+38,69063,674,15,Bachelor,Group_B,1
+39,73260,628,18,Master,Group_A,1
+26,44836,698,14,High School,Group_B,0
+36,66747,648,17,Bachelor,Group_B,0
+28,82433,684,11,Master,Group_B,1
+38,71534,710,13,Master,Group_B,1
+59,76558,719,2,Bachelor,Group_B,1
+32,85257,650,3,Bachelor,Group_B,1
+30,67698,709,5,Bachelor,Group_A,1
+27,49828,724,15,Bachelor,Group_B,1
+21,75788,743,12,Bachelor,Group_B,1
+56,40097,700,11,Master,Group_B,1
+41,55998,719,11,High School,Group_B,1
+57,70585,653,1,High School,Group_B,1
+44,18000,847,12,Bachelor,Group_A,1
+45,64544,676,2,Master,Group_A,0
+27,65393,753,12,Bachelor,Group_A,1
+37,39553,648,1,Master,Group_A,1
+49,65865,704,18,Master,Group_B,1
+50,63419,702,8,Master,Group_B,1
+27,60611,714,19,Master,Group_A,0
+53,81410,625,0,Master,Group_A,1
+27,75820,705,12,Master,Group_B,1
+44,71520,649,1,Bachelor,Group_A,1
+31,41564,733,14,High School,Group_B,0
+29,59688,623,18,High School,Group_B,0
+32,81320,700,15,High School,Group_B,0
+55,56136,678,10,High School,Group_A,1
+24,87977,801,14,High School,Group_A,1
+56,72045,753,5,Master,Group_B,1
+48,90772,769,13,Bachelor,Group_B,1
+33,40788,630,5,Bachelor,Group_A,0
+43,57216,655,18,Master,Group_B,1
+39,58918,680,4,Bachelor,Group_A,0
+57,70911,754,10,High School,Group_B,1
+59,46705,704,3,Master,Group_A,0
+44,31063,631,8,Bachelor,Group_B,0
+36,66808,634,8,Bachelor,Group_A,1
+53,53403,758,16,Bachelor,Group_A,1
+32,51527,707,7,Bachelor,Group_A,1
+54,47529,683,14,Master,Group_A,1
+27,62230,678,8,High School,Group_B,0
+31,40617,738,4,Master,Group_B,1
+51,56504,611,3,High School,Group_A,1
+49,45083,683,19,Bachelor,Group_A,0
+33,49035,687,17,Master,Group_B,1
+51,66369,599,8,Master,Group_B,0
+22,71725,667,20,High School,Group_B,0
+59,54490,829,2,High School,Group_A,0
+35,77421,626,8,Bachelor,Group_A,0
+31,42491,688,8,High School,Group_B,0
+54,32642,545,20,Bachelor,Group_A,0
+59,35946,671,3,Master,Group_B,1
+24,40643,610,20,Bachelor,Group_A,1
+31,36368,657,6,High School,Group_B,1
+49,96381,708,6,Bachelor,Group_A,1
+22,32096,607,7,Master,Group_B,0
+36,76874,696,20,Bachelor,Group_A,1
+59,59548,629,0,Bachelor,Group_B,0
+33,64043,593,8,Bachelor,Group_A,0
+57,43697,744,11,High School,Group_B,1
+37,65858,618,5,Bachelor,Group_B,1
+41,43549,652,12,Bachelor,Group_B,1
+39,76610,643,4,Bachelor,Group_B,1
+27,78099,694,20,Bachelor,Group_B,1
+58,57572,682,18,Bachelor,Group_B,0
+28,58751,669,0,Bachelor,Group_A,1
+33,67789,634,17,High School,Group_B,1
+57,66869,663,7,Master,Group_A,1
+22,78435,699,7,Bachelor,Group_A,0
+31,77925,688,14,High School,Group_A,1
+44,59481,753,18,High School,Group_A,1
+26,51410,730,9,Bachelor,Group_B,0
+46,74609,752,15,Bachelor,Group_B,0
+27,57187,768,10,High School,Group_B,1
+59,62047,692,11,High School,Group_B,1
+39,69546,735,15,High School,Group_A,1
+26,77560,702,15,Master,Group_A,1
+49,64695,766,19,Bachelor,Group_A,1
+59,49430,566,2,Bachelor,Group_A,0
+22,92346,659,8,Master,Group_A,1
+39,87546,707,7,Bachelor,Group_A,1
+24,41676,717,9,Bachelor,Group_B,0
+26,43588,679,12,Bachelor,Group_B,0
+57,45852,572,17,Bachelor,Group_B,0
+48,75274,668,12,High School,Group_B,0
+50,93033,733,12,Bachelor,Group_B,1
+27,50887,659,14,High School,Group_A,0
+29,63047,686,12,High School,Group_B,1
+45,46453,805,15,High School,Group_B,1
+53,90603,668,7,Bachelor,Group_A,1
+21,74847,670,18,Master,Group_A,1
+26,45157,693,9,Bachelor,Group_B,1
+38,22158,695,11,Master,Group_A,0
+30,78677,689,13,Bachelor,Group_B,1
+48,49695,706,5,Bachelor,Group_B,0
+31,75169,603,20,High School,Group_A,1
+53,65286,672,8,Master,Group_A,0
+21,26983,600,6,High School,Group_A,0
+33,45478,684,5,Bachelor,Group_A,0
+57,53625,719,0,Bachelor,Group_A,1
+40,47836,671,20,Bachelor,Group_B,0
+21,62091,618,13,High School,Group_A,1
+23,67225,652,5,Bachelor,Group_B,0
+38,92208,797,11,Master,Group_A,1
+34,68500,774,16,Master,Group_B,1
+51,86840,645,4,Master,Group_A,0
+47,51417,644,10,Bachelor,Group_A,0
+37,80974,673,4,Bachelor,Group_B,1
+49,53138,761,11,High School,Group_B,1
+56,43494,566,2,Master,Group_A,0
+57,42733,644,8,Bachelor,Group_B,0
+46,18000,707,5,Bachelor,Group_A,0
+37,75373,699,1,Master,Group_A,1
+42,36776,652,1,Bachelor,Group_A,1
+45,85347,664,11,Bachelor,Group_A,1
+22,56864,702,7,High School,Group_B,1
+42,32012,653,1,Bachelor,Group_A,1
+25,39881,611,8,Master,Group_A,1
+24,63431,668,15,Bachelor,Group_B,1
+56,26161,692,14,Bachelor,Group_B,0
+26,70619,542,13,High School,Group_A,0
+41,32706,705,19,Bachelor,Group_B,0
+33,46698,743,3,Bachelor,Group_A,0
+57,63577,657,3,High School,Group_B,0
+45,68417,658,10,Bachelor,Group_B,1
+46,74359,632,20,Bachelor,Group_B,0
+59,36482,670,17,Master,Group_A,0
+40,54448,644,4,High School,Group_A,0
+53,79674,774,1,Master,Group_A,1
+34,54452,688,14,Bachelor,Group_A,0
+56,65297,540,10,Bachelor,Group_A,0
+37,62924,717,16,Master,Group_B,1
+41,83422,792,15,High School,Group_A,1
+36,51614,713,14,Bachelor,Group_A,1
+36,34981,757,2,Bachelor,Group_B,1
+40,42578,724,19,Bachelor,Group_A,0
+49,63399,744,14,Bachelor,Group_B,1
+48,31748,741,18,High School,Group_A,0
+28,50201,742,12,Bachelor,Group_A,0
+44,61357,701,15,Bachelor,Group_A,1
+23,46201,569,11,Master,Group_A,1
+45,65883,609,16,High School,Group_B,1
+39,73039,610,15,Bachelor,Group_A,0
+53,68188,516,8,Bachelor,Group_B,0
+22,32145,652,5,High School,Group_A,1
+35,61425,772,18,Bachelor,Group_A,1
+42,62834,587,12,High School,Group_B,0
+30,53143,727,20,Bachelor,Group_A,1
+38,65640,714,7,Master,Group_B,1
+42,64994,695,11,Master,Group_B,0
+47,58364,757,8,Bachelor,Group_B,0
+33,41923,677,3,Master,Group_B,1
+53,59521,779,12,Bachelor,Group_A,1
+25,93605,667,1,Bachelor,Group_A,1
+46,52938,702,2,Master,Group_A,1
+33,78851,671,4,Bachelor,Group_B,0
+47,60699,620,17,Bachelor,Group_B,0
+34,45587,592,20,Bachelor,Group_A,0
+44,54661,717,13,Master,Group_B,1
+23,59696,768,1,Bachelor,Group_A,1
+50,71794,696,14,High School,Group_B,1
+55,102841,713,7,High School,Group_A,1
+34,60984,579,15,High School,Group_B,1
+32,37845,705,2,Bachelor,Group_B,0
+48,30218,545,19,Master,Group_A,0
+49,52408,602,19,Bachelor,Group_A,1
+37,39694,767,4,High School,Group_A,1
+60,70042,681,3,Master,Group_A,1
+41,70175,687,11,Bachelor,Group_A,0
+43,57372,716,18,Bachelor,Group_B,0
+40,71833,732,14,Bachelor,Group_B,1
+31,61166,662,12,Master,Group_B,1
+54,93616,699,4,Bachelor,Group_A,1
+30,71270,675,11,High School,Group_B,1
+30,76121,580,18,Bachelor,Group_B,1
+26,33934,657,1,Bachelor,Group_A,0
+56,38918,707,6,Bachelor,Group_B,1
+44,68619,655,4,High School,Group_B,0
+32,32114,656,19,High School,Group_A,0
+43,48759,731,10,Bachelor,Group_A,1
+47,81229,690,17,Bachelor,Group_A,1
+57,48375,703,17,Bachelor,Group_A,1
+26,38225,574,6,Master,Group_B,0
+21,72016,709,9,Master,Group_B,1
+26,97324,608,19,High School,Group_B,0
+42,45444,678,13,Bachelor,Group_A,1
+44,82032,611,19,High School,Group_A,0
+45,43203,741,19,Bachelor,Group_B,1
+35,57976,799,10,Bachelor,Group_B,1
+46,58756,670,1,High School,Group_A,1
+28,45924,670,12,Master,Group_B,0
+44,75757,747,12,Master,Group_B,1
+58,32285,717,8,High School,Group_A,1
+26,63511,675,16,High School,Group_A,0
+55,79335,704,14,Bachelor,Group_B,1
+21,74259,812,20,Bachelor,Group_A,1
+56,68842,636,15,Master,Group_A,1
+32,88535,642,9,Bachelor,Group_A,0
+58,56047,732,19,Bachelor,Group_A,1
+31,32555,817,11,Master,Group_B,1
+32,62434,692,4,Bachelor,Group_B,1
+59,57736,569,19,Bachelor,Group_A,0
+27,21915,705,16,Bachelor,Group_B,0
+31,39748,646,9,Master,Group_B,0
+56,37453,711,5,High School,Group_B,1
+51,45338,592,20,Bachelor,Group_A,0
+53,53679,584,19,High School,Group_A,0
+33,54368,661,5,Master,Group_B,0
+38,45982,787,11,Bachelor,Group_B,1
+44,37429,591,20,Bachelor,Group_A,0
+29,66794,659,18,Master,Group_A,1
+51,62098,585,1,Master,Group_A,0
+30,62640,699,12,Master,Group_B,1
+22,92022,694,19,High School,Group_B,1
+58,62932,587,10,Master,Group_A,1
+35,53400,764,14,Bachelor,Group_A,1
+23,58095,555,12,High School,Group_B,1
+51,61779,782,2,Bachelor,Group_B,1
+26,71084,769,13,Bachelor,Group_A,1
+23,59195,700,7,High School,Group_B,0
+31,25027,738,8,Bachelor,Group_B,1
+35,52139,668,14,Master,Group_A,1
+48,60027,580,17,Bachelor,Group_B,0
+30,83476,695,7,Bachelor,Group_A,1
+58,45854,578,10,Bachelor,Group_B,1
+27,30565,679,4,Master,Group_B,1
+35,61159,600,14,High School,Group_B,1
+38,75592,743,14,Bachelor,Group_B,1
+38,52918,705,6,Bachelor,Group_A,0
+44,102895,724,20,Master,Group_B,1
+22,98655,702,17,High School,Group_B,1
+60,58695,802,11,Bachelor,Group_A,1
+40,63361,746,11,Bachelor,Group_B,1
+54,84637,791,3,Master,Group_B,1
+46,58383,621,10,High School,Group_A,1
+27,45526,645,20,Bachelor,Group_B,0
+58,76001,522,5,High School,Group_B,0
+50,68359,654,20,Master,Group_A,0
+25,45468,678,9,Bachelor,Group_B,0
+31,65025,708,14,Bachelor,Group_A,1
+21,57119,645,0,Bachelor,Group_A,0
+54,53068,728,16,Bachelor,Group_A,1
+21,45855,723,2,High School,Group_B,0
+39,62185,649,10,Bachelor,Group_B,1
+22,55215,618,17,Master,Group_A,1
+41,65125,684,9,Bachelor,Group_A,0
+40,74757,686,20,Master,Group_B,1
+43,64168,640,8,High School,Group_A,0
+41,64476,663,6,Master,Group_B,1
+44,50259,588,10,Bachelor,Group_B,0
+24,81138,724,7,Bachelor,Group_B,0
+32,44726,725,1,Bachelor,Group_B,0
+42,30984,683,4,Bachelor,Group_A,1
+40,40722,730,8,Bachelor,Group_B,1
+38,78617,689,0,Bachelor,Group_B,1
+21,68260,785,16,Bachelor,Group_B,1
+50,83615,596,9,High School,Group_A,1
+53,36185,693,7,Bachelor,Group_B,1
+44,101764,739,17,Bachelor,Group_A,1
+34,54894,777,9,Bachelor,Group_A,1
+56,28314,732,8,Bachelor,Group_A,1
+25,99524,613,3,Bachelor,Group_B,0
+31,36418,572,1,Bachelor,Group_B,0
+44,52838,669,18,High School,Group_B,0
+51,56296,704,9,Master,Group_B,1
+33,67993,741,16,High School,Group_A,1
+36,45757,609,2,Bachelor,Group_B,0
+44,78708,720,20,High School,Group_A,0
+33,73565,506,18,Bachelor,Group_B,0
+44,60343,632,18,Bachelor,Group_B,1
+46,83838,736,18,Bachelor,Group_B,1
+22,58779,603,18,Bachelor,Group_B,0
+36,55038,608,14,High School,Group_A,0
+58,95966,646,17,High School,Group_A,0
+21,65323,692,16,Bachelor,Group_B,0
+31,42258,608,9,Master,Group_A,1
+55,44695,678,13,Bachelor,Group_A,0
+49,60341,652,18,Bachelor,Group_A,1
+57,18000,755,17,Bachelor,Group_B,1
+37,48606,649,10,Bachelor,Group_A,1
+59,58193,682,10,Bachelor,Group_A,1
+48,56990,691,11,Master,Group_B,0
+49,37366,653,7,Bachelor,Group_B,0
+23,51927,730,15,High School,Group_A,0
+30,81236,744,7,High School,Group_A,1
+34,77517,648,13,Bachelor,Group_A,1
+32,61721,699,17,Bachelor,Group_A,1
+50,58760,620,20,High School,Group_A,1
+52,57091,717,3,Master,Group_B,1
+52,64254,695,16,Bachelor,Group_B,1
+52,61846,656,12,Bachelor,Group_B,1
+46,65835,701,4,High School,Group_A,1
+21,69032,719,2,Master,Group_B,0
+22,38200,760,8,Master,Group_A,1
+37,54415,706,19,High School,Group_B,1
+50,63562,738,17,Master,Group_B,1
+59,42615,804,19,Bachelor,Group_A,1
+27,47871,613,18,Bachelor,Group_B,1
+47,56078,756,18,Master,Group_A,1
+29,56961,623,20,Bachelor,Group_B,0
+42,63899,634,15,Master,Group_A,0
+54,44735,679,0,Master,Group_A,1
+21,77424,638,4,Master,Group_B,1
+29,56813,627,14,High School,Group_A,1
+40,62614,676,11,Bachelor,Group_B,0
+39,53343,658,0,Bachelor,Group_A,0
+56,64242,637,13,Bachelor,Group_B,1
+60,90082,618,17,Bachelor,Group_B,0
+24,53176,773,17,High School,Group_B,0
+29,50199,602,5,Master,Group_A,1
+42,45057,669,0,Master,Group_A,1
+38,58927,753,16,Bachelor,Group_A,1
+32,58718,733,17,High School,Group_A,1
+59,60926,695,14,High School,Group_B,1
+29,68429,639,11,High School,Group_B,1
+26,66159,679,12,Bachelor,Group_B,1
+39,59595,607,19,Master,Group_B,0
+27,95168,661,1,High School,Group_B,1
+36,72432,660,3,Bachelor,Group_B,0
+25,40393,667,2,Bachelor,Group_A,0
+36,32186,629,18,Bachelor,Group_B,1
+21,47478,570,7,Bachelor,Group_B,1
+57,62748,761,11,Bachelor,Group_B,1
+59,45969,747,11,Master,Group_A,1
+39,48703,737,9,Bachelor,Group_A,1
+57,60469,705,0,Bachelor,Group_A,1
+37,53844,691,4,Bachelor,Group_B,0
+46,23141,635,19,High School,Group_B,1
+42,79389,642,10,High School,Group_A,0
+28,75209,775,8,Bachelor,Group_B,1
+53,36868,789,13,High School,Group_A,1
+22,61024,668,2,Bachelor,Group_A,0
+50,39902,680,4,Bachelor,Group_A,1
+40,49042,728,20,Bachelor,Group_B,1
+38,68751,686,8,High School,Group_B,1
+30,74581,691,17,Bachelor,Group_A,0
+44,74160,676,5,Bachelor,Group_B,0
+24,64407,619,20,Bachelor,Group_A,1
+57,82954,656,6,Bachelor,Group_B,0
+24,49010,671,15,Bachelor,Group_B,1
+33,53005,516,7,High School,Group_B,0
+45,18000,686,9,Bachelor,Group_A,0
+33,58325,831,4,High School,Group_B,1
+38,70434,652,10,High School,Group_B,1
+44,65135,682,20,Master,Group_A,1
+22,48768,625,12,Bachelor,Group_B,0
+53,75201,609,19,Bachelor,Group_A,1
+39,58671,660,1,Bachelor,Group_B,0
+29,73796,721,13,High School,Group_A,1
+48,68751,665,8,High School,Group_B,0
+55,85641,656,9,Master,Group_B,1
+59,66109,712,9,Master,Group_A,0
+30,70979,693,9,Bachelor,Group_A,1
+21,58619,698,18,Bachelor,Group_A,1
+41,50948,757,10,Master,Group_A,1
+29,68833,749,10,Bachelor,Group_A,1
+35,87049,777,2,High School,Group_B,1
+55,48914,601,18,Bachelor,Group_A,1
+25,55534,736,0,Bachelor,Group_A,1
+42,60480,787,11,High School,Group_B,1
+43,72328,574,14,Bachelor,Group_A,1
+27,66218,679,13,Bachelor,Group_B,1
+43,76435,645,2,Bachelor,Group_B,1
+45,95530,678,19,High School,Group_B,1
+47,48500,755,12,Bachelor,Group_B,1
+26,70975,589,17,Bachelor,Group_B,0
+54,65772,696,15,High School,Group_A,1
+29,60343,643,5,High School,Group_A,0
+53,70910,757,9,Bachelor,Group_A,1
+26,55198,707,16,High School,Group_B,1
+57,65815,670,16,Master,Group_A,1
+51,36505,633,7,Bachelor,Group_B,0
+54,50301,850,3,Bachelor,Group_B,1
+49,78855,698,14,Bachelor,Group_B,1
+34,78163,588,0,Bachelor,Group_B,0
+56,64670,627,6,High School,Group_A,0
+56,51845,707,9,High School,Group_B,1
+35,74855,633,6,Bachelor,Group_B,0
+28,82257,641,0,High School,Group_A,0
+46,52577,744,16,Bachelor,Group_A,0
+56,33810,738,11,High School,Group_B,1
+41,68084,643,16,High School,Group_B,1
+48,76448,756,14,Bachelor,Group_B,1
+24,70575,634,15,Master,Group_B,1
+36,88171,790,13,Bachelor,Group_B,1
+42,88247,715,2,Bachelor,Group_B,1
+32,54503,699,18,Master,Group_A,1
+36,63582,655,11,High School,Group_A,0
+60,51062,640,18,High School,Group_A,1
+58,41603,529,17,Bachelor,Group_B,0
+57,42658,661,13,Bachelor,Group_B,0
+49,72906,679,19,Bachelor,Group_B,1
+38,65452,561,8,High School,Group_A,1
+30,76019,734,2,High School,Group_B,0
+59,105569,670,11,Bachelor,Group_B,1
+38,68998,759,19,Master,Group_B,1
+21,45817,636,16,Bachelor,Group_B,0
+59,78632,760,4,High School,Group_A,1
+41,45483,651,7,Bachelor,Group_B,0
+21,91470,677,18,Bachelor,Group_A,1
+35,24514,694,3,High School,Group_A,0
+24,50162,677,14,Bachelor,Group_A,0
+40,71198,700,18,Bachelor,Group_B,1
+30,81195,555,14,Master,Group_B,0
+43,47814,671,13,Bachelor,Group_B,0
+54,44551,675,15,Bachelor,Group_B,0
+53,62671,551,9,Bachelor,Group_B,0
+54,94362,722,13,High School,Group_B,1
+59,32309,621,19,Master,Group_A,1
+30,54346,741,10,Bachelor,Group_A,1
+40,64683,686,1,High School,Group_A,1
+21,45673,643,18,Bachelor,Group_A,1
+33,45611,745,2,Bachelor,Group_A,0
+21,55799,788,3,Master,Group_A,1
+25,65269,683,10,Master,Group_A,0
+36,56489,769,12,High School,Group_B,1
+35,86380,669,17,Bachelor,Group_A,1
+48,70667,743,17,Bachelor,Group_A,1
+51,66897,656,18,High School,Group_A,0
+43,78498,799,11,Bachelor,Group_B,1
+37,67214,750,0,Bachelor,Group_A,1
+54,52023,711,5,High School,Group_A,1
+33,55263,515,2,Bachelor,Group_B,1
+34,39670,709,16,Bachelor,Group_A,1
+31,96088,600,2,High School,Group_A,1
+48,76753,703,0,Bachelor,Group_A,1
+52,18000,763,2,Bachelor,Group_A,1
+55,83996,725,3,High School,Group_A,1
+51,33613,736,5,Master,Group_A,1
+37,69372,656,6,High School,Group_B,0
+29,20328,581,7,High School,Group_B,0
+30,52294,630,12,High School,Group_B,0
+28,84137,659,3,Bachelor,Group_A,1
+41,85139,679,5,Bachelor,Group_B,1
+33,65522,762,10,Bachelor,Group_A,1
+25,74174,727,0,Bachelor,Group_A,1
+26,34556,824,7,Master,Group_B,1
+50,69690,615,1,High School,Group_A,0
+51,75317,756,7,Bachelor,Group_A,1
+37,106255,737,19,High School,Group_B,1
+31,48782,672,8,High School,Group_B,1
+40,60293,618,3,Bachelor,Group_A,0
+29,61406,640,16,High School,Group_B,1
+22,72575,637,6,Bachelor,Group_B,0
+57,75849,791,9,Master,Group_A,1
+21,79096,734,4,High School,Group_A,1
+24,77783,736,9,Master,Group_A,1
+56,33340,686,11,Bachelor,Group_A,0
+45,18000,665,20,Bachelor,Group_A,1
+23,50741,702,19,Bachelor,Group_B,1
+29,59362,687,5,Bachelor,Group_B,0
+42,48961,674,0,High School,Group_B,0
+43,51725,704,2,Master,Group_A,1
+32,53948,611,6,Bachelor,Group_B,0
+30,70394,697,10,Master,Group_B,0
+54,41394,673,11,Master,Group_B,1
+30,58599,634,8,High School,Group_A,1
+50,58737,722,0,High School,Group_B,0
+42,69985,797,3,High School,Group_A,1
+26,80914,763,1,Master,Group_A,0
+22,90314,662,1,Master,Group_A,1
+50,46572,723,16,Bachelor,Group_B,1
+22,24000,735,20,High School,Group_B,1
+52,55645,688,1,High School,Group_A,0
+36,31405,678,3,Master,Group_A,0
+32,109222,702,10,Master,Group_A,1
+21,44288,843,18,High School,Group_A,1
+28,70149,697,12,High School,Group_A,1
+33,76813,598,20,Bachelor,Group_A,0
+35,66131,612,17,High School,Group_B,0
+28,97381,669,18,Master,Group_A,1
+30,56355,599,14,Bachelor,Group_A,1
+25,44972,671,11,Bachelor,Group_A,1
+39,44041,825,10,Bachelor,Group_B,1
+58,73500,647,0,Bachelor,Group_B,1
+31,56584,609,15,High School,Group_B,0
+40,44043,667,12,Master,Group_A,1
+40,67943,673,5,Bachelor,Group_B,1
+41,72766,616,5,Bachelor,Group_A,1
+38,64883,600,9,Bachelor,Group_B,1
+30,76193,768,1,High School,Group_B,0
+54,61586,713,2,High School,Group_B,0
+46,49315,649,5,Bachelor,Group_B,1
+50,74605,605,15,Bachelor,Group_B,0
+29,43978,646,5,Bachelor,Group_A,0
+51,39680,600,12,Master,Group_B,1
+24,80807,642,3,Bachelor,Group_A,0
+26,53739,814,14,Bachelor,Group_B,1
+34,89982,696,5,High School,Group_A,0
+24,75419,640,0,Master,Group_A,1
+46,52371,724,8,Bachelor,Group_A,1
+59,68752,620,11,High School,Group_A,0
+37,105511,654,10,Bachelor,Group_A,1
+39,73577,559,12,Bachelor,Group_B,1
+26,70471,763,0,Master,Group_A,1
+49,49295,667,18,Master,Group_A,1
+31,93202,627,20,Bachelor,Group_B,1
+36,83723,722,3,Bachelor,Group_A,1
+50,49460,612,4,High School,Group_B,0
+45,93847,616,16,Bachelor,Group_B,1
+60,62966,655,4,Master,Group_B,0
+31,44873,602,18,Bachelor,Group_B,1
+27,49227,638,2,Bachelor,Group_A,0
+46,75799,667,10,Master,Group_B,1
+42,44997,673,1,High School,Group_A,0
+45,40144,594,13,High School,Group_A,1
+39,52100,664,5,Bachelor,Group_B,0
+51,54789,718,18,Master,Group_A,0
+46,47880,729,0,Master,Group_B,1
+56,51829,648,6,Bachelor,Group_B,0
+43,76505,668,1,Master,Group_B,0
+33,64617,664,18,Bachelor,Group_B,1
+45,50718,590,0,High School,Group_A,0
+22,52299,645,8,Master,Group_A,1
+22,57630,732,20,High School,Group_B,1
+36,58661,733,16,High School,Group_A,1
+29,58737,707,9,Bachelor,Group_B,1
+48,75844,507,5,Bachelor,Group_B,0
+33,63547,629,2,Bachelor,Group_B,0
+55,64076,710,19,High School,Group_A,1
+33,85682,791,14,Bachelor,Group_A,1
+51,93780,679,20,High School,Group_A,1
+41,37843,686,19,Bachelor,Group_A,1
+52,31580,673,5,Master,Group_B,0
+54,53711,595,2,Master,Group_A,0
+28,74096,703,9,Master,Group_A,0
+22,66768,581,11,Bachelor,Group_A,1
+58,78974,674,0,Bachelor,Group_B,1
+52,52937,686,15,Bachelor,Group_B,1
+60,24779,683,16,High School,Group_A,1
+48,35398,596,9,Bachelor,Group_A,1
+57,70165,634,11,Bachelor,Group_A,0
+21,79112,725,18,Master,Group_A,1
+30,25678,685,7,Bachelor,Group_B,0
+24,85392,634,7,High School,Group_B,1
+55,68363,610,9,Master,Group_A,1
+30,58732,732,9,Bachelor,Group_A,0
+31,48717,682,17,Master,Group_B,1
+34,88641,607,9,Master,Group_A,1
+58,76146,668,6,Bachelor,Group_B,1
+32,68835,628,3,High School,Group_A,0
+37,46835,700,0,High School,Group_A,0
+36,89055,761,10,High School,Group_A,1
+55,60546,610,18,High School,Group_B,1
+22,65382,690,4,Bachelor,Group_B,1
+31,61315,689,7,Master,Group_A,0
+23,46220,541,1,Master,Group_A,0
+49,65755,734,1,Bachelor,Group_A,1
+38,72545,816,13,High School,Group_A,1
+40,52051,689,8,Bachelor,Group_A,0
+34,64213,768,9,Bachelor,Group_A,1
+54,61053,598,12,High School,Group_B,1
+51,76472,633,0,Master,Group_A,1
+60,54619,685,13,Master,Group_A,1
+38,64078,625,1,Bachelor,Group_B,1
+50,67869,682,3,Bachelor,Group_A,0
+45,54212,745,18,High School,Group_B,0
+39,45144,623,0,Bachelor,Group_A,0
+28,48073,748,3,High School,Group_B,1
+48,67365,555,10,High School,Group_B,1
+28,55764,643,12,Bachelor,Group_B,1
+51,55525,667,17,Bachelor,Group_B,1
+23,70875,620,9,Bachelor,Group_A,1
+23,78351,644,4,Bachelor,Group_B,1
+42,81451,771,0,Bachelor,Group_A,1
+37,48975,761,13,Master,Group_A,0
+56,76609,727,15,Master,Group_A,1
+37,97530,748,17,Master,Group_B,1
+34,62269,640,2,Master,Group_A,0
+29,58680,601,2,Bachelor,Group_B,0
+50,54928,628,3,Bachelor,Group_B,0
+41,40852,637,6,High School,Group_B,0
+32,75161,640,12,High School,Group_B,0
+57,58760,714,8,Master,Group_A,1
+52,57305,701,2,Master,Group_A,1
+31,72372,669,16,Bachelor,Group_A,1
+40,74031,673,14,Bachelor,Group_A,1
+55,49185,751,9,High School,Group_A,1
+31,49615,596,14,Bachelor,Group_A,0
+28,48816,731,0,Bachelor,Group_A,0
+24,98043,543,20,Bachelor,Group_B,1
+47,86589,643,9,Master,Group_B,0
+60,72727,778,6,High School,Group_A,1
+58,53243,700,6,Bachelor,Group_B,0
+50,55375,650,2,Bachelor,Group_A,1
+47,66542,739,6,Master,Group_A,1
+41,99764,719,8,Master,Group_B,1
+40,65200,716,7,Bachelor,Group_A,1
+24,69159,667,2,Master,Group_A,0
+31,18000,742,4,Bachelor,Group_B,1
+33,64636,638,12,High School,Group_B,1
+29,34910,635,12,Bachelor,Group_B,0
+24,51234,802,7,High School,Group_B,1
+32,60844,648,17,Bachelor,Group_B,1
+29,54562,548,6,Master,Group_A,0
+33,48553,749,9,Master,Group_A,1
+46,48713,768,9,Bachelor,Group_A,1
+58,56201,665,10,Bachelor,Group_A,0
+33,55415,544,11,High School,Group_B,0
+59,60365,676,12,Bachelor,Group_A,1
+48,59019,815,7,High School,Group_B,1
+39,83020,693,16,Bachelor,Group_B,1
+44,23107,730,13,Bachelor,Group_B,1
+39,64410,734,16,Master,Group_B,1
+33,61278,743,18,High School,Group_B,0
+33,57585,801,15,Bachelor,Group_A,1
+48,47295,750,8,Bachelor,Group_B,1
+22,57305,675,19,High School,Group_A,1
+30,30597,607,9,Bachelor,Group_B,0
+42,63721,708,8,Bachelor,Group_A,0
+33,66985,667,0,Bachelor,Group_B,0
+29,47327,727,2,Master,Group_B,1
+53,94932,624,10,Bachelor,Group_A,1
+34,57832,660,6,Bachelor,Group_A,0
+40,60793,681,17,High School,Group_B,1
+35,84044,619,12,Master,Group_A,1
+52,98558,683,17,High School,Group_B,1
+53,39780,731,15,High School,Group_B,1
+37,49611,804,15,High School,Group_A,1
+44,58152,632,20,Bachelor,Group_A,1
+50,46628,739,9,Bachelor,Group_A,1
+33,75230,551,8,Master,Group_B,1
+36,44646,680,7,Master,Group_A,1
+22,82799,685,18,Bachelor,Group_B,1
+37,71226,733,2,Bachelor,Group_A,1
+52,80953,646,8,Bachelor,Group_B,1
+28,44727,696,1,Master,Group_B,1
+23,53097,752,18,Bachelor,Group_B,1
+32,76164,607,7,Bachelor,Group_A,1
+40,72899,553,17,Bachelor,Group_B,1
+36,54837,750,7,Bachelor,Group_B,1
+34,57398,615,4,High School,Group_B,0
+36,52182,710,5,High School,Group_B,0
+53,56914,807,9,Bachelor,Group_A,1
+50,42624,734,14,Master,Group_A,1
+32,39602,617,3,Bachelor,Group_B,0
+35,78098,585,2,Master,Group_A,0
+38,56303,629,8,High School,Group_B,0
+48,80724,691,15,Bachelor,Group_B,0
+43,70728,664,15,Bachelor,Group_A,1
+34,65616,769,14,Master,Group_B,1
+50,47216,723,8,Bachelor,Group_A,0
+53,38206,633,16,Bachelor,Group_B,0
+35,51776,735,20,High School,Group_B,1
+27,87575,778,11,Bachelor,Group_B,1
+35,76001,660,7,Master,Group_A,0
+58,50093,711,13,Bachelor,Group_A,1
+31,51980,623,17,Master,Group_B,0
+49,43276,671,11,Master,Group_B,1
+51,32152,622,13,High School,Group_B,1
+45,61829,761,19,Master,Group_A,1
+44,91051,647,4,Bachelor,Group_A,1
+39,91277,709,0,High School,Group_A,1
+22,70942,721,12,Bachelor,Group_B,1
+42,49152,850,13,Bachelor,Group_A,1
+40,33909,663,1,Bachelor,Group_A,1
+53,78847,629,15,High School,Group_B,1
+28,68050,675,4,Master,Group_A,0
+45,54308,625,0,Bachelor,Group_B,1
+29,51301,648,11,Bachelor,Group_B,0
+54,70808,727,18,Bachelor,Group_B,1
+43,45121,636,9,High School,Group_A,0
+25,64306,717,11,Bachelor,Group_A,1
+45,38043,719,18,Bachelor,Group_B,0
+28,100113,696,15,Bachelor,Group_B,0
+36,47633,724,16,High School,Group_B,1
+35,71671,661,12,Master,Group_A,1
+21,38436,550,6,Bachelor,Group_B,1
+42,57061,684,2,Bachelor,Group_B,0
+23,75923,685,4,Bachelor,Group_B,1
+58,79817,656,3,Bachelor,Group_B,1
+34,73739,722,14,High School,Group_B,1
+56,57512,730,16,Bachelor,Group_B,1
+38,48013,694,11,Bachelor,Group_A,0
+38,40602,686,13,High School,Group_A,0
+23,87068,759,3,High School,Group_A,1
+30,61861,610,16,Bachelor,Group_A,0
+59,65188,658,10,High School,Group_A,0
+21,80977,745,5,Bachelor,Group_A,1
+47,70561,715,3,Bachelor,Group_A,0
+47,57706,665,12,Bachelor,Group_A,0
+31,73399,705,19,Master,Group_B,1
+25,48794,644,14,Bachelor,Group_B,0
+27,32079,690,17,Master,Group_A,1
+39,85413,725,16,Master,Group_B,1
+49,50294,764,18,Master,Group_B,1
+35,54523,723,9,High School,Group_A,1
+55,56110,769,4,Master,Group_A,1
+57,49160,586,11,Master,Group_B,0
+32,79824,536,14,Bachelor,Group_B,1
+50,66740,538,3,Bachelor,Group_B,0
+40,54532,753,7,Master,Group_A,1
+57,37038,719,19,Bachelor,Group_A,1
+23,65468,633,16,Bachelor,Group_A,1
+29,18000,655,5,Master,Group_A,1
+59,64189,702,15,Bachelor,Group_A,1
+46,84177,633,4,High School,Group_A,0
+22,61162,627,13,Bachelor,Group_B,0
+43,81714,637,1,Bachelor,Group_B,0
+43,37875,632,16,Master,Group_A,1
+41,96694,683,5,Bachelor,Group_B,1
+36,79751,788,10,Master,Group_A,1
+29,68567,615,1,Bachelor,Group_A,0
+33,49229,675,0,Bachelor,Group_A,1
+48,46239,710,4,High School,Group_B,1
+47,58724,715,7,Bachelor,Group_B,1
+37,81650,647,3,Master,Group_B,1
+58,36321,720,18,High School,Group_A,1
+56,60187,707,4,Master,Group_B,1
+21,73216,651,4,Bachelor,Group_A,1
+38,76728,592,15,High School,Group_B,0
+29,73162,606,17,High School,Group_B,1
+33,34483,728,10,Bachelor,Group_A,1
+60,80372,773,16,Bachelor,Group_B,1
+35,61209,680,2,Bachelor,Group_B,0
+24,40459,771,17,Bachelor,Group_A,1
+53,59565,677,3,Bachelor,Group_B,1
+44,24744,606,18,Bachelor,Group_A,1
+56,70409,666,8,Bachelor,Group_B,1
+30,57701,777,4,Master,Group_B,1
+56,37138,641,3,Bachelor,Group_B,0
+40,54779,671,15,High School,Group_B,1
+31,47266,757,9,Bachelor,Group_B,1
+32,48415,753,8,Bachelor,Group_A,0
+38,19301,700,15,Bachelor,Group_B,1
+50,29901,715,19,Master,Group_A,1
+57,55865,749,16,Master,Group_A,1
+40,52768,700,17,Bachelor,Group_A,1
+45,77532,763,14,Bachelor,Group_A,1
+32,48628,724,19,Bachelor,Group_B,1
+41,50514,670,8,Master,Group_A,1
+45,51356,708,5,Bachelor,Group_B,1
+31,56453,655,5,Bachelor,Group_A,0
+29,61646,617,10,Master,Group_A,1
+45,52686,606,19,Bachelor,Group_B,0
+55,70282,667,2,Bachelor,Group_A,1
+52,101404,700,11,Master,Group_A,1
+34,45142,797,14,Master,Group_B,1
+21,67053,707,6,High School,Group_A,0
+37,60531,692,17,Bachelor,Group_B,1
+45,78847,674,14,Bachelor,Group_A,1
+28,63654,657,7,Master,Group_A,0
+25,46924,688,8,Master,Group_B,1
+25,39029,662,14,Master,Group_A,0
+55,70989,659,15,Bachelor,Group_A,1
+39,40492,733,19,High School,Group_A,1
+43,81307,621,2,Bachelor,Group_A,0
+29,69957,664,4,Bachelor,Group_B,0
+50,61561,635,2,Bachelor,Group_A,0
+36,36379,688,1,Bachelor,Group_B,0
+53,72156,735,1,Bachelor,Group_B,1
+22,89102,703,3,Master,Group_A,1
+34,52348,666,2,High School,Group_B,0
+21,46646,741,8,Bachelor,Group_A,1
+46,58344,737,11,Bachelor,Group_B,1
+45,68405,683,8,Bachelor,Group_A,0
+36,50438,784,18,Bachelor,Group_B,1
+35,76186,707,11,High School,Group_A,1
+46,94393,706,15,Bachelor,Group_A,1
+36,65944,602,0,High School,Group_B,0
+34,54150,571,9,High School,Group_B,1
+49,67920,684,9,Bachelor,Group_A,1
+44,81191,745,3,High School,Group_A,0
+35,62873,701,10,Bachelor,Group_B,1
+39,68732,742,10,High School,Group_B,1
+28,72686,653,10,Bachelor,Group_B,1
+54,44242,685,5,Bachelor,Group_B,0
+22,68264,681,14,Bachelor,Group_B,0
+47,35845,563,1,Bachelor,Group_B,0
+30,48148,796,20,Master,Group_A,1
+55,80622,758,2,High School,Group_A,1
+43,75679,740,4,Bachelor,Group_B,1
+28,55137,764,10,Bachelor,Group_B,1
+48,90704,650,20,High School,Group_A,1
+43,36417,732,11,Bachelor,Group_A,1
+24,56308,650,2,High School,Group_B,0
+34,64952,690,8,Master,Group_B,0
+49,18000,567,2,High School,Group_A,0
+21,57162,670,1,High School,Group_A,0
+24,39759,581,5,Bachelor,Group_A,0
+52,40169,598,5,Bachelor,Group_A,0
+53,55100,677,16,Bachelor,Group_A,1
+46,27138,634,7,Bachelor,Group_A,0
+37,45457,702,0,Master,Group_B,1
+59,27559,789,7,Master,Group_A,1
+43,62228,640,14,Bachelor,Group_B,1
+52,61878,663,17,Master,Group_B,1
+35,53726,723,12,Bachelor,Group_A,1
+33,77936,636,7,High School,Group_B,1
+22,54669,633,19,Bachelor,Group_A,1
+39,59585,651,17,High School,Group_B,1
+44,43692,737,12,Master,Group_A,1
+44,18541,565,13,High School,Group_B,0
+31,57384,625,14,Bachelor,Group_B,0
+42,55033,780,5,Bachelor,Group_A,1
+35,90778,479,0,Bachelor,Group_A,0
+30,72014,672,6,High School,Group_B,1
+47,52564,779,0,Master,Group_B,1
+29,62550,804,14,High School,Group_A,1
+48,76326,732,5,Master,Group_B,1
+21,69302,756,4,Master,Group_A,1
+37,90040,618,11,Bachelor,Group_B,0
+51,45791,624,2,High School,Group_A,1
+30,77551,791,19,High School,Group_B,1
+57,52388,663,13,Master,Group_A,1
+49,63485,558,5,High School,Group_A,0
+38,49962,707,3,High School,Group_A,1
+58,57444,668,14,Bachelor,Group_A,0
+59,63808,685,16,Bachelor,Group_B,1
+26,70679,525,4,High School,Group_A,0
+60,61104,508,5,Bachelor,Group_B,0
+32,18000,700,9,Bachelor,Group_A,1
+34,58615,660,8,High School,Group_A,1
+30,86467,650,3,Bachelor,Group_A,1
+40,58472,705,8,Bachelor,Group_A,1
+35,86973,629,7,Bachelor,Group_A,0
+51,57836,663,2,High School,Group_A,0
+27,31704,651,19,Bachelor,Group_A,1
+30,52207,738,0,Bachelor,Group_A,1
+30,49948,558,19,Bachelor,Group_B,1
+59,55868,638,4,High School,Group_B,0
+48,38664,751,2,High School,Group_A,0
+50,59841,626,3,Master,Group_A,1
+57,54091,688,18,Bachelor,Group_B,1
+23,83182,789,14,Bachelor,Group_B,1
+35,38216,690,18,Master,Group_B,0
+41,64422,819,15,Bachelor,Group_A,1
+57,67399,771,7,Bachelor,Group_B,1
+32,73950,638,13,Bachelor,Group_B,1
+24,53455,598,4,Master,Group_B,1
+29,63974,641,0,Bachelor,Group_B,0
+59,66359,705,18,Bachelor,Group_A,1
+48,30329,703,4,Bachelor,Group_A,0
+43,54101,723,2,Master,Group_B,0
+60,59412,620,16,Bachelor,Group_B,1
+42,61522,629,6,Bachelor,Group_A,1
+44,61302,716,16,Bachelor,Group_A,1
+46,67875,809,12,Bachelor,Group_A,1
+50,94877,609,13,High School,Group_A,0
+53,49282,675,11,Master,Group_B,1
+36,66861,657,10,High School,Group_B,0
+42,83423,689,0,Bachelor,Group_A,0
+38,27625,602,2,Bachelor,Group_A,0
+27,64826,686,11,Bachelor,Group_A,1
+46,29753,759,8,Bachelor,Group_A,1
+28,99340,574,1,Master,Group_B,1
+26,69397,745,13,Bachelor,Group_B,1
+50,66968,602,4,High School,Group_B,1
+59,26279,697,2,Bachelor,Group_A,0
+43,50919,712,11,High School,Group_B,1
+52,51004,704,11,High School,Group_B,0
+42,91796,658,20,High School,Group_B,1
+29,73126,723,6,High School,Group_A,1
+51,30247,598,0,Bachelor,Group_A,0
+27,68451,739,2,Bachelor,Group_A,1
+29,32948,650,10,High School,Group_A,1
+33,30672,701,12,Master,Group_A,1
+23,68162,657,9,High School,Group_A,1
+55,73406,780,18,Master,Group_A,1
+53,68258,709,3,Bachelor,Group_B,0
+41,93832,722,4,High School,Group_A,1
+51,66638,731,10,Master,Group_A,1
+54,63062,664,8,Bachelor,Group_B,1
+52,38112,699,12,Bachelor,Group_B,1
+55,75437,691,16,Bachelor,Group_B,1
+35,30274,722,14,Bachelor,Group_B,1
+52,96367,651,12,Bachelor,Group_B,0
+26,75674,634,20,High School,Group_B,1
+41,110216,757,10,High School,Group_A,1
+53,67008,731,0,Bachelor,Group_A,1
+52,76563,625,7,High School,Group_A,1
+39,55011,804,4,High School,Group_A,0
+53,59221,643,15,Bachelor,Group_A,1
+48,41072,688,3,Master,Group_B,1
+51,33941,756,18,Bachelor,Group_B,1
+41,63411,755,17,Bachelor,Group_B,1
+54,59115,634,1,Master,Group_A,1
+35,40632,714,12,High School,Group_B,1
+34,43823,660,15,Bachelor,Group_B,1
+39,60584,707,7,Master,Group_A,0
+35,40324,672,18,Master,Group_B,0
+26,66420,654,2,High School,Group_A,1
+29,40882,617,18,Bachelor,Group_A,1
+57,64605,757,16,High School,Group_B,1
+40,39287,632,8,Master,Group_A,0
+54,39363,775,20,Master,Group_A,1
+58,18000,661,20,High School,Group_B,0
+46,57115,712,16,Bachelor,Group_B,1
+38,86173,780,0,Master,Group_A,1
+48,85152,652,3,High School,Group_A,1
+29,65833,711,14,High School,Group_A,0
+52,23982,712,11,High School,Group_B,1
+26,75190,637,16,Bachelor,Group_A,1
+34,64062,694,11,Master,Group_A,1
+48,52683,728,15,Master,Group_B,1
+44,81733,791,12,High School,Group_B,1
+33,71078,653,10,High School,Group_A,1
+32,95308,702,14,Bachelor,Group_B,0
+39,34699,672,15,Master,Group_B,1
+41,36106,693,5,Bachelor,Group_A,0
+47,39138,642,10,Bachelor,Group_A,0
+39,54870,669,14,Bachelor,Group_B,1
+44,88587,779,4,High School,Group_A,1
+46,48775,688,2,Bachelor,Group_B,0
+48,49160,685,1,Master,Group_A,1
+38,67511,625,0,High School,Group_A,1
+56,75177,751,14,Bachelor,Group_A,1
+49,19738,735,1,Bachelor,Group_A,0
+37,78715,688,19,Bachelor,Group_A,1
+24,48206,804,5,Bachelor,Group_A,1
+49,58156,645,11,Bachelor,Group_B,0
+24,85529,612,20,Master,Group_B,0
+30,56104,674,15,Bachelor,Group_B,1
+45,32426,625,13,Bachelor,Group_B,0
+51,33470,696,3,High School,Group_A,0
+23,59476,685,7,Master,Group_B,0
+22,53981,755,11,Bachelor,Group_A,1
+45,61071,650,13,Master,Group_B,1
+26,52777,702,19,Bachelor,Group_B,0
+46,82346,692,12,High School,Group_B,0
+28,60446,734,4,High School,Group_B,1
+55,28266,607,11,Master,Group_B,1
+47,74698,622,9,Bachelor,Group_A,1
+45,94313,642,20,High School,Group_A,1
+38,62789,610,18,High School,Group_B,0
+21,64186,720,12,Bachelor,Group_A,1
+59,45962,720,8,High School,Group_B,0
+23,55636,751,10,Bachelor,Group_B,0
+24,69052,671,4,High School,Group_A,1
+57,80372,650,12,Bachelor,Group_B,1
+35,68028,618,9,High School,Group_B,1
+28,92725,765,17,Bachelor,Group_B,1
+58,61772,666,14,Bachelor,Group_B,1
+39,39809,633,19,High School,Group_B,0
+46,40325,729,11,Bachelor,Group_B,1
+59,82219,658,3,Bachelor,Group_B,1
+30,78128,611,4,High School,Group_A,0
+58,30397,624,7,Bachelor,Group_A,1
+34,56229,686,4,Bachelor,Group_B,1
+39,56883,610,0,Bachelor,Group_A,1
+50,46472,674,17,High School,Group_B,1
+25,34613,624,18,Bachelor,Group_B,0
+51,46075,619,18,High School,Group_A,1
+27,42840,648,9,Bachelor,Group_B,1
+39,35044,690,8,Bachelor,Group_B,1
+51,74923,701,0,Bachelor,Group_A,0
+59,65093,740,19,Master,Group_A,1
+44,51646,629,2,High School,Group_A,0
+54,22730,770,12,Master,Group_A,1
+43,54617,850,5,High School,Group_B,1
+60,69379,653,5,Master,Group_A,1
+26,46751,565,17,Bachelor,Group_B,0
+58,39301,567,4,Master,Group_A,1
+56,57786,648,16,High School,Group_A,1
+47,66031,635,2,Bachelor,Group_B,0
+31,24001,680,4,Bachelor,Group_B,0
+25,84372,713,2,Master,Group_A,1
+37,37516,596,12,Master,Group_A,0
+27,52390,669,14,High School,Group_A,0
+47,81263,647,16,Bachelor,Group_A,1
+35,62256,812,14,Bachelor,Group_B,1
+33,79730,590,4,High School,Group_A,0
+31,87966,631,13,High School,Group_A,1
+46,33726,682,10,Master,Group_A,1
+42,76237,631,13,Bachelor,Group_B,1
+48,83859,754,6,High School,Group_B,1
+44,53236,614,2,High School,Group_A,0
+49,54668,620,19,Bachelor,Group_B,0
+29,25565,759,9,Bachelor,Group_A,0
+24,74059,603,10,Bachelor,Group_A,1
+38,18000,734,5,Bachelor,Group_B,0
+36,77439,651,4,High School,Group_B,0
+53,34482,640,19,Bachelor,Group_B,1
+49,85032,647,12,High School,Group_B,0
+59,67133,607,11,Master,Group_A,1
+30,78161,739,18,High School,Group_B,1
+29,45370,689,18,Master,Group_A,1
+51,35998,738,20,Bachelor,Group_B,1
+48,28255,756,4,Bachelor,Group_A,1
+23,79642,715,19,Bachelor,Group_B,1
+34,71933,586,20,Bachelor,Group_A,1
+45,72571,617,8,Master,Group_A,1
+35,65246,735,3,Bachelor,Group_B,1
+22,69790,684,14,High School,Group_A,1
+44,54750,722,2,Bachelor,Group_B,0
+34,66665,674,6,High School,Group_A,0
+27,44577,652,19,Bachelor,Group_A,0
+56,53831,722,19,High School,Group_A,1
+44,114780,568,13,Bachelor,Group_A,0
+47,60701,659,13,Bachelor,Group_B,0
+57,24511,684,8,High School,Group_A,1
+58,52645,694,2,Bachelor,Group_B,1
+50,40965,596,8,Bachelor,Group_B,0
+47,62866,599,20,High School,Group_A,0
+59,43992,654,3,Bachelor,Group_B,1
+35,56187,676,16,Bachelor,Group_B,0
+46,46683,781,5,High School,Group_B,1
+21,63549,623,15,Master,Group_A,0
+24,48707,648,17,Bachelor,Group_A,0
+49,66424,783,12,High School,Group_B,1
+21,95074,749,6,Master,Group_B,1
+42,39221,608,2,Bachelor,Group_B,0
+31,73029,724,5,Bachelor,Group_A,0
+30,18000,734,2,Bachelor,Group_B,0
+37,55810,693,11,Bachelor,Group_A,0
+56,64120,604,4,Bachelor,Group_A,0
+46,46536,641,16,Bachelor,Group_A,0
+41,27827,639,9,High School,Group_B,0
+33,59315,714,6,Bachelor,Group_A,1
+29,87578,652,3,Bachelor,Group_A,1
+31,57364,663,9,High School,Group_B,0
+31,70054,641,6,Bachelor,Group_A,1
+26,80284,579,10,Bachelor,Group_A,0
+21,104487,849,20,Master,Group_A,1
+26,41059,706,7,Bachelor,Group_B,1
+33,42916,776,7,High School,Group_B,0
+42,54740,607,4,Master,Group_A,0
+51,71078,779,4,Master,Group_B,1
+42,18227,654,6,Bachelor,Group_B,1
+57,71768,714,3,High School,Group_A,1
+47,62669,744,1,Bachelor,Group_B,0
+34,50389,778,18,Master,Group_B,1
+25,67659,677,1,High School,Group_B,0
+56,76014,615,15,Bachelor,Group_A,1
+52,78504,679,11,Bachelor,Group_B,1
+54,60266,718,14,Bachelor,Group_B,1
+27,65869,645,9,Bachelor,Group_A,1
+30,65190,652,5,Bachelor,Group_A,1
+37,82162,579,12,Bachelor,Group_A,1
+50,66862,616,5,Bachelor,Group_A,0
+41,71614,709,1,High School,Group_B,1
+33,76068,737,13,Bachelor,Group_A,0
+21,95254,752,17,Bachelor,Group_A,1
+21,49455,828,5,Master,Group_B,1
+53,89263,777,18,Bachelor,Group_A,1
+58,104480,670,13,High School,Group_B,1
+45,50603,619,12,Master,Group_A,1
+46,56098,663,7,Bachelor,Group_A,0
+33,52288,644,4,Master,Group_A,0
+48,71824,691,12,High School,Group_A,1
+53,26490,738,5,Bachelor,Group_A,1
+57,51009,711,18,High School,Group_B,1
+50,55074,782,10,Master,Group_B,1
+28,53500,706,15,Master,Group_A,1
+21,53319,597,4,Bachelor,Group_B,1
+32,51193,643,11,High School,Group_B,1
+25,73993,706,16,High School,Group_B,0
+44,69688,695,1,Bachelor,Group_A,1
+26,90661,765,9,Bachelor,Group_A,1
+45,74039,680,14,Bachelor,Group_A,0
+21,40243,669,18,Bachelor,Group_B,1
+45,56939,578,19,Bachelor,Group_B,0
+21,55028,628,16,High School,Group_A,1
+52,64594,700,18,Bachelor,Group_A,1
+23,79678,694,18,Bachelor,Group_B,1
+39,63345,719,12,Master,Group_B,1
+49,63393,709,12,Bachelor,Group_B,1
+22,60181,673,15,Bachelor,Group_B,0
+29,74591,615,20,Bachelor,Group_A,1
+37,49760,680,2,Master,Group_B,0
+56,33774,677,3,High School,Group_B,0
+37,71602,769,6,Bachelor,Group_A,1
+32,66753,766,2,Master,Group_B,1
+40,83822,649,8,Bachelor,Group_B,1
+23,18000,640,7,Bachelor,Group_A,1
+24,58194,592,17,High School,Group_B,0
+37,61921,669,20,Master,Group_B,0
+57,32804,649,13,High School,Group_B,1
+35,58441,849,19,High School,Group_A,1
+53,81365,608,4,High School,Group_A,1
+36,97550,684,2,High School,Group_B,1
+31,77683,638,9,Master,Group_A,1
+40,54160,682,10,Bachelor,Group_B,1
+58,82707,658,16,Bachelor,Group_B,0
+44,76405,733,7,Master,Group_A,1
+36,51281,709,8,High School,Group_B,0
+50,49528,731,7,High School,Group_B,1
+54,56967,631,19,Bachelor,Group_A,1
+21,41085,750,1,Bachelor,Group_B,1
+44,54406,649,3,Bachelor,Group_B,1
+44,68762,589,15,High School,Group_B,0
+29,78693,668,8,Bachelor,Group_B,1
+42,53181,687,8,Bachelor,Group_A,1
+32,84992,599,20,Bachelor,Group_B,0
+37,71702,737,4,High School,Group_B,1
+45,72522,627,2,Bachelor,Group_B,0
+48,43458,624,13,Bachelor,Group_B,0
+35,92540,680,14,Bachelor,Group_A,0
+50,69961,736,5,Master,Group_B,0
+47,54012,601,15,Master,Group_A,1
+42,50836,741,9,Bachelor,Group_A,0
+30,54412,540,13,Master,Group_A,0
+51,41670,701,11,Master,Group_B,1
+47,77789,607,8,Bachelor,Group_B,1
+32,43513,628,18,Bachelor,Group_B,1
+51,65217,793,11,Master,Group_B,1
+52,51901,616,12,Bachelor,Group_B,1
+52,72074,676,12,High School,Group_B,1
+55,74521,611,16,Bachelor,Group_A,0
+41,48410,730,1,High School,Group_A,0
+30,59390,707,19,Bachelor,Group_A,1
+36,34019,716,8,High School,Group_B,0
+27,90610,754,20,High School,Group_B,1
+24,79224,658,7,High School,Group_A,0
+47,34880,750,6,Master,Group_A,1
+45,44396,777,4,Bachelor,Group_B,1
+51,57573,698,18,High School,Group_A,1
+31,60698,608,2,High School,Group_B,1
+40,47651,602,12,Bachelor,Group_B,1
+56,39391,709,5,Master,Group_A,1
+37,67111,608,10,High School,Group_A,0
+31,91311,593,3,High School,Group_B,1
+50,60984,737,2,Bachelor,Group_B,1
+55,54749,650,3,Bachelor,Group_B,0
+58,52857,837,2,Bachelor,Group_B,1
+42,40259,637,12,Bachelor,Group_A,0
+47,47904,648,14,Bachelor,Group_B,1
+57,80450,703,11,Bachelor,Group_B,1
+55,22725,693,14,Master,Group_B,1
+24,61262,675,10,High School,Group_A,0
+36,60503,673,10,High School,Group_B,0
+36,62131,850,12,Master,Group_B,1
+41,73094,788,11,Master,Group_A,1
+46,61101,735,5,High School,Group_A,1
+56,51829,600,19,Master,Group_B,1
+39,48181,675,18,Bachelor,Group_A,1
+37,83370,723,18,Bachelor,Group_A,1
+46,78739,729,2,Bachelor,Group_A,1
+42,111797,763,15,Bachelor,Group_B,1
+48,54942,638,8,High School,Group_B,0
+21,48512,677,13,Bachelor,Group_B,1
+56,68157,631,2,Bachelor,Group_A,1
+57,67722,767,2,Master,Group_B,1
+22,71454,725,19,Bachelor,Group_B,1
+37,75248,647,6,Bachelor,Group_B,0
+60,71280,695,18,Bachelor,Group_B,1
+58,79351,683,2,Bachelor,Group_A,1
+41,81744,623,20,Master,Group_B,0
+29,82065,740,0,Bachelor,Group_A,1
+33,19296,685,11,Bachelor,Group_B,1
+31,64183,646,20,Bachelor,Group_A,1
+36,43382,622,5,Bachelor,Group_A,1
+36,78998,736,6,High School,Group_A,1
+22,18919,697,1,Bachelor,Group_B,1
+28,86446,635,17,Bachelor,Group_A,0
+33,44435,648,14,Master,Group_B,1
+37,40310,680,14,Bachelor,Group_A,0
+59,66412,684,9,Master,Group_A,0
+44,53281,692,16,High School,Group_B,1
+23,92029,565,17,Bachelor,Group_A,0
+50,84535,688,17,Bachelor,Group_A,1
+33,50805,601,14,Bachelor,Group_B,0
+39,78765,772,5,Master,Group_A,1
+27,50185,748,8,Master,Group_A,1
+29,50030,755,10,Bachelor,Group_A,1
+39,72855,520,14,Bachelor,Group_B,1
+60,86205,661,2,Master,Group_B,1
+42,52061,675,18,Bachelor,Group_B,0
+38,53431,717,0,Master,Group_B,1
+43,65422,739,16,Master,Group_A,1
+22,43908,764,10,Bachelor,Group_A,1
+31,88177,529,17,Bachelor,Group_B,1
+51,43736,628,10,Bachelor,Group_A,1
+53,48603,684,6,High School,Group_A,0
+34,91810,734,0,Bachelor,Group_A,1
+36,63863,732,11,High School,Group_A,0
+31,94985,711,3,Bachelor,Group_B,1
+53,56053,639,7,Master,Group_A,1
+27,105351,647,14,High School,Group_B,1
+51,71082,639,10,High School,Group_A,0
+34,46456,616,7,Bachelor,Group_B,0
+48,46179,615,11,Bachelor,Group_A,0
+36,33770,609,2,Bachelor,Group_A,0
+39,35739,702,20,Bachelor,Group_B,1
+37,48128,688,3,High School,Group_B,0
+46,42151,620,11,High School,Group_A,0
+26,18000,569,7,Master,Group_A,0
+29,75147,656,9,High School,Group_A,1
+37,73956,776,0,Bachelor,Group_A,1
+51,65551,680,12,Master,Group_A,1
+32,39571,732,6,Master,Group_A,1
+43,89642,692,19,High School,Group_A,1
+25,56793,676,2,Bachelor,Group_A,1
+56,45002,584,15,Bachelor,Group_B,1
+56,64187,654,11,Bachelor,Group_B,0
+23,63154,645,4,Master,Group_B,1
+44,18000,776,17,Bachelor,Group_A,1
+37,59443,692,7,High School,Group_A,0
+59,62170,763,11,Bachelor,Group_B,1
+46,53183,753,20,Bachelor,Group_A,1
+24,36214,625,2,Bachelor,Group_A,0
+32,36744,680,15,High School,Group_B,0
+21,69253,790,9,High School,Group_B,1
+41,73709,717,16,Master,Group_B,1
+39,51936,713,9,High School,Group_A,1
+41,66882,739,2,Bachelor,Group_A,1
+38,51757,711,1,Master,Group_B,1
+23,44642,716,13,Bachelor,Group_A,1
+52,63861,700,8,High School,Group_B,0
+30,39316,658,16,Bachelor,Group_B,1
+60,94088,611,3,Bachelor,Group_B,1
+35,34125,559,14,Bachelor,Group_A,0
+25,65109,659,12,Master,Group_A,1
+24,62704,708,18,Bachelor,Group_B,0
+48,61107,696,8,Bachelor,Group_B,1
+24,86701,721,3,High School,Group_B,1
+35,18000,672,20,Bachelor,Group_A,1
+37,67411,850,7,Bachelor,Group_A,1
+23,55079,812,14,High School,Group_B,1
+30,70512,581,13,Bachelor,Group_B,0
+43,60984,723,2,High School,Group_B,1
+38,58650,743,16,High School,Group_A,1
+21,38268,542,7,Bachelor,Group_B,0
+55,47884,691,13,Bachelor,Group_B,1
+51,116367,714,12,High School,Group_B,1
+21,70676,680,14,Master,Group_A,1
+23,78947,705,10,High School,Group_A,0
+23,53666,685,14,High School,Group_B,1
+57,44599,726,11,High School,Group_A,1
+39,73976,781,20,High School,Group_A,1
+49,25733,730,8,High School,Group_B,1
+45,48287,756,14,Master,Group_A,1
+53,53618,611,0,Bachelor,Group_B,0
+56,77010,812,11,Bachelor,Group_A,1
+49,67447,700,5,Master,Group_B,1
+46,51488,655,0,Bachelor,Group_B,1
+24,66642,707,18,High School,Group_A,1
+34,54543,645,12,Bachelor,Group_A,0
+47,79261,689,5,High School,Group_A,0
+53,64251,700,16,Bachelor,Group_A,1
+42,91256,635,12,Bachelor,Group_B,1
+23,55000,690,8,Bachelor,Group_B,0
+43,82057,634,7,Bachelor,Group_A,0
+41,61627,634,14,Master,Group_A,1
+43,47450,614,17,Bachelor,Group_A,1
+24,106828,656,1,High School,Group_B,1
+41,83575,644,20,High School,Group_A,1
+57,64218,711,1,Bachelor,Group_B,1
+51,73788,751,10,High School,Group_B,1
+41,40524,723,0,High School,Group_B,0
+46,41157,743,17,Bachelor,Group_A,1
+55,80054,738,20,Bachelor,Group_B,1
+58,60086,620,6,Master,Group_A,0
+44,57195,658,20,Bachelor,Group_A,1
+31,54817,796,16,Master,Group_B,1
+49,62737,645,15,Master,Group_B,1
+23,55424,801,6,High School,Group_A,1
+21,23421,653,6,Bachelor,Group_A,1
+39,85486,547,1,Bachelor,Group_A,0
+42,58010,664,4,Bachelor,Group_A,1
+34,92968,735,13,Bachelor,Group_A,1
+34,28280,788,7,Bachelor,Group_A,1
+36,28210,584,11,Bachelor,Group_A,0
+53,55043,734,6,Bachelor,Group_B,1
+33,77595,738,5,Master,Group_B,1
+58,38046,765,12,Bachelor,Group_B,1
+32,37347,506,11,High School,Group_A,0
+58,66695,788,16,High School,Group_B,1
+59,54368,709,15,Master,Group_B,1
+53,69793,710,0,Bachelor,Group_B,1
+53,54691,748,6,Master,Group_B,1
+49,66932,550,2,Master,Group_B,1
+25,84590,746,5,Master,Group_B,1
+26,38084,834,20,Bachelor,Group_A,1
+51,81326,591,2,High School,Group_B,1
+36,29325,676,2,High School,Group_B,0
+51,70968,682,7,Bachelor,Group_B,1
+45,85547,703,13,Bachelor,Group_B,1
+53,50567,708,8,Bachelor,Group_A,1
+33,71602,636,4,Bachelor,Group_A,1
+30,51232,683,14,Bachelor,Group_B,0
+44,70537,793,16,High School,Group_B,1
+30,19347,706,9,High School,Group_B,0
+51,62919,704,7,Bachelor,Group_A,0
+33,67117,634,17,High School,Group_A,0
+23,84204,767,5,Bachelor,Group_B,1
+54,76655,666,16,Bachelor,Group_B,1
+48,57098,547,3,Master,Group_B,0
+39,64825,707,20,Master,Group_A,1
+43,33970,726,14,Bachelor,Group_B,1
+52,89593,661,9,Bachelor,Group_A,0
+33,72441,535,12,High School,Group_B,0
+53,26504,607,0,Bachelor,Group_A,1
+54,64428,673,8,Bachelor,Group_A,1
+53,65802,655,4,Bachelor,Group_B,0
+25,46069,709,10,Bachelor,Group_B,1
+23,61744,718,20,High School,Group_A,1
+27,44259,652,20,Master,Group_B,1
+44,34717,589,3,Bachelor,Group_A,0
+42,48960,774,19,Master,Group_A,1
+43,63089,716,15,Bachelor,Group_A,1
+50,76710,724,17,Bachelor,Group_A,1
+38,61257,705,7,High School,Group_B,1
+52,76886,751,1,High School,Group_A,1
+27,71677,655,16,Master,Group_A,1
+53,41363,734,9,Master,Group_B,1
+25,71540,723,12,Bachelor,Group_A,1
+48,72037,721,14,Bachelor,Group_B,1
+28,91352,602,8,Bachelor,Group_A,1
+35,67392,689,7,Bachelor,Group_B,0
+24,37776,705,5,Bachelor,Group_A,1
+54,50027,796,3,Bachelor,Group_A,1
+25,26654,686,17,Master,Group_A,1
+53,69189,750,2,Bachelor,Group_A,1
+25,89771,583,3,Bachelor,Group_A,0
+58,18000,633,20,Master,Group_B,1
+54,90532,709,12,Bachelor,Group_B,1
+46,68950,708,19,High School,Group_B,1
+21,40622,633,10,High School,Group_B,1
+24,64621,742,7,Bachelor,Group_A,1
+59,41202,669,13,Master,Group_A,1
+46,67928,668,13,Master,Group_A,0
+53,61140,675,15,Bachelor,Group_A,0
+53,65928,767,13,High School,Group_B,1
+28,43459,751,0,High School,Group_B,0
+40,46080,802,1,Bachelor,Group_A,1
+36,69033,716,19,Master,Group_A,1
+41,50951,806,0,Master,Group_B,1
+46,62682,695,10,High School,Group_B,1
+43,68154,672,5,Master,Group_A,0
+38,55998,652,14,Bachelor,Group_B,1
+51,80792,669,11,High School,Group_B,1
+32,56660,672,4,Bachelor,Group_A,0
+21,56120,635,11,Master,Group_A,1
+29,48629,642,13,Bachelor,Group_B,1
+23,78720,719,13,Master,Group_B,1
+46,47270,648,18,High School,Group_B,0
+29,82581,569,4,High School,Group_A,0
+36,62936,566,2,High School,Group_A,0
+44,108278,544,17,Master,Group_B,1
+34,48112,588,5,Bachelor,Group_B,0
+23,82953,602,8,Master,Group_A,1
+54,69184,617,6,Bachelor,Group_B,0
+53,50752,699,20,Bachelor,Group_B,1
+44,69426,597,17,Master,Group_B,1
+29,68549,620,1,Bachelor,Group_B,1
+33,54025,561,19,Master,Group_B,0
+22,67709,637,9,High School,Group_A,0
+27,80942,727,11,Bachelor,Group_B,1
+41,69204,678,1,Bachelor,Group_A,1
+39,52455,685,12,Master,Group_B,0
+45,51441,680,7,High School,Group_A,1
+42,58427,596,6,Bachelor,Group_B,0
+31,80024,653,2,Bachelor,Group_A,1
+53,46432,694,7,Bachelor,Group_A,0
+52,67058,743,20,High School,Group_A,1
+41,31876,704,0,High School,Group_A,0
+59,70703,737,14,Master,Group_B,1
+40,73532,609,0,Bachelor,Group_B,0
+28,96497,582,11,Bachelor,Group_B,0
+57,76655,566,10,Master,Group_A,0
+29,52778,733,15,High School,Group_A,0
+45,32378,586,3,Bachelor,Group_A,0
+45,69256,749,1,Master,Group_A,1
+53,54110,651,2,Master,Group_B,1
+22,66014,788,3,Bachelor,Group_A,1
+39,47037,651,17,Bachelor,Group_A,0
+40,56882,654,11,Bachelor,Group_A,1
+49,29400,684,0,Master,Group_A,1
+26,41168,653,2,Bachelor,Group_B,1
+37,38629,707,3,Master,Group_B,0
+45,75710,612,5,High School,Group_A,0
+58,45109,692,16,Bachelor,Group_A,1
+24,84803,631,7,Bachelor,Group_A,1
+50,45286,667,17,Bachelor,Group_A,1
+40,97727,591,15,Bachelor,Group_A,0
+23,24921,737,20,Master,Group_B,1
+43,67637,657,5,Master,Group_B,0
+38,60695,740,18,High School,Group_B,1
+46,38194,632,20,Master,Group_A,0
+56,50083,679,7,High School,Group_A,1
+28,55297,740,3,Bachelor,Group_B,0
+37,64497,604,8,Master,Group_B,1
+51,43144,623,7,High School,Group_B,1
+57,67656,733,20,Master,Group_A,1
+53,62155,768,18,Master,Group_B,1
+47,74025,681,0,Bachelor,Group_A,1
+24,44477,617,20,Bachelor,Group_B,1
+42,52632,659,20,Bachelor,Group_B,1
+46,85958,808,3,Master,Group_B,1
+52,43691,593,9,High School,Group_A,1
+44,34935,714,7,Bachelor,Group_B,0
+55,48643,688,2,High School,Group_A,1
+57,28033,605,11,High School,Group_A,0
+52,90112,660,8,Master,Group_A,0
+27,54910,563,2,Bachelor,Group_B,0
+53,55084,699,3,Master,Group_A,1
+51,73365,708,5,Bachelor,Group_A,0
+32,46940,591,8,Bachelor,Group_B,1
+31,56113,716,1,High School,Group_A,1
+44,46465,637,1,Master,Group_B,0
+28,28409,631,17,High School,Group_A,0
+52,60914,617,20,Bachelor,Group_A,1
+58,78463,723,2,Bachelor,Group_B,1
+42,61427,571,2,Bachelor,Group_A,0
+54,76556,577,17,Bachelor,Group_A,0
+39,40276,642,5,Bachelor,Group_B,1
+40,46427,644,0,High School,Group_B,1
+34,36703,721,14,Bachelor,Group_B,1
+53,66598,674,10,Master,Group_A,1
+30,54283,674,9,Bachelor,Group_A,0
+36,53609,575,3,High School,Group_B,1
+24,72042,665,13,Bachelor,Group_B,0
+47,51486,523,1,High School,Group_B,1
+48,79434,695,12,High School,Group_B,0
+36,64242,724,15,Bachelor,Group_B,1
+53,53409,629,11,Bachelor,Group_A,1
+39,32071,704,4,High School,Group_A,0
+41,71939,651,18,Bachelor,Group_B,1
+42,65093,760,2,Master,Group_A,1
+29,65959,695,20,Master,Group_A,1
+29,66533,612,19,Master,Group_B,1
+29,50476,756,20,Bachelor,Group_B,1
+47,57275,734,1,High School,Group_A,1
+37,51746,653,16,Master,Group_A,1
+28,82501,712,20,High School,Group_A,1
+36,55048,711,10,High School,Group_B,1
+38,48854,652,0,Bachelor,Group_B,0
+53,83738,684,18,High School,Group_A,1
+21,81779,696,7,Master,Group_A,0
+32,64255,636,10,Master,Group_B,0
+26,57662,768,7,Master,Group_A,0
+25,53168,551,16,Master,Group_B,1
+36,59208,724,19,High School,Group_B,1
+38,44255,601,5,Bachelor,Group_A,0
+38,68701,664,6,Bachelor,Group_B,1
+21,89745,576,20,Bachelor,Group_A,1
+39,70127,594,12,High School,Group_A,1
+28,40142,674,6,Bachelor,Group_B,0
+23,68192,685,10,Master,Group_A,1
+45,63502,749,9,High School,Group_B,1
+25,68033,654,7,High School,Group_B,1
+60,45248,720,9,High School,Group_A,1
+39,60060,679,10,Bachelor,Group_A,0
+38,75896,718,19,Bachelor,Group_A,1
+51,40740,609,16,Master,Group_A,0
+53,51916,686,10,Bachelor,Group_A,1
+38,54819,704,15,Bachelor,Group_A,0
+59,77971,648,4,Bachelor,Group_A,1
+36,80655,705,9,Bachelor,Group_B,1
+36,25528,711,19,Bachelor,Group_B,0
+58,77955,646,4,Master,Group_B,1
+27,81221,730,19,Master,Group_A,1
+34,80064,530,8,High School,Group_A,0
+45,50467,556,2,High School,Group_B,0
+52,55864,613,2,High School,Group_A,1
+58,31786,698,9,Bachelor,Group_A,1
+42,22291,631,6,Bachelor,Group_B,0
+36,53493,593,1,Bachelor,Group_B,0
+49,61376,674,7,Master,Group_B,1
+36,63182,687,11,High School,Group_A,1
+32,74781,639,8,Bachelor,Group_B,0
+37,115100,603,10,Bachelor,Group_B,1
+57,52872,680,18,Bachelor,Group_B,0
+47,41000,732,19,Bachelor,Group_B,1
+45,69830,601,16,Master,Group_B,0
+33,64000,783,12,High School,Group_B,0
+28,49659,643,0,High School,Group_A,0
+25,76395,639,0,Bachelor,Group_B,0
+32,45385,689,7,Bachelor,Group_B,1
+23,57686,687,12,High School,Group_B,1
+55,58723,535,5,High School,Group_A,0
+53,42941,673,2,Bachelor,Group_A,1
+42,29225,718,15,Bachelor,Group_B,1
+29,63941,747,9,Master,Group_B,1
+38,84637,672,6,Bachelor,Group_B,0
+49,77296,657,20,High School,Group_B,1
+59,78500,727,2,Bachelor,Group_B,1
+47,45619,796,13,High School,Group_B,0
+56,63853,686,15,Bachelor,Group_B,1
+37,34365,668,3,Bachelor,Group_B,0
+54,63040,762,12,Bachelor,Group_B,1
+23,84998,607,0,Master,Group_A,1
+25,85557,684,4,High School,Group_A,1
+34,96548,836,17,Master,Group_B,1
+23,77805,709,11,Master,Group_A,1
+43,68563,730,10,Bachelor,Group_A,1
+59,75745,659,8,High School,Group_A,1
+50,72250,718,6,Bachelor,Group_A,1
+43,45469,759,13,Bachelor,Group_A,1
+47,32724,582,2,Bachelor,Group_A,0
+30,75890,674,15,High School,Group_B,1
+45,97680,703,6,Master,Group_B,1
+33,76631,676,0,High School,Group_A,1
+36,26003,648,5,Bachelor,Group_A,0
+54,50653,771,5,High School,Group_B,1
+57,56460,693,9,Bachelor,Group_A,1
+42,26591,634,11,Master,Group_B,0
+37,35216,744,18,Bachelor,Group_B,1
+43,59333,770,5,High School,Group_B,1
+56,64709,754,13,Master,Group_A,1
+29,42252,653,2,Master,Group_B,1
+22,34387,656,9,Master,Group_A,0
+52,81480,612,8,Master,Group_B,1
+42,53114,697,19,Bachelor,Group_B,1
+33,55691,751,18,Bachelor,Group_A,1
+28,50160,717,14,Bachelor,Group_A,1
+21,46119,794,8,High School,Group_A,1
+37,83450,554,18,Bachelor,Group_B,0
+32,44164,689,7,Master,Group_A,1
+24,63234,734,3,Bachelor,Group_B,0
+33,60157,640,4,Master,Group_A,1
+51,24933,606,18,Bachelor,Group_B,0
+27,64337,602,13,Bachelor,Group_B,1
+43,32209,687,17,Bachelor,Group_B,1
+44,71438,600,18,Bachelor,Group_B,1
+25,38645,776,5,Bachelor,Group_A,1
+25,69396,713,4,High School,Group_A,0
+37,52269,667,10,High School,Group_B,1
+50,47862,675,4,Master,Group_A,1
+29,63790,750,7,High School,Group_A,1
+26,33507,767,4,Bachelor,Group_A,1
+45,58754,619,10,Bachelor,Group_A,0
+39,74081,632,12,Bachelor,Group_A,0
+36,78767,657,5,Master,Group_B,1
+41,51673,639,4,Bachelor,Group_A,1
+22,54300,563,17,Master,Group_B,0
+30,33146,627,9,Bachelor,Group_A,1
+36,46487,634,15,Bachelor,Group_B,0
+57,31918,602,13,Master,Group_A,0
+35,67921,709,14,Master,Group_B,1
+33,75159,672,2,Master,Group_B,1
+33,51824,720,2,Bachelor,Group_A,0
+52,40952,616,11,High School,Group_B,1
+28,65547,721,14,High School,Group_B,1
+38,44377,689,10,Master,Group_B,0
+56,72095,644,9,Master,Group_B,0
+46,94838,784,19,Bachelor,Group_A,1
+30,44080,687,14,Bachelor,Group_B,1
+51,46650,646,17,Bachelor,Group_A,1
+53,33728,698,13,Bachelor,Group_A,1
+49,62630,618,5,Bachelor,Group_B,0
+25,61406,669,13,Bachelor,Group_A,1
+33,55130,812,15,Master,Group_B,1
+21,60291,565,1,High School,Group_B,0
+43,41214,646,18,Bachelor,Group_B,0
+60,30062,670,4,Bachelor,Group_B,0
+23,46337,656,10,Bachelor,Group_A,1
+23,25521,647,10,Bachelor,Group_A,1
+27,44078,790,20,Master,Group_A,1
+56,65575,644,18,High School,Group_A,0
+55,61074,706,17,High School,Group_A,1
+35,28072,640,7,Master,Group_A,0
+60,78888,706,11,Bachelor,Group_B,1
+23,56498,741,8,High School,Group_B,1
+49,36612,675,2,Bachelor,Group_A,0
+50,53442,643,5,Bachelor,Group_B,0
+59,49506,672,20,High School,Group_A,1
+38,44381,715,20,Bachelor,Group_A,1
+31,74627,736,0,Master,Group_B,1
+58,40086,697,16,Bachelor,Group_B,1
+60,63324,675,2,High School,Group_B,0
+21,35856,763,17,Bachelor,Group_A,1
+49,59336,639,17,Bachelor,Group_B,1
+30,64778,653,1,High School,Group_B,0
+48,64812,797,3,Master,Group_B,1
+51,61455,674,0,Bachelor,Group_B,1
+39,55698,723,9,Bachelor,Group_B,1
+23,40846,622,4,Master,Group_B,0
+56,41054,745,4,Bachelor,Group_B,1
+35,65379,605,8,High School,Group_B,1
+53,37295,600,13,Bachelor,Group_B,1
+46,33167,738,20,Bachelor,Group_A,1
+36,85736,657,12,Bachelor,Group_B,0
+56,55325,664,12,Bachelor,Group_A,1
+53,71430,708,0,Bachelor,Group_A,0
+40,75723,661,16,Bachelor,Group_B,1
+33,60920,612,19,Bachelor,Group_B,1
+53,53218,643,7,Bachelor,Group_B,0
+25,53524,617,2,Bachelor,Group_A,0
+57,88945,755,16,Bachelor,Group_B,1
+34,49941,758,11,Bachelor,Group_A,1
+47,63176,625,17,Bachelor,Group_B,1
+43,72192,708,13,High School,Group_B,1
+34,64513,662,10,Bachelor,Group_B,1
+60,79519,775,15,Bachelor,Group_B,1
+24,53041,834,3,Bachelor,Group_B,1
+59,72120,728,17,Master,Group_B,1
+39,27697,647,6,Bachelor,Group_A,0
+24,84244,605,10,Master,Group_A,0
+50,80217,696,15,Master,Group_B,1
+39,54520,670,15,Master,Group_B,1
+51,67899,586,2,Master,Group_A,0
+51,76039,685,8,Bachelor,Group_B,1
+29,41320,817,7,Bachelor,Group_A,1
+33,57399,732,6,High School,Group_B,1
+34,36497,604,16,Bachelor,Group_B,0
+30,80491,679,10,Bachelor,Group_B,1
+51,74810,704,3,Bachelor,Group_B,0
+57,54943,712,3,Bachelor,Group_A,1
+43,52856,574,4,Bachelor,Group_A,0
+47,57319,672,7,Bachelor,Group_B,0
+26,43849,697,9,Bachelor,Group_B,1
+46,56867,668,16,Bachelor,Group_A,1
+22,41321,555,5,Master,Group_B,0
+33,76170,670,8,Master,Group_A,1
+39,80465,731,9,Master,Group_B,1
+21,77013,643,7,High School,Group_B,0
+60,38504,649,14,Master,Group_A,1
+52,56248,771,17,Bachelor,Group_A,1
+42,70525,667,4,Master,Group_B,1
+49,73838,687,17,High School,Group_B,0
+22,26900,559,0,Bachelor,Group_B,0
+60,73329,612,1,Bachelor,Group_B,0
+58,37621,822,9,Bachelor,Group_B,1
+31,57229,788,5,Bachelor,Group_B,1
+37,82635,711,18,Bachelor,Group_B,1
+28,80197,531,20,Bachelor,Group_A,0
+42,83870,593,10,Bachelor,Group_A,0
+24,40807,592,17,Bachelor,Group_A,1
+31,45253,591,15,High School,Group_B,1
+28,49870,655,7,Bachelor,Group_A,1
+29,57364,731,3,High School,Group_B,1
+46,63901,639,10,Bachelor,Group_B,0
+22,82991,660,9,Bachelor,Group_B,0
+36,43285,660,15,Bachelor,Group_A,0
+51,48681,739,11,Bachelor,Group_A,0
+26,85626,738,2,Bachelor,Group_A,1
+41,39137,691,10,Master,Group_A,1
+46,73083,763,15,Master,Group_A,1
+39,58404,655,2,Bachelor,Group_B,0
+48,66985,794,9,Bachelor,Group_B,1
+28,45395,641,20,Bachelor,Group_B,0
+34,72729,552,15,High School,Group_B,0
+44,48224,598,6,Bachelor,Group_A,0
+57,34447,592,14,Master,Group_B,1
+46,68641,632,14,Bachelor,Group_B,1
+51,18000,753,9,Bachelor,Group_A,0
+52,49776,651,2,Bachelor,Group_B,1
+22,65240,592,5,Bachelor,Group_A,0
+45,73640,585,17,High School,Group_B,0
+22,82077,676,4,Bachelor,Group_B,1
+21,91996,779,15,Bachelor,Group_A,1
+56,86491,694,12,Bachelor,Group_B,1
+32,63448,741,2,Bachelor,Group_B,1
+29,80261,706,14,Master,Group_B,1
+56,63170,581,19,Master,Group_A,1
+48,72346,719,5,Master,Group_B,1
+58,49212,606,3,Bachelor,Group_A,1
+53,68317,653,14,Bachelor,Group_A,0
+42,51482,633,17,Master,Group_A,0
+45,56876,673,8,High School,Group_B,1
+38,68374,664,19,High School,Group_B,1
+26,97645,655,3,Bachelor,Group_B,1
+38,67106,662,15,Bachelor,Group_B,0
+36,59789,697,17,High School,Group_A,1
+35,45028,662,4,Bachelor,Group_A,0
+28,76132,669,12,Bachelor,Group_A,1
+33,53962,809,5,Bachelor,Group_A,1
+27,66735,748,18,Bachelor,Group_A,1
+37,72635,648,11,Bachelor,Group_A,1
+52,82754,687,14,High School,Group_A,0
+42,75163,682,8,High School,Group_A,1
+33,37978,685,6,Bachelor,Group_A,0
+43,29090,679,13,Bachelor,Group_A,1
+49,72626,686,18,Bachelor,Group_B,1
+42,61548,664,19,Bachelor,Group_B,1
+21,67046,640,15,Bachelor,Group_B,1
+49,90956,655,3,Bachelor,Group_A,1
+25,48901,567,11,Bachelor,Group_A,0
+55,83245,725,17,High School,Group_B,1
+30,49080,711,7,Master,Group_A,1
+39,88175,811,16,Bachelor,Group_A,1
+57,73509,602,2,Bachelor,Group_A,0
+27,32872,654,3,Bachelor,Group_A,1
+55,52489,756,9,Master,Group_A,0
+33,94482,703,15,Bachelor,Group_A,1
+30,92223,786,19,High School,Group_B,1
+22,70876,776,1,Master,Group_A,1
+26,66376,522,11,Bachelor,Group_A,0
+28,64315,697,15,High School,Group_B,1
+56,67866,697,9,High School,Group_A,1
+45,57466,679,4,Bachelor,Group_A,1
+60,81798,652,11,Bachelor,Group_B,1
+27,70401,782,2,Bachelor,Group_A,1
+43,42624,678,11,Master,Group_A,1
+39,71790,476,0,Bachelor,Group_A,1
+42,62970,651,1,Bachelor,Group_A,1
+33,54376,815,10,Bachelor,Group_B,1
+41,94173,607,11,Master,Group_B,1
+21,61868,759,6,Bachelor,Group_A,1
+39,24777,748,0,Master,Group_B,1
+53,55656,663,12,High School,Group_B,1
+24,77883,692,12,Master,Group_A,1
+23,43323,675,1,Bachelor,Group_B,0
+47,77271,646,9,Master,Group_A,1
+55,42042,637,0,High School,Group_A,1
+48,84060,772,6,High School,Group_A,0
+26,49694,669,12,High School,Group_A,1
+26,53668,630,1,Bachelor,Group_A,0
+43,52333,716,19,Bachelor,Group_B,1
+53,70754,708,6,Master,Group_A,0
+36,93194,583,16,Bachelor,Group_A,0
+44,60267,638,4,High School,Group_A,0
+25,59804,570,10,High School,Group_B,0
+33,49681,846,10,High School,Group_B,1
+32,30708,656,10,Master,Group_B,1
+25,51477,636,16,Master,Group_B,0
+57,37338,647,18,Master,Group_B,1
+51,26028,631,7,Bachelor,Group_A,1
+48,58614,668,19,High School,Group_B,1
+48,50233,760,13,High School,Group_B,1
+50,84778,686,9,Bachelor,Group_B,1
+38,44599,590,6,Master,Group_B,0
+47,72067,605,1,High School,Group_A,1
+55,71715,691,16,High School,Group_A,0
+46,84068,626,0,Bachelor,Group_A,0
+59,56684,668,12,Bachelor,Group_B,0
+38,83743,850,18,Bachelor,Group_A,1
+53,70097,615,13,Master,Group_A,1
+45,80507,586,17,High School,Group_B,0
+51,103095,632,19,Master,Group_A,1
+57,57782,563,13,High School,Group_B,0
+22,63075,764,14,High School,Group_A,1
+53,53487,605,13,Bachelor,Group_A,1
+59,87762,617,4,High School,Group_A,0
+52,106884,593,15,Bachelor,Group_B,1
+38,73215,570,4,Bachelor,Group_A,1
+37,31019,676,12,Bachelor,Group_A,0
+54,44104,631,15,Bachelor,Group_B,1
+59,80873,563,14,Bachelor,Group_A,1
+27,39402,656,4,High School,Group_B,0
+55,49190,704,20,Master,Group_B,1
+50,48559,651,5,Master,Group_A,0
+32,58611,719,12,High School,Group_B,0
+55,64621,790,15,Bachelor,Group_A,1
+31,25990,733,9,Bachelor,Group_B,0
+24,32506,694,1,High School,Group_A,0
+45,32936,733,12,Bachelor,Group_B,0
+52,35088,825,16,Bachelor,Group_A,1
+40,60288,586,0,High School,Group_B,1
+51,63502,721,3,High School,Group_A,0
+24,78237,615,17,Master,Group_A,0
+58,69989,696,5,Bachelor,Group_A,1
+21,49519,594,11,High School,Group_A,0
+23,64139,729,19,Bachelor,Group_B,1
+57,78976,698,12,Bachelor,Group_A,1
+42,55907,777,1,Bachelor,Group_B,1
+37,54412,662,16,Master,Group_B,1
+34,42991,660,9,Bachelor,Group_B,0
+55,45513,661,18,Bachelor,Group_A,0
+33,72340,840,4,Bachelor,Group_A,1
+55,59931,721,20,Bachelor,Group_B,1
+22,95251,767,11,High School,Group_A,1
+33,47819,727,17,Bachelor,Group_A,1
+36,73705,737,8,Bachelor,Group_B,1
+38,66955,584,10,Bachelor,Group_B,0
+27,58391,644,3,Bachelor,Group_B,0
+56,52161,640,9,Bachelor,Group_A,1
+50,70802,684,0,High School,Group_B,1
+27,69768,673,1,Bachelor,Group_A,1
+35,63636,576,8,Bachelor,Group_A,0
+60,67661,683,17,Master,Group_B,1
+39,60657,549,15,Bachelor,Group_A,1
+57,30459,730,13,Bachelor,Group_A,0
+22,61519,687,3,Master,Group_A,1
+33,55166,761,1,High School,Group_B,0
+60,95032,694,11,High School,Group_B,0
+51,71401,650,19,Bachelor,Group_B,1
+36,63627,578,4,High School,Group_B,0
+26,68331,654,3,Bachelor,Group_A,1
+48,41584,629,14,High School,Group_A,1
+52,49024,704,2,High School,Group_A,1
+30,53974,653,16,Bachelor,Group_A,0
+38,66992,719,7,Bachelor,Group_A,1
+24,52174,768,11,Master,Group_B,0
+29,50974,588,20,Master,Group_A,0
+27,40778,680,7,High School,Group_A,0
+28,60452,677,19,Bachelor,Group_A,1
+27,62980,700,19,High School,Group_A,1
+60,67713,725,4,Bachelor,Group_B,0
+23,47472,783,20,Master,Group_A,1
+37,66674,608,5,Bachelor,Group_A,0
+22,41275,578,4,High School,Group_B,1
+35,56057,692,20,Bachelor,Group_A,1
+49,65428,709,7,High School,Group_A,1
+42,55343,727,17,Bachelor,Group_A,1
+24,31887,631,3,Bachelor,Group_B,1
+26,34033,577,3,Bachelor,Group_B,0
+58,63976,759,4,Master,Group_B,1
+46,70434,713,14,Bachelor,Group_A,1
+31,66108,655,5,Master,Group_B,0
+46,70867,541,20,Master,Group_A,1
+37,54950,637,15,Bachelor,Group_A,1
+44,73292,725,13,Bachelor,Group_A,1
+48,66049,708,13,High School,Group_A,1
+55,48490,590,15,Bachelor,Group_B,1
+51,69260,720,3,Bachelor,Group_B,1
+33,65329,674,10,High School,Group_B,1
+55,90105,762,18,Bachelor,Group_B,1
+36,84828,635,18,Bachelor,Group_B,1
+35,58339,640,7,Master,Group_A,1
+38,52482,687,9,Bachelor,Group_A,0
+57,88064,653,4,Bachelor,Group_B,1
+47,69928,623,15,Master,Group_A,1
+55,56865,800,2,Bachelor,Group_B,0
+55,24197,772,9,High School,Group_A,1
+48,46401,618,12,Bachelor,Group_A,1
+59,45149,694,6,Master,Group_A,0
+58,57365,580,11,High School,Group_A,0
+29,71133,791,13,Bachelor,Group_A,1
+32,73883,729,9,Bachelor,Group_B,1
+35,87001,745,8,Master,Group_A,1
+41,76765,664,11,Master,Group_B,1
+55,36592,756,2,Bachelor,Group_A,0
+53,78540,757,12,Master,Group_A,1
+39,91200,669,5,High School,Group_A,0
+43,90309,605,5,High School,Group_B,1
+33,38168,708,20,Master,Group_A,0
+21,56560,672,18,Bachelor,Group_B,0
+49,77298,800,6,High School,Group_A,1
+44,39150,683,3,Bachelor,Group_B,1
+36,28952,687,4,Master,Group_A,1
+45,65651,732,0,Master,Group_B,1
+43,47839,680,17,Master,Group_B,0
+48,30634,725,16,Bachelor,Group_B,0
+36,82131,645,8,Master,Group_A,1
+58,62958,607,8,Bachelor,Group_A,1
+31,50628,621,20,Bachelor,Group_A,0
+23,42654,658,9,Master,Group_B,0
+35,63142,688,19,Bachelor,Group_B,1
+21,69278,712,16,High School,Group_B,1
+27,65867,710,12,Bachelor,Group_A,1
+21,32660,681,3,Bachelor,Group_A,1
+52,68583,610,17,High School,Group_A,0
+29,72500,725,17,High School,Group_B,1
+49,53819,582,8,Bachelor,Group_B,0
+46,78713,604,2,High School,Group_B,0
+43,44665,683,6,Bachelor,Group_A,0
+49,83231,732,14,Bachelor,Group_B,1
+58,62382,721,8,High School,Group_B,1
+53,51069,673,8,Bachelor,Group_A,0
+27,54268,709,3,Master,Group_B,1
+32,77987,611,17,High School,Group_B,0
+51,64270,643,16,High School,Group_B,1
+52,71611,644,20,Master,Group_B,1
+40,79344,617,5,Bachelor,Group_A,0
+37,50532,657,6,Master,Group_A,1
+56,62291,666,9,Bachelor,Group_B,0
+23,55960,650,9,High School,Group_A,1
+21,78307,663,5,High School,Group_B,1
+47,53116,494,5,High School,Group_B,0
+60,60861,705,18,Master,Group_B,1
+53,101323,654,7,Master,Group_B,1
+40,83132,654,8,Master,Group_A,1
+34,41366,590,0,Master,Group_A,1
+56,76236,781,15,Master,Group_A,1
+25,72398,784,5,Bachelor,Group_A,1
+43,40189,572,7,Master,Group_A,0
+35,58019,665,14,High School,Group_A,1
+26,42941,740,11,Bachelor,Group_B,1
+53,18000,657,9,Bachelor,Group_B,0
+39,57373,641,15,Master,Group_A,1
+33,50890,636,14,Bachelor,Group_A,1
+49,40184,700,10,Master,Group_B,1
+26,59827,850,6,Bachelor,Group_A,1
+35,21829,734,7,Bachelor,Group_A,0
+36,60743,608,10,Master,Group_A,1
+44,60277,639,8,High School,Group_B,0
+43,72217,663,6,Master,Group_A,0
+30,31143,624,14,Bachelor,Group_B,1
+37,98510,612,14,Bachelor,Group_A,1
+50,91604,729,15,Master,Group_B,1
+30,46082,647,2,Bachelor,Group_A,0
+39,86275,704,15,Bachelor,Group_A,1
+49,75427,796,14,Bachelor,Group_B,1
+22,52090,646,0,High School,Group_B,0
+56,49077,698,13,Bachelor,Group_B,1
+39,50438,613,10,Bachelor,Group_B,1
+27,110875,707,2,Master,Group_B,1
+46,84482,765,8,High School,Group_B,1
+35,56350,761,5,Bachelor,Group_B,1
+58,57904,683,15,Master,Group_A,0
+23,75254,646,10,Master,Group_A,0
+58,74466,695,17,Bachelor,Group_A,1
+36,42776,683,16,Bachelor,Group_B,1
+22,65356,710,16,Bachelor,Group_A,1
+51,50054,639,2,Bachelor,Group_A,0
+48,62740,654,18,High School,Group_B,1
+27,59136,666,14,Master,Group_B,1
+50,78318,723,9,Bachelor,Group_B,1
+27,55171,732,7,Bachelor,Group_A,1
+56,62130,652,16,Bachelor,Group_B,1
+49,26194,605,3,Bachelor,Group_A,0
+44,65826,704,7,Bachelor,Group_A,1
+59,45987,728,1,Master,Group_A,0
+24,32692,671,7,High School,Group_A,0
+49,80324,634,6,Bachelor,Group_A,1
+25,59248,649,8,High School,Group_B,0
+49,22611,787,17,High School,Group_A,1
+50,45895,694,16,Bachelor,Group_B,1
+49,60090,746,0,High School,Group_B,1
+46,60625,628,11,High School,Group_A,1
+39,51011,759,3,Master,Group_A,1
+46,18000,738,16,Bachelor,Group_A,0
+57,50066,673,6,High School,Group_B,1
+47,79279,720,2,High School,Group_A,1
+50,85243,764,0,High School,Group_A,0
+50,49065,608,18,Bachelor,Group_A,1
+23,93900,646,1,Bachelor,Group_B,0
+27,30894,714,5,Bachelor,Group_B,1
+29,45419,681,10,High School,Group_A,0
+33,76047,707,20,Bachelor,Group_B,1
+35,73213,725,3,Bachelor,Group_B,0
+25,59827,712,0,Bachelor,Group_B,1
+49,39856,664,10,Master,Group_B,1
+55,39808,668,15,Bachelor,Group_B,1
+47,46938,781,5,High School,Group_B,0
+47,40590,686,10,Master,Group_B,1
+28,62353,768,7,High School,Group_A,0
+52,58339,773,19,Bachelor,Group_A,1
+40,39095,629,0,Bachelor,Group_A,0
+30,53612,728,13,Bachelor,Group_B,1
+33,18000,610,20,Master,Group_B,1
+49,66106,785,20,High School,Group_A,1
+55,72901,692,1,Bachelor,Group_B,1
+28,43587,689,5,High School,Group_A,0
+49,45845,624,8,Bachelor,Group_A,0
+51,64642,641,13,Bachelor,Group_B,0
+50,61913,695,7,Bachelor,Group_A,0
+42,73916,686,2,High School,Group_A,1
+41,46020,655,9,High School,Group_B,1
+32,48110,737,17,Bachelor,Group_B,1
+31,56027,680,19,Master,Group_A,1
+22,40810,614,8,Master,Group_B,1
+22,55635,727,8,Master,Group_B,0
+54,41104,605,18,Bachelor,Group_A,1
+23,67516,555,12,High School,Group_A,1
+36,43164,686,0,Bachelor,Group_B,0
+24,64552,613,16,Bachelor,Group_A,1
+43,86219,692,3,High School,Group_B,0
+40,67708,733,3,Bachelor,Group_B,1
+45,63166,744,15,High School,Group_B,1
+50,35454,712,15,Bachelor,Group_A,0
+38,85003,594,14,High School,Group_B,1
+31,80083,633,5,High School,Group_A,1
+49,57186,680,4,Bachelor,Group_A,0
+37,53086,681,9,Bachelor,Group_A,1
+46,45348,619,6,Bachelor,Group_A,1
+43,92209,650,6,Bachelor,Group_B,1
+40,74111,733,9,High School,Group_A,1
+22,46349,713,9,Master,Group_A,1
+44,79787,660,14,High School,Group_B,0
+51,84105,747,5,Bachelor,Group_A,1
+47,59618,594,1,Bachelor,Group_B,0
+22,53802,733,7,Master,Group_A,1
+34,42124,724,19,Bachelor,Group_B,1
+24,72734,729,14,High School,Group_B,1
+33,52313,699,20,Bachelor,Group_A,1
+56,51568,638,20,Bachelor,Group_A,1
+55,59792,718,17,Bachelor,Group_A,1
+28,45276,653,4,High School,Group_B,0
+22,87512,693,3,Bachelor,Group_A,1
+26,77422,633,9,High School,Group_A,1
+51,61378,658,18,Bachelor,Group_A,1
+30,44678,671,13,Bachelor,Group_A,1
+41,45649,706,12,High School,Group_A,0
+30,44856,717,9,Master,Group_B,1
+43,37847,790,5,Bachelor,Group_A,1
+23,65808,690,12,Bachelor,Group_A,1
+52,48436,618,20,High School,Group_B,0
+40,47408,732,10,Bachelor,Group_B,0
+30,45349,702,14,Bachelor,Group_A,1
+49,78064,668,1,Master,Group_A,0
+54,46346,654,14,High School,Group_A,1
+57,82843,640,18,High School,Group_B,1
+40,54822,638,16,Master,Group_A,1
+28,37589,601,19,Master,Group_B,1
+27,68447,743,17,High School,Group_B,1
+26,75971,708,5,Bachelor,Group_B,1
+31,44555,686,14,High School,Group_A,1
+38,61138,640,16,Bachelor,Group_A,0
+49,65732,751,8,Master,Group_A,1
+45,61721,588,11,High School,Group_A,0
+41,51753,671,4,High School,Group_B,1
+23,75869,744,13,High School,Group_B,1
+38,55480,550,7,High School,Group_B,0
+44,49098,691,16,High School,Group_B,1
+58,28229,637,8,Master,Group_A,0
+30,28396,688,2,Bachelor,Group_A,0
+47,63886,656,6,Bachelor,Group_A,0
+32,58613,719,11,Master,Group_B,1
+27,75974,760,2,Bachelor,Group_B,1
+37,80345,843,8,Bachelor,Group_B,1
+21,55588,673,13,High School,Group_A,0
+46,77076,728,17,Bachelor,Group_A,1
+35,49887,702,10,High School,Group_B,1
+53,57302,707,3,Master,Group_A,1
+57,56787,776,7,Bachelor,Group_B,1
+51,88423,636,17,Bachelor,Group_B,1
+55,36987,657,12,Bachelor,Group_B,0
+21,61064,669,3,Bachelor,Group_A,0
+28,47471,616,9,Bachelor,Group_A,0
+32,54618,680,7,Bachelor,Group_A,1
+39,53848,723,11,Master,Group_A,1
+45,61297,734,18,High School,Group_A,1
+52,84245,668,11,High School,Group_B,0
+32,94236,754,1,Bachelor,Group_B,1
+33,71818,545,7,Master,Group_A,1
+48,42376,831,12,Bachelor,Group_A,1
+21,56857,717,0,Bachelor,Group_A,1
+26,64691,652,2,Bachelor,Group_A,0
+28,52675,710,1,High School,Group_B,0
+24,55013,670,19,Bachelor,Group_A,1
+25,58719,544,7,Master,Group_A,1
+45,73900,683,2,Master,Group_A,1
+42,69543,739,20,High School,Group_B,1
+48,49017,743,14,Bachelor,Group_B,0
+59,70671,696,1,Bachelor,Group_A,1
+43,91039,742,16,High School,Group_B,1
+24,32767,708,5,Bachelor,Group_B,1
+24,52128,694,0,High School,Group_B,1
+41,50760,635,3,Bachelor,Group_A,1
+57,61438,657,18,Bachelor,Group_B,1
+22,27170,663,6,Bachelor,Group_B,0
+27,84500,699,13,Bachelor,Group_B,0
+36,60842,732,13,Bachelor,Group_B,0
+37,65366,640,9,Bachelor,Group_B,1
+40,63282,590,6,High School,Group_A,0
+43,50702,774,15,Bachelor,Group_B,1
+54,72576,617,3,Master,Group_B,1
+31,60094,712,6,High School,Group_B,1
+54,22476,696,14,Bachelor,Group_A,1
+53,58053,658,16,Bachelor,Group_B,1
+46,55004,719,2,Bachelor,Group_B,1
+22,72541,602,15,Bachelor,Group_A,0
+43,108625,786,1,Bachelor,Group_B,1
+42,66798,850,6,High School,Group_B,1
+54,98156,760,15,Bachelor,Group_B,1
+35,47648,627,20,Bachelor,Group_A,1
+30,48802,529,8,High School,Group_A,0
+35,55564,711,11,Bachelor,Group_B,1
+49,67653,596,0,Bachelor,Group_A,1
+43,48469,653,13,Master,Group_B,1
+37,30987,779,10,High School,Group_A,1
+29,60415,786,17,Master,Group_B,1
+56,39426,793,4,Bachelor,Group_A,1
+29,80085,686,14,Bachelor,Group_B,1
+36,71590,738,6,High School,Group_A,0
+56,46329,551,13,Bachelor,Group_A,1
+53,68204,583,19,Master,Group_A,0
+51,50133,661,7,Bachelor,Group_A,1
+26,59061,735,3,Bachelor,Group_B,0
+30,59250,652,2,Bachelor,Group_B,0
+36,53959,732,11,Bachelor,Group_A,1
+24,74952,605,17,Bachelor,Group_B,1
+42,39855,687,14,Bachelor,Group_A,1
+33,69666,716,10,Bachelor,Group_B,1
+36,65482,729,10,High School,Group_B,1
+49,34718,651,11,Bachelor,Group_B,1
+26,45700,682,18,Master,Group_A,1
+46,40310,580,16,Bachelor,Group_B,1
+31,53404,673,5,Bachelor,Group_A,1
+44,60872,750,20,Master,Group_B,1
+49,43289,663,7,High School,Group_A,1
+23,77444,631,14,High School,Group_B,1
+30,79040,731,19,High School,Group_B,1
+21,82220,829,9,High School,Group_B,1
+46,18000,821,14,High School,Group_A,1
+32,95067,697,11,Bachelor,Group_B,1
+34,62989,730,10,Bachelor,Group_A,1
+45,60851,787,17,Bachelor,Group_B,1
+28,58166,696,4,Bachelor,Group_A,1
+24,36218,710,11,Master,Group_A,1
+48,66476,659,4,High School,Group_B,0
+27,89015,834,9,Bachelor,Group_A,1
+30,62772,727,13,Bachelor,Group_A,1
+56,39928,663,15,Master,Group_A,1
+22,32544,643,4,High School,Group_A,1
+46,54708,559,10,High School,Group_B,1
+34,46608,577,18,Bachelor,Group_B,0
+36,72646,633,7,Bachelor,Group_A,1
+37,84668,740,18,Bachelor,Group_A,1
+42,68454,701,19,Bachelor,Group_A,1
+24,58468,598,17,High School,Group_A,1
+39,57614,620,20,Master,Group_B,0
+22,61280,698,11,High School,Group_B,0
+59,39121,789,12,High School,Group_A,1
+29,70841,608,20,High School,Group_A,1
+39,40545,710,20,Bachelor,Group_A,1
+36,80091,651,17,High School,Group_B,0
+45,53462,653,14,Bachelor,Group_B,0
+38,74955,604,14,Master,Group_A,1
+43,33481,721,11,Bachelor,Group_A,1
+41,74828,648,8,Bachelor,Group_B,1
+31,84525,657,18,High School,Group_B,1
+59,36932,744,11,Bachelor,Group_A,1
+24,57957,747,4,Bachelor,Group_A,1
+45,66028,633,20,High School,Group_A,1
+52,66910,699,19,Bachelor,Group_B,1
+50,53888,739,9,High School,Group_A,1
+46,50715,668,6,Master,Group_A,1
+56,64559,724,10,Bachelor,Group_B,1
+54,66346,659,7,Bachelor,Group_A,1
+29,48707,657,20,Master,Group_B,0
+32,45149,619,6,Master,Group_A,0
+22,81805,791,15,Bachelor,Group_A,1
+58,61938,649,15,Bachelor,Group_B,1
+25,19109,628,13,Bachelor,Group_A,0
+25,81915,612,14,Bachelor,Group_B,1
+42,49251,685,19,Bachelor,Group_B,1
+25,61201,614,8,Master,Group_A,0
+24,66748,634,15,High School,Group_B,0
+29,33294,732,15,Bachelor,Group_A,0
+49,54802,709,4,Bachelor,Group_B,1
+42,83716,593,2,Master,Group_A,0
+47,79608,727,20,High School,Group_B,1
+30,54774,682,12,Bachelor,Group_A,0
+36,72885,754,7,Bachelor,Group_A,0
+30,75255,772,16,High School,Group_B,1
+26,74337,575,4,Bachelor,Group_B,0
+25,39372,730,5,Bachelor,Group_A,1
+26,89541,786,1,High School,Group_A,1
+45,51651,694,13,Bachelor,Group_B,1
+24,61968,725,3,Master,Group_B,1
+60,53677,695,2,Master,Group_A,1
+52,64136,744,8,Bachelor,Group_A,1
+55,44443,705,17,Bachelor,Group_A,1
+30,55948,549,11,Bachelor,Group_B,0
+54,63290,672,8,Master,Group_A,0
+56,82044,668,17,Bachelor,Group_A,1
+26,79871,726,12,Bachelor,Group_B,1
+36,80782,756,13,High School,Group_A,1
+39,75636,665,9,Bachelor,Group_A,1
+54,93240,600,2,High School,Group_A,1
+45,54777,700,6,Bachelor,Group_A,0
+51,57160,630,17,Bachelor,Group_A,1
+37,56419,641,15,Bachelor,Group_B,1
+50,58900,835,16,Bachelor,Group_A,1
+59,34148,636,5,Master,Group_B,0
+51,64766,578,11,High School,Group_B,0
+39,68929,719,18,Bachelor,Group_B,1
+55,55367,726,2,Bachelor,Group_A,1
+49,28368,737,2,Master,Group_A,0
+21,60386,735,17,High School,Group_A,1
+24,36695,689,10,Bachelor,Group_A,0
+48,67692,690,5,Bachelor,Group_A,1
+38,62148,741,18,Master,Group_B,1
+46,63913,785,4,High School,Group_A,1
+60,40901,598,12,Bachelor,Group_A,1
+39,82709,640,4,High School,Group_A,0
+26,63064,721,2,High School,Group_B,1
+21,43544,697,18,High School,Group_A,1
+28,70434,564,16,Master,Group_B,0
+53,61759,643,2,High School,Group_A,1
+41,93065,700,14,Master,Group_B,1
+44,50048,681,16,High School,Group_B,1
+45,37544,657,12,Master,Group_A,0
+39,65208,832,13,Bachelor,Group_A,1
+49,78220,678,15,High School,Group_A,1
+30,101813,695,10,Bachelor,Group_A,1
+32,121535,689,16,Bachelor,Group_B,1
+53,32063,694,4,Bachelor,Group_B,1
+27,57566,682,20,Bachelor,Group_B,1
+37,37604,545,14,Bachelor,Group_B,0
+30,55547,616,17,Bachelor,Group_A,0
+51,104590,660,15,Master,Group_A,1
+26,45245,733,13,Bachelor,Group_B,0
+37,59605,661,13,Master,Group_A,0
+57,49544,626,12,Master,Group_B,1
+38,41941,741,0,High School,Group_A,1
+46,92270,768,5,High School,Group_A,1
+36,32293,580,10,Bachelor,Group_B,1
+28,58515,686,10,Bachelor,Group_A,1
+44,61583,506,15,Bachelor,Group_B,0
+33,59405,660,2,Bachelor,Group_B,1
+49,54317,802,16,Bachelor,Group_B,1
+52,89058,686,13,Bachelor,Group_B,1
+44,21986,590,1,High School,Group_B,0
+36,67856,592,8,Master,Group_B,1
+31,68658,619,7,Bachelor,Group_A,0
+52,65166,636,10,Bachelor,Group_A,1
+26,45045,557,6,Bachelor,Group_B,0
+55,81691,701,1,High School,Group_A,0
+53,80790,715,3,Bachelor,Group_A,1
+38,44410,657,13,High School,Group_A,1
+57,38438,813,12,High School,Group_B,1
+33,34960,652,12,Bachelor,Group_B,1
+30,64057,758,12,High School,Group_A,1
+57,60842,590,4,Bachelor,Group_B,1
+46,53500,699,11,Bachelor,Group_B,1
+37,97464,709,5,High School,Group_B,1
+21,51700,634,13,High School,Group_B,0
+45,63375,691,7,Master,Group_B,1
+54,56502,633,7,High School,Group_A,0
+59,95336,660,6,Bachelor,Group_B,1
+30,24186,662,16,Bachelor,Group_A,0
+40,54422,589,20,Master,Group_B,1
+27,71057,714,10,Master,Group_B,1
+36,55997,718,9,Bachelor,Group_A,1
+57,36522,656,12,High School,Group_A,1
+49,63179,696,9,Bachelor,Group_B,1
+32,30816,620,20,High School,Group_A,0
+37,72064,599,13,High School,Group_B,1
+40,52561,654,8,Bachelor,Group_A,0
+46,49534,725,6,Bachelor,Group_A,1
+39,78831,675,6,High School,Group_B,1
+32,41942,651,17,High School,Group_B,1
+41,32236,702,15,Master,Group_B,1
+54,43611,620,7,Master,Group_A,1
+27,96846,600,15,Bachelor,Group_B,1
+55,41934,657,18,Bachelor,Group_B,1
+35,66579,625,14,Master,Group_B,1
+21,75180,603,14,Bachelor,Group_B,1
+46,43085,739,5,Bachelor,Group_B,1
+55,43108,823,8,Bachelor,Group_A,1
+45,63243,579,14,High School,Group_A,1
+35,64056,653,6,Bachelor,Group_B,0
+42,84257,691,7,Bachelor,Group_A,1
+26,46154,568,17,Bachelor,Group_B,1
+35,53209,666,20,Bachelor,Group_A,1
+44,111091,670,15,High School,Group_B,1
+41,27733,711,14,Master,Group_B,1
+27,24042,630,2,High School,Group_A,0
+49,35105,643,0,Bachelor,Group_A,0
+52,79829,743,12,Bachelor,Group_A,1
+52,52111,707,11,Bachelor,Group_B,0
+25,52104,727,8,Bachelor,Group_B,0
+24,42626,566,1,Bachelor,Group_A,1
+42,76532,637,8,Master,Group_B,0
+38,35384,779,7,Master,Group_A,1
+55,49533,675,4,Bachelor,Group_A,1
+37,43338,672,12,Master,Group_B,1
+44,18000,675,1,High School,Group_A,0
+22,51392,782,9,Master,Group_A,1
+33,58935,631,5,Master,Group_A,1
+35,46041,724,6,Bachelor,Group_A,0
+25,55171,697,2,Master,Group_A,0
+23,55633,591,13,Bachelor,Group_A,1
+57,57606,661,15,Bachelor,Group_B,1
+57,41027,626,5,Master,Group_A,1
+57,39993,597,7,Bachelor,Group_B,0
+23,60845,758,0,Bachelor,Group_A,1
+55,33430,601,19,Bachelor,Group_A,1
+43,56146,729,14,Master,Group_B,1
+48,89439,624,16,Bachelor,Group_B,1
+50,59301,768,17,High School,Group_A,1
+38,27122,653,2,Bachelor,Group_B,0
+56,63237,702,5,Master,Group_B,1
+53,74733,643,16,Bachelor,Group_B,1
+46,45684,539,12,Master,Group_B,0
+60,54619,572,16,Master,Group_A,0
+37,44202,557,20,Bachelor,Group_A,1
+60,51681,696,15,Bachelor,Group_B,1
+27,48020,678,16,Bachelor,Group_A,1
+28,67842,719,0,Bachelor,Group_B,1
+51,89849,636,15,Bachelor,Group_A,1
+32,61030,539,5,Master,Group_A,1
+51,32249,765,7,Master,Group_B,1
+39,105530,744,0,Bachelor,Group_A,1
+30,70492,704,1,Bachelor,Group_B,1
+59,74156,752,14,Bachelor,Group_B,1
+32,58853,673,4,Bachelor,Group_B,0
+40,64189,697,19,Bachelor,Group_B,1
+57,53847,634,14,Master,Group_B,0
+27,76267,610,20,Bachelor,Group_B,1
+34,51407,578,9,Bachelor,Group_B,0
+31,68809,631,4,Bachelor,Group_A,0
+27,77449,850,2,High School,Group_A,1
+49,82427,581,5,Bachelor,Group_A,1
+30,78575,619,20,High School,Group_A,1
+49,41575,687,14,Master,Group_B,1
+29,88309,836,17,High School,Group_B,1
+56,71957,612,13,Bachelor,Group_B,0
+30,65501,639,9,High School,Group_A,0
+39,67576,724,3,Master,Group_B,1
+51,57149,720,10,Bachelor,Group_A,1
+37,51601,635,19,Master,Group_B,1
+29,53367,626,6,Master,Group_B,0
+53,83186,709,14,Bachelor,Group_A,1
+54,61459,660,8,Master,Group_A,0
+44,65071,699,14,High School,Group_A,0
+29,61083,669,11,Bachelor,Group_B,0
+27,47977,703,17,Bachelor,Group_B,1
+36,21357,710,5,Master,Group_B,0
+39,73837,553,17,Master,Group_A,0
+59,71930,650,17,Master,Group_A,1
+26,59794,702,5,High School,Group_B,1
+31,40376,733,14,Bachelor,Group_B,1
+32,92775,658,18,Bachelor,Group_A,1
+33,53859,560,4,High School,Group_A,1
+32,64469,761,3,High School,Group_B,1
+41,47343,736,16,Bachelor,Group_A,0
+30,35705,687,20,Master,Group_A,1
+40,70613,650,9,Bachelor,Group_A,0
+56,32985,719,11,Bachelor,Group_B,0
+48,64123,650,4,Bachelor,Group_B,0
+44,64175,737,6,Bachelor,Group_B,0
+25,39844,797,11,Master,Group_B,1
+57,36664,648,1,Bachelor,Group_B,0
+32,46132,731,19,High School,Group_A,1
+55,48704,637,16,Bachelor,Group_B,1
+60,32465,747,12,Master,Group_A,0
+22,39747,664,4,Bachelor,Group_B,0
+59,61366,774,4,Bachelor,Group_A,1
+29,95813,662,19,High School,Group_A,1
+42,78138,622,11,High School,Group_A,1
+25,62889,658,11,Master,Group_A,1
+32,80310,666,6,Bachelor,Group_A,1
+21,80798,695,5,Bachelor,Group_A,1
+42,54510,659,9,Bachelor,Group_B,1
+58,64642,696,18,Master,Group_A,1
+39,77602,697,15,High School,Group_B,1
+36,80061,652,1,Master,Group_B,1
+51,80233,701,3,Bachelor,Group_B,1
+23,41514,642,8,Master,Group_B,0
+43,81151,810,4,Master,Group_B,1
+38,93445,699,0,Bachelor,Group_A,0
+46,86882,720,10,High School,Group_A,0
+33,40461,667,18,High School,Group_A,0
+38,35934,633,2,Master,Group_B,0
+23,68374,734,0,High School,Group_B,0
+43,86547,701,3,Bachelor,Group_A,0
+23,64071,510,8,High School,Group_A,0
+45,55770,805,15,Bachelor,Group_B,1
+47,58377,728,6,High School,Group_A,1
+47,78369,655,4,Master,Group_B,1
+59,54211,719,12,Master,Group_B,1
+45,68657,707,10,Bachelor,Group_B,1
+44,57653,712,13,Bachelor,Group_B,1
+28,44010,623,16,Bachelor,Group_B,0
+29,42600,685,11,Bachelor,Group_A,1
+57,69456,700,20,Bachelor,Group_B,1
+50,18000,760,20,Bachelor,Group_B,1
+39,68627,687,20,Bachelor,Group_A,1
+36,56929,708,18,Bachelor,Group_A,1
+44,77029,621,4,Bachelor,Group_A,0
+41,70826,684,7,Bachelor,Group_A,1
+56,60803,736,1,Bachelor,Group_B,1
+60,40787,636,16,Bachelor,Group_B,1
+59,41762,655,1,Bachelor,Group_A,1
+26,48391,617,2,Bachelor,Group_A,1
+25,75635,592,19,Bachelor,Group_B,1
+34,91837,624,17,Master,Group_A,1
+24,65938,717,14,High School,Group_A,1
+28,49394,664,4,Bachelor,Group_B,0
+44,51270,624,16,Bachelor,Group_B,1
+31,52098,822,13,Bachelor,Group_A,1
+37,78722,634,0,Bachelor,Group_A,1
+41,51745,721,13,Master,Group_A,1
+46,59214,702,8,Bachelor,Group_B,1
+47,84206,696,4,Master,Group_B,1
+36,49785,561,3,Master,Group_A,0
+46,70027,763,0,Bachelor,Group_B,1
+53,76208,701,2,Master,Group_B,0
+51,61142,740,19,Bachelor,Group_A,0
+26,95174,754,10,Bachelor,Group_A,1
+28,89978,791,15,Master,Group_B,1
+27,64736,615,10,Bachelor,Group_A,1
+54,45531,633,20,High School,Group_A,0
+34,46382,642,9,Bachelor,Group_B,0
+36,63828,624,11,Bachelor,Group_B,0
+29,40379,766,4,High School,Group_B,0
+30,64841,615,9,Master,Group_B,0
+37,90386,655,12,Bachelor,Group_B,1
+32,61125,574,18,Master,Group_A,0
+26,59659,728,6,High School,Group_B,0
+39,75357,672,15,Bachelor,Group_A,1
+49,69447,737,5,High School,Group_A,0
+26,39330,726,9,Bachelor,Group_B,1
+45,51806,573,9,Bachelor,Group_B,1
+44,94091,692,10,Master,Group_A,1
+45,65858,609,9,Bachelor,Group_B,0
+36,41884,689,13,Bachelor,Group_A,0
+36,56547,642,14,Bachelor,Group_A,1
+26,27913,799,6,High School,Group_A,1
+57,26565,850,12,Bachelor,Group_B,1
+41,77681,664,10,High School,Group_B,0
+24,59920,686,6,Master,Group_A,1
+54,69340,531,10,Master,Group_B,1
+48,80842,573,13,Bachelor,Group_A,1
+58,66111,705,16,Bachelor,Group_B,1
+48,73196,678,15,High School,Group_A,1
+37,64632,707,0,Bachelor,Group_A,1
+34,83155,628,8,Master,Group_B,1
+27,91922,700,8,Master,Group_A,1
+42,63592,516,9,Bachelor,Group_A,0
+21,62837,640,18,Bachelor,Group_B,1
+49,65763,710,14,Bachelor,Group_B,1
+51,58101,790,15,Master,Group_A,1
+50,52795,672,10,Master,Group_A,1
+35,78870,718,16,Bachelor,Group_A,0
+38,52819,636,18,Master,Group_B,1
+55,51781,709,12,Master,Group_A,1
+50,76171,648,5,Bachelor,Group_B,1
+54,77552,807,14,Master,Group_B,1
+31,102002,659,15,Bachelor,Group_A,1
+47,81954,669,3,Bachelor,Group_A,1
+44,74886,730,7,High School,Group_A,1
+55,77484,713,6,Bachelor,Group_A,1
+59,57338,656,16,Master,Group_B,1
+28,70120,707,15,Bachelor,Group_A,1
+38,70974,611,1,High School,Group_A,0
+33,50243,695,16,Bachelor,Group_B,1
+44,59119,716,3,Bachelor,Group_A,1
+43,77143,653,13,Bachelor,Group_B,1
+32,59667,656,7,Bachelor,Group_A,0
+50,71008,639,4,High School,Group_B,1
+51,76142,587,4,Master,Group_B,0
+48,75303,707,4,Master,Group_B,1
+42,91152,649,4,Bachelor,Group_B,1
+48,49537,716,2,Bachelor,Group_A,1
+33,89565,668,5,Master,Group_A,1
+45,68537,720,0,Bachelor,Group_B,1
+27,75013,569,7,Bachelor,Group_B,0
+26,72545,606,12,Bachelor,Group_A,0
+44,71634,625,19,Bachelor,Group_A,0
+39,48527,758,5,Bachelor,Group_A,1
+39,74351,706,17,Master,Group_A,1
+56,34101,663,17,Bachelor,Group_A,0
+29,97715,649,15,Master,Group_B,1
+56,66873,719,7,Bachelor,Group_A,0
+58,80879,642,16,Bachelor,Group_A,1
+60,72273,728,7,Bachelor,Group_B,1
+49,60659,666,14,Bachelor,Group_B,0
+44,50267,764,9,Master,Group_B,1
+25,46854,619,0,Bachelor,Group_B,0
+46,74029,672,8,Master,Group_A,1
+34,73086,620,16,Bachelor,Group_B,1
+59,70052,786,19,Bachelor,Group_B,1
+49,57880,681,0,Master,Group_A,1
+26,67438,615,8,High School,Group_B,0
+27,52389,621,13,Bachelor,Group_B,0
+57,47745,713,4,High School,Group_A,0
+38,55008,562,5,Master,Group_A,1
+43,55800,668,4,Bachelor,Group_A,1
+58,86356,625,3,Master,Group_A,1
+21,35429,670,15,Master,Group_A,1
+24,59405,687,15,High School,Group_B,1
+55,71382,674,9,High School,Group_A,0
+43,95740,663,13,Bachelor,Group_B,1
+47,49066,691,12,Bachelor,Group_B,1
+46,39913,794,3,High School,Group_B,1
+28,73014,763,13,High School,Group_B,1
+36,62967,658,8,Bachelor,Group_A,0
+23,56026,727,2,High School,Group_A,1
+52,67877,724,9,Master,Group_B,1
+25,75513,655,14,Master,Group_B,1
+40,73267,678,18,Master,Group_B,1
+34,65431,715,1,High School,Group_A,1
+52,83702,633,1,High School,Group_B,0
+46,63553,664,8,Bachelor,Group_A,1
+26,60776,667,3,Master,Group_B,0
+56,72850,662,4,Bachelor,Group_B,1
+60,37310,660,1,Bachelor,Group_A,0
+25,71084,709,6,High School,Group_B,0
+33,54542,682,18,Bachelor,Group_A,1
+52,36060,722,5,Bachelor,Group_A,1
+36,67653,844,15,High School,Group_B,1
+21,51751,645,13,Bachelor,Group_B,1
+33,30939,694,11,Bachelor,Group_B,1
+31,44319,713,5,Bachelor,Group_B,1
+28,90414,751,12,Bachelor,Group_A,1
+45,49979,708,14,Master,Group_B,0
+60,65813,609,13,Bachelor,Group_B,1
+52,40486,637,7,Bachelor,Group_A,0
+44,97817,690,20,Master,Group_B,1
+48,61248,635,19,Master,Group_A,1
+34,47687,584,10,Bachelor,Group_B,0
+23,75932,628,20,High School,Group_A,1
+56,96904,628,8,Master,Group_A,0
+47,52651,614,11,High School,Group_A,0
+40,47327,844,5,Master,Group_B,1
+35,101313,700,18,High School,Group_A,1
+47,57792,688,2,Master,Group_A,1
+48,55741,740,0,Bachelor,Group_B,0
+45,21401,797,14,Master,Group_B,1
+53,59394,705,14,Bachelor,Group_A,1
+34,35593,746,4,Master,Group_A,0
+28,49918,647,10,High School,Group_A,0
+34,23743,621,0,Bachelor,Group_A,0
+21,82233,739,9,High School,Group_B,1
+36,33601,738,19,Master,Group_B,1
+38,25066,732,10,Bachelor,Group_B,0
+27,43652,688,6,Bachelor,Group_A,1
+35,82452,629,16,Bachelor,Group_B,1
+44,51990,649,11,Master,Group_B,1
+33,54397,755,3,Bachelor,Group_B,1
+29,68612,642,11,Bachelor,Group_B,1
+35,57270,692,2,Bachelor,Group_B,0
+55,82283,630,17,Master,Group_B,1
+44,55687,668,11,High School,Group_A,0
+53,55982,610,18,High School,Group_B,1
+36,100755,675,12,High School,Group_B,1
+28,60993,649,15,Bachelor,Group_B,1
+49,64150,569,7,Bachelor,Group_A,0
+43,56212,723,5,Bachelor,Group_B,1
+51,18000,720,9,Master,Group_B,0
+60,75712,684,9,Bachelor,Group_A,1
+34,89890,607,5,Master,Group_A,0
+50,82603,608,7,Bachelor,Group_B,1
+59,49955,831,17,High School,Group_B,1
+47,56882,510,16,Bachelor,Group_B,0
+36,66285,609,9,Master,Group_A,0
+26,65651,820,1,High School,Group_B,1
+53,72257,840,11,Bachelor,Group_A,1
+38,63655,790,19,High School,Group_A,1
+36,53496,715,9,Bachelor,Group_A,1
+32,62465,639,8,Bachelor,Group_A,1
+40,77978,571,15,Master,Group_A,1
+60,112493,706,6,Bachelor,Group_A,1
+49,51019,630,8,Bachelor,Group_A,0
+50,64072,774,5,Master,Group_A,1
+46,53461,560,9,Bachelor,Group_B,0
+42,65536,693,6,Master,Group_A,1
+53,77562,740,17,Bachelor,Group_A,1
+59,56254,746,10,Master,Group_B,1
+49,23171,734,0,Master,Group_A,1
+42,78514,702,20,Master,Group_B,1
+33,62348,688,18,High School,Group_A,1
+29,53843,739,4,Bachelor,Group_A,0
+44,49825,702,5,Bachelor,Group_B,1
+35,65602,704,6,Bachelor,Group_B,1
+56,47474,682,3,Bachelor,Group_B,0
+33,49578,655,15,High School,Group_B,1
+47,37525,592,9,Bachelor,Group_B,0
+57,47717,603,14,Bachelor,Group_A,1
+27,71356,655,12,Master,Group_A,0
+28,35139,672,7,Master,Group_A,1
+57,80737,617,12,High School,Group_A,1
+34,38779,612,6,Master,Group_B,1
+32,62699,656,16,High School,Group_B,1
+56,68729,739,3,Bachelor,Group_A,1
+60,74844,542,6,High School,Group_B,0
+37,74848,619,15,Master,Group_B,1
+60,58488,691,1,Bachelor,Group_A,0
+49,56912,764,20,Bachelor,Group_A,1
+47,70738,820,13,Bachelor,Group_A,1
+21,65004,658,13,High School,Group_A,0
+54,53775,657,7,Bachelor,Group_A,1
+24,66678,671,5,Bachelor,Group_B,0
+44,56992,695,6,High School,Group_A,1
+41,49190,677,6,Master,Group_A,1
+53,53190,688,1,Bachelor,Group_B,1
+27,68756,593,3,Bachelor,Group_B,0
+21,43294,572,12,High School,Group_B,0
+23,79914,726,9,High School,Group_A,1
+35,49969,667,8,Bachelor,Group_A,0
+51,19322,734,14,Bachelor,Group_B,0
+36,69946,695,11,Bachelor,Group_A,1
+30,18000,587,9,Bachelor,Group_A,1
+49,41785,781,18,Bachelor,Group_B,0
+26,103604,682,20,Bachelor,Group_B,1
+49,79080,631,4,Master,Group_A,1
+37,77593,645,6,Bachelor,Group_A,0
+42,39861,601,19,Bachelor,Group_A,1
+44,56641,702,10,Bachelor,Group_A,1
+37,82346,673,15,High School,Group_A,1
+41,71513,811,12,High School,Group_A,1
+31,80445,714,3,Bachelor,Group_A,0
+27,92068,807,15,Master,Group_B,1
+59,71882,618,12,Master,Group_B,0
+25,37848,658,0,Bachelor,Group_B,1
+41,70771,738,3,Bachelor,Group_A,1
+38,55760,718,14,Bachelor,Group_A,1
+55,36765,679,20,Bachelor,Group_A,1
+40,76102,610,15,High School,Group_A,1
+35,81637,538,3,Bachelor,Group_A,1
+25,58310,666,16,Bachelor,Group_B,1
+33,65769,668,10,High School,Group_B,0
+32,22692,688,4,High School,Group_B,0
+41,80228,586,12,Bachelor,Group_A,0
+57,74279,623,11,Bachelor,Group_B,1
+26,64504,705,2,Bachelor,Group_A,1
+27,37456,718,3,High School,Group_A,1
+46,30401,693,9,High School,Group_A,0
+28,96478,657,8,Bachelor,Group_B,1
+29,42008,603,9,High School,Group_B,0
+47,62415,742,12,Bachelor,Group_A,1
+24,42564,727,0,High School,Group_B,1
+41,18800,643,11,Bachelor,Group_B,0
+51,68064,734,10,Bachelor,Group_A,1
+41,70869,676,20,Bachelor,Group_A,0
+60,29962,636,7,High School,Group_A,1
+45,79949,740,13,High School,Group_B,1
+59,50521,687,13,High School,Group_A,1
+35,40513,652,19,Master,Group_B,1
+55,39333,597,16,Master,Group_A,0
+57,75682,603,18,High School,Group_B,1
+48,25373,735,19,Bachelor,Group_A,1
+34,37641,709,20,Bachelor,Group_B,1
+24,67769,604,20,High School,Group_B,0
+40,65376,603,16,Bachelor,Group_B,1
+54,41604,817,5,High School,Group_B,1
+32,83154,710,13,Bachelor,Group_A,0
+53,39965,759,17,Bachelor,Group_B,0
+44,56246,777,16,Bachelor,Group_A,1
+40,53863,620,5,Master,Group_A,0
+25,53933,793,4,Master,Group_B,1
+58,56484,610,12,Master,Group_A,1
+50,55946,727,15,Bachelor,Group_B,1
+44,55725,672,20,High School,Group_B,1
+60,56725,727,8,Bachelor,Group_A,0
+27,79536,666,11,Master,Group_B,0
+56,55817,716,9,Bachelor,Group_A,0
+58,72455,769,12,Master,Group_A,1
+36,62677,753,18,High School,Group_A,1
+35,66592,676,15,Bachelor,Group_B,0
+43,74002,618,16,High School,Group_B,0
+32,39475,661,15,Bachelor,Group_B,0
+49,71293,709,13,Master,Group_B,1
+35,56181,722,15,Bachelor,Group_A,1
+49,42702,750,14,Master,Group_A,1
+41,73964,632,11,Bachelor,Group_B,1
+35,52343,619,4,Bachelor,Group_A,1
+34,66795,614,10,Master,Group_A,0
+36,18000,667,4,High School,Group_A,1
+35,73069,694,10,Master,Group_B,1
+24,106622,704,1,High School,Group_B,1
+47,59862,588,18,Bachelor,Group_A,0
+43,55256,618,16,Bachelor,Group_A,0
+49,51697,634,18,Master,Group_B,1
+29,70001,794,11,Bachelor,Group_B,1
+27,54526,655,19,Bachelor,Group_A,0
+24,71656,584,4,Master,Group_B,1
+25,91004,705,11,Bachelor,Group_A,0
+25,75139,673,15,Master,Group_A,0
+31,56856,604,0,Bachelor,Group_B,0
+48,39921,649,1,High School,Group_B,1
+36,52652,658,9,Bachelor,Group_A,1
+50,57108,672,1,High School,Group_B,1
+24,36265,740,9,High School,Group_B,1
+22,79565,716,17,Bachelor,Group_B,1
+23,70244,688,0,High School,Group_B,1
+41,41125,744,4,Bachelor,Group_B,1
+26,27974,653,11,Bachelor,Group_A,1
+38,72921,633,16,Bachelor,Group_A,1
+25,30420,700,18,Bachelor,Group_A,1
+29,61511,695,17,Master,Group_A,0
+40,52629,584,12,High School,Group_B,0
+48,74400,777,2,Bachelor,Group_B,1
+46,74608,614,20,Bachelor,Group_A,0
+38,45217,714,9,Bachelor,Group_A,1
+39,75983,716,13,Bachelor,Group_A,1
+23,54790,479,7,Master,Group_A,0
+29,60341,695,9,Master,Group_B,1
+56,60710,786,1,Bachelor,Group_A,1
+51,100467,634,12,High School,Group_B,0
+37,57851,557,4,Bachelor,Group_B,0
+43,29906,672,10,Master,Group_A,1
+54,47135,710,0,Bachelor,Group_A,0
+25,73285,674,9,Master,Group_A,1
+35,54887,618,12,Bachelor,Group_B,1
+23,60269,613,3,Master,Group_B,1
+39,52225,575,20,Master,Group_A,1
+48,18000,558,9,Bachelor,Group_B,0
+23,45996,658,11,High School,Group_B,0
+58,58609,708,13,Bachelor,Group_A,1
+24,28149,690,2,Master,Group_A,0
+44,38781,696,1,Master,Group_B,0
+51,53880,721,18,High School,Group_B,1
+31,54036,765,10,Bachelor,Group_B,1
+57,67100,682,20,Master,Group_B,1
+21,55017,702,6,Bachelor,Group_B,1
+29,66437,703,17,Master,Group_A,0
+37,47399,690,13,Master,Group_B,1
+21,63808,681,6,Master,Group_B,1
+23,86480,687,6,High School,Group_B,1
+46,65201,781,8,High School,Group_A,1
+51,55770,773,11,High School,Group_A,1
+46,43031,569,5,Master,Group_A,1
+43,61566,694,6,Bachelor,Group_A,1
+50,56076,680,3,High School,Group_A,1
+30,70116,762,15,Bachelor,Group_B,1
+28,27206,678,6,Bachelor,Group_B,0
+45,56614,696,7,Master,Group_A,0
+42,67547,638,7,Bachelor,Group_B,0
+35,62329,733,19,Bachelor,Group_A,1
+30,54015,599,2,High School,Group_A,0
+40,53766,660,8,Master,Group_A,1
+43,40221,611,18,High School,Group_B,0
+21,66820,660,12,Bachelor,Group_A,0
+22,67648,644,6,High School,Group_A,1
+39,34564,734,19,High School,Group_A,1
+34,73763,666,20,High School,Group_B,1
+28,48217,777,14,Bachelor,Group_A,0
+58,53232,664,18,Bachelor,Group_B,0
+32,93370,610,1,High School,Group_B,0
+46,88835,664,11,Bachelor,Group_B,1
+47,33961,711,7,Master,Group_B,0
+49,36978,790,7,High School,Group_A,1
+35,41082,638,12,High School,Group_A,1
+21,88552,788,0,Bachelor,Group_B,0
+48,49070,668,9,Master,Group_A,1
+23,33465,651,20,Bachelor,Group_B,1
+38,82184,730,8,Master,Group_B,1
+54,70691,773,1,Bachelor,Group_B,1
+52,100517,716,18,Bachelor,Group_B,1
+49,70655,588,13,High School,Group_B,1
+45,59426,702,9,Bachelor,Group_B,1
+46,64549,821,9,High School,Group_A,1
+59,51846,532,7,Bachelor,Group_B,1
+28,83499,704,13,High School,Group_A,1
+39,84449,662,12,Bachelor,Group_A,1
+42,31507,619,5,Master,Group_B,1
+49,76965,747,20,Bachelor,Group_A,1
+53,40721,567,12,High School,Group_A,0
+58,103447,657,2,Bachelor,Group_A,1
+55,87307,745,19,Bachelor,Group_B,1
+23,39516,738,12,High School,Group_B,1
+39,64302,719,18,Bachelor,Group_B,1
+30,77876,691,15,Bachelor,Group_A,1
+47,48774,672,3,Bachelor,Group_B,1
+35,35406,649,2,Master,Group_B,1
+31,61832,617,14,High School,Group_A,1
+46,57131,733,14,High School,Group_A,1
+44,43543,694,17,Bachelor,Group_A,1
+33,82250,735,6,Master,Group_B,1
+52,36799,629,19,Bachelor,Group_B,1
+57,58058,628,4,High School,Group_B,0
+24,63273,712,7,Bachelor,Group_A,0
+33,65562,532,9,Bachelor,Group_B,1
+29,80352,516,0,Bachelor,Group_B,0
+54,55679,746,10,Bachelor,Group_B,1
+57,18000,634,2,Master,Group_B,0
+27,53038,693,20,High School,Group_A,1
+21,73062,705,2,Bachelor,Group_A,0
+32,57405,747,14,Bachelor,Group_B,1
+41,57539,651,16,Master,Group_B,0
+31,69472,655,17,Bachelor,Group_B,0
+34,71845,640,7,Bachelor,Group_A,1
+54,27845,720,12,Bachelor,Group_B,1
+54,59664,723,9,Bachelor,Group_A,1
+45,56486,763,2,Master,Group_A,1
+24,61352,599,19,Master,Group_B,0
+46,24544,825,13,Bachelor,Group_B,1
+36,83816,660,12,Bachelor,Group_A,1
+30,60121,677,2,Master,Group_A,0
+22,67650,691,12,High School,Group_A,1
+55,91788,621,19,High School,Group_A,1
+39,67824,653,8,Bachelor,Group_B,1
+26,32282,775,15,Bachelor,Group_B,1
+39,58444,776,7,Master,Group_A,1
+28,72148,693,11,Bachelor,Group_B,1
+34,61019,748,11,Bachelor,Group_B,1
+30,90723,707,18,Bachelor,Group_B,1
+23,44593,676,16,Master,Group_A,1
+58,82412,631,14,Bachelor,Group_B,0
+49,75103,624,17,High School,Group_A,1
+35,61598,631,6,Master,Group_A,1
+43,65964,785,12,Bachelor,Group_A,1
+43,42402,737,18,High School,Group_A,0
+38,54469,774,15,Bachelor,Group_A,1
+39,70388,706,10,High School,Group_A,1
+48,57316,623,4,Master,Group_A,1
+46,61084,719,1,Bachelor,Group_B,1
+30,77864,763,0,Master,Group_B,1
+24,25670,722,15,Bachelor,Group_A,1
+22,66649,594,4,Master,Group_B,0
+23,91978,584,6,High School,Group_B,0
+27,53216,721,8,High School,Group_B,1
+36,37603,660,3,High School,Group_A,1
+51,52996,700,18,Bachelor,Group_B,0
+30,32693,633,19,High School,Group_B,0
+39,64062,688,14,Bachelor,Group_B,1
+48,58674,608,6,Bachelor,Group_A,1
+37,65737,696,17,Bachelor,Group_B,1
+48,57638,727,4,Bachelor,Group_B,1
+39,63526,731,20,High School,Group_B,1
+57,68109,595,12,Master,Group_A,1
+43,38442,710,2,Bachelor,Group_A,1
+40,66230,642,5,Master,Group_B,1
+33,86068,779,11,Bachelor,Group_B,1
+33,42689,742,20,Master,Group_A,0
+31,65550,682,17,Bachelor,Group_B,1
+35,83305,822,17,Master,Group_A,1
+37,39209,633,3,High School,Group_B,0
+48,74361,676,19,Bachelor,Group_B,1
+39,56004,715,13,Master,Group_B,1
+24,78204,812,13,High School,Group_B,1
+42,45160,775,0,Bachelor,Group_A,1
+42,59837,732,10,Master,Group_B,1
+57,32667,623,8,Bachelor,Group_A,0
+59,67871,623,17,High School,Group_B,0
+54,68077,725,4,Bachelor,Group_B,0
+53,69734,599,9,High School,Group_B,0
+60,68849,701,14,Master,Group_A,1
+53,58361,732,9,High School,Group_B,0
+32,33403,584,15,High School,Group_A,1
+22,77857,722,3,Bachelor,Group_A,1
+48,59308,738,3,Bachelor,Group_B,1
+30,67083,656,7,Master,Group_A,1
+42,56666,670,5,High School,Group_B,0
+37,95258,564,10,High School,Group_A,1
+46,49782,673,12,Bachelor,Group_A,1
+23,49090,581,18,Master,Group_B,1
+27,31890,635,10,Bachelor,Group_B,1
+28,62032,654,1,Bachelor,Group_A,1
+40,93451,605,2,Bachelor,Group_B,1
+32,62251,599,14,Bachelor,Group_B,0
+55,64088,602,12,Bachelor,Group_B,0
+37,77518,759,9,Bachelor,Group_A,1
+48,62918,675,4,Master,Group_B,0
+30,81587,762,10,Master,Group_B,1
+42,84259,654,13,Master,Group_B,1
+58,49326,655,19,Bachelor,Group_A,0
+53,34252,652,14,Bachelor,Group_B,1
+42,72413,486,12,High School,Group_B,0
+57,65807,713,2,Bachelor,Group_B,0
+33,41175,673,8,Bachelor,Group_A,1
+47,47795,683,7,Master,Group_B,0
+35,47739,544,14,High School,Group_B,0
+42,62654,678,0,Master,Group_A,1
+50,77953,651,1,Bachelor,Group_A,1
+60,78961,688,8,Bachelor,Group_B,0
+57,74235,675,20,Bachelor,Group_A,1
+54,54742,648,16,Master,Group_B,0
+54,99962,717,8,Master,Group_B,1
+55,60598,747,0,Bachelor,Group_B,1
+39,53001,653,7,High School,Group_A,1
+28,35411,586,4,Master,Group_A,0
+59,53744,590,10,Bachelor,Group_B,0
+53,67898,707,5,Bachelor,Group_A,0
+48,31448,764,16,High School,Group_B,1
+57,42826,562,17,High School,Group_A,0
+45,51588,614,17,High School,Group_A,1
+56,46043,658,4,Master,Group_A,0
+37,44558,547,4,High School,Group_B,0
+44,80243,674,18,High School,Group_B,0
+41,30288,704,12,Bachelor,Group_A,0
+22,63157,711,6,Bachelor,Group_A,0
+51,69343,654,13,High School,Group_A,1
+53,51286,657,7,High School,Group_B,1
+50,55915,614,2,High School,Group_A,0
+32,59270,565,3,Bachelor,Group_B,0
+32,71418,668,9,High School,Group_B,0
+44,87552,707,3,Bachelor,Group_B,1
+44,36879,681,17,High School,Group_A,1
+31,43507,752,11,High School,Group_B,1
+33,44414,702,19,Bachelor,Group_A,1
+47,59774,723,19,High School,Group_A,1
+28,52804,691,14,High School,Group_B,1
+30,71996,801,12,Bachelor,Group_B,1
+28,48183,648,11,Bachelor,Group_A,0
+40,44011,724,7,Bachelor,Group_A,1
+28,46264,696,8,High School,Group_B,1
+29,62082,728,19,Master,Group_A,1
+27,77351,702,8,Master,Group_B,1
+34,59200,677,16,Master,Group_B,1
+48,49953,705,0,Bachelor,Group_A,0
+22,41441,713,5,Master,Group_A,1
+28,86309,721,6,High School,Group_A,1
+33,28303,775,8,High School,Group_B,0
+41,56651,693,9,High School,Group_B,0
+48,73315,609,3,Master,Group_A,0
+55,56403,691,15,Bachelor,Group_B,0
+43,49806,651,11,Master,Group_B,1
+35,69642,649,8,Bachelor,Group_A,0
+22,40312,659,2,Master,Group_B,1
+32,28666,621,8,Master,Group_A,0
+56,66357,524,16,Master,Group_A,0
+23,42087,776,13,Bachelor,Group_A,1
+25,62371,648,4,Master,Group_A,1
+23,57781,569,20,Master,Group_A,0
+39,64699,692,0,Bachelor,Group_A,1
+22,55913,720,0,Bachelor,Group_B,0
+57,69927,668,2,Bachelor,Group_B,1
+37,47336,596,8,Bachelor,Group_B,0
+34,74062,588,5,Master,Group_A,1
+48,38083,828,8,High School,Group_A,1
+47,81107,588,3,Bachelor,Group_A,0
+30,96930,574,19,High School,Group_B,1
+23,61946,660,18,Bachelor,Group_B,0
+56,88245,733,4,Bachelor,Group_A,0
+58,92911,788,4,Master,Group_A,1
+45,54223,666,13,High School,Group_B,0
+42,60862,665,9,Master,Group_A,1
+59,45346,597,15,Master,Group_A,1
+50,46507,751,5,Bachelor,Group_B,0
+41,64192,675,19,High School,Group_B,1
+50,30555,678,13,High School,Group_A,1
+48,75026,708,17,Bachelor,Group_A,1
+51,63011,700,8,High School,Group_B,0
+46,72264,671,6,Bachelor,Group_A,0
+42,56723,766,17,Master,Group_A,1
+41,72105,576,9,High School,Group_A,0
+21,64458,694,1,Bachelor,Group_A,0
+57,69130,706,12,Master,Group_A,0
+33,76231,653,5,Master,Group_B,1
+41,37231,720,8,Master,Group_A,1
+29,47345,723,19,Master,Group_A,1
+37,101667,752,7,Bachelor,Group_B,1
+41,63731,673,9,Master,Group_B,1
+51,29098,666,15,Master,Group_B,1
+59,29198,715,14,Bachelor,Group_B,1
+42,58650,667,12,Bachelor,Group_A,1
+32,50585,581,17,Bachelor,Group_B,0
+26,45485,736,5,Bachelor,Group_A,1
+36,92277,561,19,High School,Group_B,0
+46,53356,706,8,Bachelor,Group_A,1
+25,74778,845,17,Bachelor,Group_B,1
+29,64502,715,6,Bachelor,Group_B,0
+60,54692,635,4,High School,Group_A,1
+34,39449,651,10,Master,Group_B,1
+50,73846,704,12,High School,Group_B,1
+46,18000,679,2,High School,Group_B,1
+49,75672,729,0,Bachelor,Group_A,0
+39,62723,774,3,Bachelor,Group_B,1
+28,71134,765,18,High School,Group_A,1
+43,60140,605,17,Bachelor,Group_A,0
+55,37782,681,5,Master,Group_A,1
+51,67228,712,9,Bachelor,Group_A,0
+55,75280,779,6,Bachelor,Group_B,1
+52,51375,703,11,High School,Group_A,1
+25,71833,636,7,Bachelor,Group_B,1
+36,65338,708,12,Master,Group_A,1
+37,68110,798,17,Bachelor,Group_A,1
+52,44528,664,13,Master,Group_A,1
+58,83079,634,10,Bachelor,Group_A,1
+52,65329,678,9,Bachelor,Group_A,1
+40,74971,638,5,Master,Group_A,1
+22,53013,734,12,Master,Group_B,1
+40,77681,638,9,Master,Group_A,0
+38,52405,764,11,Bachelor,Group_A,0
+21,43948,712,0,Master,Group_A,1
+49,91893,725,17,Bachelor,Group_B,1
+49,18000,725,12,Master,Group_B,1
+39,113818,735,3,High School,Group_A,1
+60,72631,660,5,Bachelor,Group_A,0
+26,54333,616,17,Master,Group_A,1
+59,65869,649,4,High School,Group_B,0
+28,72642,740,17,Bachelor,Group_A,1
+44,54016,565,4,Master,Group_A,0
+40,96634,550,6,Bachelor,Group_A,1
+34,86560,695,8,Bachelor,Group_A,1
+25,109083,735,2,Bachelor,Group_A,1
+60,38014,744,11,Bachelor,Group_B,1
+54,63875,618,19,High School,Group_A,0
+36,35034,603,13,High School,Group_B,0
+27,40353,635,7,High School,Group_A,0
+36,54127,654,11,Bachelor,Group_A,0
+27,54453,658,6,High School,Group_B,0
+47,66658,688,8,Bachelor,Group_A,0
+34,58008,771,11,Bachelor,Group_B,1
+34,74400,676,3,Master,Group_B,0
+53,65740,741,4,High School,Group_A,0
+53,89656,723,8,Bachelor,Group_B,1
+40,74918,634,6,Bachelor,Group_A,1
+56,38779,722,13,Master,Group_B,0
+27,57381,717,19,Bachelor,Group_A,1
+52,58596,680,16,Master,Group_B,1
+23,67918,691,0,High School,Group_A,0
+59,79355,676,14,Bachelor,Group_B,1
+49,65087,609,14,Bachelor,Group_B,1
+44,70407,834,0,Master,Group_B,1
+42,39584,749,14,Bachelor,Group_B,1
+26,51734,714,1,Bachelor,Group_B,1
+44,25582,654,3,High School,Group_B,0
+60,67955,674,16,Bachelor,Group_A,0
+43,75147,604,15,Bachelor,Group_A,1
+58,36258,711,17,High School,Group_A,1
+30,62852,702,20,High School,Group_A,0
+36,58159,667,15,Master,Group_A,1
+31,90392,682,7,Bachelor,Group_B,1
+52,43901,661,5,Master,Group_A,0
+26,76527,648,19,Master,Group_B,1
+44,80575,630,1,Master,Group_A,1
+53,56491,614,18,Master,Group_A,1
+32,65265,634,12,Master,Group_B,1
+47,79394,639,20,Bachelor,Group_B,0
+58,40209,751,5,High School,Group_B,1
+38,52311,640,5,Bachelor,Group_B,1
+59,63352,548,12,Bachelor,Group_A,1
+33,97152,699,0,High School,Group_B,1
+60,52804,721,20,Bachelor,Group_A,1
+50,55164,743,8,Bachelor,Group_A,1
+33,87848,691,11,Master,Group_A,1
+54,71934,606,11,Bachelor,Group_A,0
+56,99286,628,3,Bachelor,Group_A,0
+50,79678,719,18,Bachelor,Group_B,1
+45,57372,775,15,Bachelor,Group_B,1
+22,54811,606,11,Master,Group_A,1
+56,45157,694,0,High School,Group_A,0
+38,36510,644,20,Bachelor,Group_A,0
+25,66135,626,3,Bachelor,Group_A,1
+39,71285,682,8,Bachelor,Group_B,1
+38,73453,671,6,Bachelor,Group_A,1
+52,57777,548,9,Bachelor,Group_B,0
+41,94742,693,12,High School,Group_A,0
+30,35548,701,7,Bachelor,Group_B,0
+57,33510,729,19,Master,Group_A,1
+42,45247,643,9,Bachelor,Group_B,1
+33,60107,577,9,High School,Group_A,0
+37,40252,653,7,Bachelor,Group_B,0
+29,84245,726,19,High School,Group_A,1
+44,46699,675,14,Master,Group_A,1
+34,43484,735,0,Bachelor,Group_B,1
+28,78991,595,14,Master,Group_B,1
+57,63734,733,16,Bachelor,Group_B,1
+39,74125,696,12,Master,Group_B,0
+48,59143,657,11,Bachelor,Group_B,0
+50,64892,750,2,High School,Group_A,1
+27,34196,696,18,High School,Group_A,1
+46,57339,616,4,Bachelor,Group_A,1
+60,41135,744,2,Bachelor,Group_B,0
+31,95179,664,20,Bachelor,Group_A,0
+34,83271,682,4,Master,Group_A,0
+41,48229,624,8,High School,Group_B,1
+28,56264,677,5,Bachelor,Group_B,1
+23,57112,619,15,Master,Group_A,1
+48,98771,669,9,Bachelor,Group_A,1
+49,67135,682,15,Master,Group_A,1
+43,52298,719,2,Bachelor,Group_A,1
+38,62640,589,17,Bachelor,Group_A,0
+55,32334,745,10,High School,Group_B,0
+33,58674,747,18,Master,Group_B,1
+32,40544,668,14,Master,Group_B,0
+25,26742,688,10,Master,Group_A,1
+59,95758,700,9,Bachelor,Group_B,0
+31,59514,685,8,Master,Group_A,0
+31,46111,719,2,Bachelor,Group_A,1
+51,29451,655,8,Bachelor,Group_B,0
+51,56020,631,17,Master,Group_A,1
+33,57315,708,11,High School,Group_A,0
+34,73771,581,20,High School,Group_B,1
+45,42831,720,15,Bachelor,Group_A,0
+53,50392,727,3,Master,Group_B,1
+53,43357,629,0,Bachelor,Group_A,1
+35,56075,772,12,Bachelor,Group_B,0
+36,24126,657,7,Master,Group_A,1
+58,45524,652,5,Bachelor,Group_A,0
+26,71335,638,7,High School,Group_B,0
+45,37942,709,18,Bachelor,Group_A,1
+35,77991,655,11,Master,Group_A,1
+24,75721,587,0,High School,Group_A,0
+24,77226,702,3,Bachelor,Group_A,1
+50,59919,661,12,High School,Group_A,0
+54,58301,751,16,Bachelor,Group_A,1
+47,65753,700,18,Bachelor,Group_B,1
+51,83765,697,18,Bachelor,Group_A,1
+52,82127,746,4,Bachelor,Group_A,1
+59,30080,690,10,Master,Group_A,1
+29,44263,731,6,Bachelor,Group_A,1
+28,41029,638,2,Master,Group_B,0
+34,73082,787,10,Bachelor,Group_A,1
+53,47773,698,16,High School,Group_B,0
+43,56339,602,10,Bachelor,Group_A,0
+41,90743,689,14,Master,Group_B,1
+32,80176,692,18,Bachelor,Group_B,1
+22,84772,688,7,Master,Group_B,0
+33,47095,531,15,High School,Group_B,0
+24,18000,644,20,Bachelor,Group_B,1
+40,52881,590,14,Bachelor,Group_A,0
+34,34081,591,2,Bachelor,Group_A,0
+50,25007,691,5,Bachelor,Group_B,0
+49,80316,644,2,Bachelor,Group_A,0
+28,43947,656,4,Bachelor,Group_A,0
+32,45482,622,0,Bachelor,Group_B,0
+58,53416,770,13,High School,Group_A,1
+46,89637,683,11,Bachelor,Group_B,1
+22,57091,581,12,Bachelor,Group_B,0
+60,77129,722,13,Bachelor,Group_B,1
+34,54324,658,11,Bachelor,Group_B,1
+26,31552,758,12,Master,Group_A,0
+60,38583,679,5,Bachelor,Group_A,1
+51,59932,635,20,Master,Group_A,1
+37,61937,645,14,Bachelor,Group_A,1
+45,69769,654,15,Bachelor,Group_B,0
+52,69776,712,8,Bachelor,Group_B,1
+32,76203,629,7,Bachelor,Group_A,1
+33,46155,761,4,Bachelor,Group_A,1
+39,92890,704,14,Bachelor,Group_B,1
+45,94538,695,6,High School,Group_A,1
+51,50630,685,16,Bachelor,Group_A,1
+57,45709,679,15,Master,Group_A,0
+45,27873,597,10,Bachelor,Group_B,1
+36,63076,699,6,Bachelor,Group_B,0
+58,68144,805,10,Master,Group_B,1
+43,49572,725,1,Bachelor,Group_B,1
+34,65090,708,1,High School,Group_A,0
+26,35019,580,5,Master,Group_A,1
+45,77418,751,2,High School,Group_B,1
+43,50442,732,0,Bachelor,Group_A,1
+32,65198,756,19,High School,Group_B,1
+33,63783,621,15,High School,Group_B,1
+56,24712,654,13,High School,Group_B,1
+59,75013,583,16,Bachelor,Group_B,1
+54,45880,578,17,High School,Group_B,0
+26,63645,643,3,High School,Group_B,1
+58,34622,710,2,Master,Group_A,1
+60,51371,653,7,Master,Group_A,1
+28,66538,637,3,Master,Group_A,0
+28,40573,702,14,Master,Group_B,1
+60,41559,469,12,Bachelor,Group_A,0
+53,62251,645,13,Master,Group_B,1
+54,56985,702,13,Bachelor,Group_A,1
+35,66287,654,4,Bachelor,Group_B,1
+56,53379,764,4,Bachelor,Group_A,0
+55,71547,637,12,High School,Group_B,1
+42,49795,642,3,Master,Group_B,0
+43,70747,616,17,Bachelor,Group_A,0
+60,43678,631,5,High School,Group_A,0
+42,49002,698,4,High School,Group_B,0
+25,73152,733,2,High School,Group_A,0
+51,50741,820,19,Master,Group_A,1
+33,38918,718,2,Master,Group_B,1
+48,91142,603,2,Bachelor,Group_B,0
+40,59368,761,19,Bachelor,Group_B,1
+53,68486,712,1,High School,Group_A,1
+36,19283,682,19,Master,Group_A,1
+49,83973,749,17,High School,Group_B,1
+43,107632,834,9,Master,Group_B,1
+44,82359,668,20,Bachelor,Group_B,0
+54,84925,626,6,Master,Group_A,0
+27,52642,766,19,Bachelor,Group_A,0
+58,64533,850,13,Bachelor,Group_A,1
+57,68785,689,9,Bachelor,Group_A,0
+24,47443,682,19,Master,Group_A,1
+54,57767,691,15,Master,Group_A,1
+42,41982,709,5,Bachelor,Group_B,0
+25,52881,588,16,Bachelor,Group_A,0
+43,75136,700,5,Master,Group_B,0
+35,28216,698,17,Master,Group_B,1
+51,77156,694,9,Bachelor,Group_B,0
+29,31608,691,9,High School,Group_A,1
+45,60944,686,8,High School,Group_B,1
+45,62582,543,14,Master,Group_B,0
+41,70311,633,10,High School,Group_B,1
+29,56750,736,6,High School,Group_B,1
+58,41195,751,17,High School,Group_B,0
+42,63321,653,1,Bachelor,Group_B,0
+43,99105,618,1,Bachelor,Group_A,1
+24,59741,727,12,Bachelor,Group_B,1
+49,44135,698,10,High School,Group_A,1
+35,51591,672,18,Master,Group_B,1
+21,62704,736,19,Master,Group_A,1
+50,55165,603,0,High School,Group_A,0
+49,52664,755,16,High School,Group_B,1
+40,83894,582,19,Bachelor,Group_B,1

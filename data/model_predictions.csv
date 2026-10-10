@@ -1,0 +1,1001 @@
+age,income,credit_score,employment_years,education,gender,loan_amount,previous_default,actual_decision,predicted_decision,group
+52,131964,488,5,Bachelor,Female,9174,0,0,0,Group_A
+45,120165,791,17,Master,Female,63498,0,1,1,Group_A
+34,65156,472,9,High School,Female,30386,0,0,0,Group_A
+23,96208,829,15,High School,Female,84567,0,1,1,Group_B
+36,103096,567,20,High School,Male,37844,0,0,0,Group_A
+32,45008,838,4,Bachelor,Female,42982,0,1,0,Group_A
+54,52214,564,13,Bachelor,Male,97700,0,0,0,Group_A
+36,138034,720,8,High School,Male,13695,0,1,1,Group_A
+37,49511,836,0,Bachelor,Male,86456,1,0,0,Group_A
+49,43332,463,11,High School,Male,41584,0,0,0,Group_A
+25,127099,595,7,Bachelor,Female,94249,0,0,0,Group_B
+26,58098,460,19,Bachelor,Female,94248,0,0,0,Group_A
+37,54731,686,1,Bachelor,Male,88547,0,0,0,Group_B
+50,44976,801,18,Bachelor,Male,9237,0,1,1,Group_B
+57,134483,639,2,High School,Male,60880,0,1,0,Group_A
+44,101931,652,16,PhD,Male,38180,0,1,1,Group_A
+54,62748,504,0,Bachelor,Male,28774,1,0,0,Group_B
+55,106126,558,16,Bachelor,Male,74753,1,0,0,Group_A
+22,33335,489,10,Bachelor,Male,84722,0,0,0,Group_A
+53,36198,571,14,Bachelor,Male,56327,0,0,0,Group_B
+30,64414,506,6,High School,Female,42624,0,0,0,Group_B
+24,53073,506,2,Bachelor,Male,67313,0,0,0,Group_B
+45,40711,567,7,Bachelor,Female,90623,0,0,0,Group_A
+59,102800,715,2,High School,Female,71448,1,0,0,Group_B
+42,120667,598,8,Master,Female,19197,0,0,0,Group_B
+34,42837,718,5,Bachelor,Female,29559,0,0,0,Group_B
+36,116907,556,11,Master,Male,91811,0,0,0,Group_A
+60,136582,596,10,Bachelor,Female,73643,0,1,1,Group_A
+35,124450,609,12,Bachelor,Male,57360,0,1,1,Group_A
+26,46128,661,0,Bachelor,Male,35408,1,0,0,Group_A
+60,40836,785,19,High School,Female,10917,0,0,1,Group_B
+23,125409,684,3,Master,Male,28066,0,1,0,Group_A
+40,105119,501,14,Bachelor,Female,69396,0,0,0,Group_A
+60,27135,826,10,Bachelor,Female,29897,0,0,0,Group_B
+32,140382,743,13,High School,Female,63150,0,1,1,Group_A
+41,142006,816,0,Bachelor,Male,69273,0,1,1,Group_A
+46,22147,665,15,High School,Male,86927,0,0,0,Group_B
+45,118537,566,14,Bachelor,Female,69481,0,0,1,Group_A
+50,27367,633,11,High School,Male,44194,0,0,0,Group_A
+37,36576,591,8,Bachelor,Male,47494,0,0,0,Group_A
+53,91260,641,18,Bachelor,Female,15188,1,0,0,Group_A
+31,90248,637,3,High School,Male,67781,0,0,0,Group_A
+58,139000,755,16,Bachelor,Male,30454,0,1,1,Group_B
+24,94531,590,13,Bachelor,Male,31457,1,0,0,Group_A
+44,34292,511,16,Bachelor,Male,5747,0,0,0,Group_B
+30,101268,497,14,Master,Female,64846,0,1,0,Group_A
+47,138330,700,18,Bachelor,Male,27140,0,1,1,Group_B
+24,37718,757,8,Bachelor,Female,62027,0,0,0,Group_B
+54,111493,808,12,High School,Female,73357,0,1,1,Group_B
+22,139999,504,2,Bachelor,Male,61618,0,0,0,Group_A
+26,21462,474,13,Bachelor,Male,10490,0,0,0,Group_B
+33,73693,458,12,Bachelor,Male,80605,0,0,0,Group_A
+32,20864,607,8,Bachelor,Female,51075,0,0,0,Group_B
+52,29719,561,9,Bachelor,Male,7358,0,0,0,Group_A
+51,52376,844,20,Master,Male,11463,1,1,0,Group_A
+32,79342,463,2,PhD,Male,54827,1,0,0,Group_A
+55,121454,492,2,Bachelor,Male,88764,0,0,0,Group_A
+45,23009,812,17,Master,Male,26955,0,1,1,Group_A
+40,50935,750,12,Master,Male,64175,0,1,0,Group_A
+31,55863,465,19,High School,Female,58050,0,0,0,Group_A
+38,67691,592,12,Bachelor,Male,70927,0,0,0,Group_B
+58,24136,587,14,PhD,Male,37821,0,0,0,Group_B
+38,125909,620,15,High School,Female,85279,0,1,1,Group_A
+58,40719,657,18,Master,Male,78658,1,0,0,Group_B
+39,127323,462,18,High School,Male,41362,0,0,0,Group_B
+42,87906,721,18,Bachelor,Male,16531,0,1,1,Group_A
+48,55490,629,17,High School,Male,34336,0,0,0,Group_B
+38,87087,684,12,Bachelor,Female,47095,1,0,0,Group_B
+21,81192,492,17,Bachelor,Male,45431,0,1,0,Group_A
+41,123801,544,6,Bachelor,Male,56129,0,0,0,Group_A
+30,113847,629,1,Master,Female,92254,0,0,0,Group_B
+37,59601,558,19,Bachelor,Male,75858,0,0,0,Group_B
+58,56018,836,0,High School,Female,29331,0,1,0,Group_A
+53,51899,506,8,High School,Male,76646,0,0,0,Group_A
+45,110282,682,19,Bachelor,Male,31162,0,1,1,Group_A
+25,133687,483,5,Bachelor,Female,36485,0,0,0,Group_A
+47,98006,782,12,Bachelor,Male,98650,1,0,0,Group_B
+40,130957,547,16,Master,Male,30550,0,0,0,Group_A
+45,24655,519,16,High School,Male,19837,0,0,0,Group_A
+45,48615,556,16,High School,Male,61572,0,0,0,Group_B
+37,81386,667,1,Bachelor,Female,6023,1,0,0,Group_A
+47,97733,526,7,Master,Male,97128,0,0,0,Group_B
+52,134826,752,7,High School,Male,53275,0,1,1,Group_B
+34,118264,714,19,Bachelor,Male,84738,1,0,0,Group_B
+51,111271,759,11,PhD,Male,86340,0,1,1,Group_A
+41,105657,794,13,High School,Male,61025,0,1,1,Group_A
+21,135440,784,17,High School,Male,67185,0,0,1,Group_B
+36,64148,522,7,High School,Female,90787,0,0,0,Group_A
+60,91537,538,10,High School,Female,23691,1,0,0,Group_A
+38,30725,760,14,PhD,Female,43715,1,0,0,Group_A
+34,107460,846,0,Bachelor,Female,86709,0,0,1,Group_B
+60,35728,780,8,Bachelor,Female,54592,0,0,0,Group_A
+43,42504,663,6,Master,Male,50386,0,0,0,Group_B
+39,142652,496,6,High School,Male,38755,0,0,0,Group_B
+22,100077,597,20,Bachelor,Female,87915,0,0,0,Group_B
+22,108844,771,3,Bachelor,Female,90189,0,1,1,Group_A
+30,39613,628,18,High School,Female,82177,0,0,0,Group_B
+23,72772,478,14,High School,Male,94133,0,0,0,Group_B
+56,56547,478,3,Bachelor,Male,80270,0,0,0,Group_B
+54,135159,813,12,Bachelor,Male,10557,0,1,1,Group_A
+36,126718,725,18,High School,Male,72916,0,1,1,Group_A
+31,125585,472,0,Bachelor,Female,63086,0,0,0,Group_B
+39,106669,532,6,High School,Female,64946,0,0,0,Group_A
+29,142761,783,10,Master,Male,7019,0,1,1,Group_A
+39,106335,511,2,Master,Female,72819,0,0,0,Group_B
+27,58445,781,14,Bachelor,Female,29516,0,0,0,Group_A
+59,48885,556,16,Bachelor,Male,34269,0,0,0,Group_B
+23,120453,470,8,High School,Male,33340,0,0,0,Group_B
+26,70017,525,2,Bachelor,Female,21830,0,0,0,Group_B
+21,69036,745,15,High School,Male,30607,0,1,1,Group_B
+36,136220,506,15,High School,Male,54073,0,0,0,Group_B
+42,61034,645,1,High School,Female,89650,1,0,0,Group_A
+26,96411,624,10,Master,Male,54813,0,0,0,Group_A
+45,148918,785,18,Master,Male,30090,0,1,1,Group_A
+56,41672,670,12,Bachelor,Male,45546,1,0,0,Group_A
+36,85184,779,5,High School,Male,67275,0,0,1,Group_B
+54,31049,826,2,Bachelor,Male,53901,1,0,0,Group_A
+34,122326,714,6,High School,Male,93697,0,1,1,Group_A
+56,108905,728,12,PhD,Male,56007,0,1,1,Group_B
+59,63390,702,5,Master,Female,67742,0,1,0,Group_A
+52,82514,827,19,Bachelor,Male,23862,0,1,1,Group_A
+57,39558,598,15,PhD,Male,47988,0,1,0,Group_A
+22,73413,669,15,Bachelor,Male,26083,0,0,0,Group_B
+42,125573,520,4,High School,Male,58459,0,0,0,Group_B
+28,107937,846,19,High School,Male,14376,0,1,1,Group_B
+50,128132,538,1,Bachelor,Male,68994,0,0,0,Group_B
+52,138998,459,2,High School,Female,54670,0,0,0,Group_A
+28,36555,705,11,High School,Male,69737,0,0,0,Group_A
+28,55422,590,11,Bachelor,Female,34471,0,0,0,Group_A
+60,129028,472,14,Bachelor,Female,77446,0,0,1,Group_B
+32,48906,805,15,Bachelor,Male,32023,0,1,0,Group_A
+51,145502,543,6,High School,Female,76535,0,0,0,Group_A
+30,117228,839,6,Bachelor,Male,22893,0,1,1,Group_B
+34,131316,585,8,Master,Female,10648,0,0,0,Group_B
+60,117469,466,17,High School,Male,95482,1,0,0,Group_A
+36,96448,780,4,Bachelor,Male,41973,0,1,1,Group_A
+54,23317,605,14,High School,Female,8262,0,0,0,Group_A
+50,80277,837,1,Bachelor,Female,53294,0,1,1,Group_A
+40,49475,793,10,Bachelor,Male,48671,0,1,0,Group_A
+56,106654,499,18,High School,Male,43398,1,0,0,Group_B
+33,98608,587,14,Bachelor,Male,62594,0,0,0,Group_B
+46,31516,709,12,Master,Male,84414,0,0,0,Group_B
+56,111239,711,10,Bachelor,Female,44442,0,0,1,Group_B
+28,26533,452,15,High School,Female,99822,0,0,0,Group_B
+23,145155,466,13,Master,Female,56255,0,1,0,Group_B
+42,28320,520,13,PhD,Female,95425,0,0,0,Group_B
+29,51629,699,14,High School,Male,70186,0,0,0,Group_A
+26,77804,495,20,Bachelor,Male,18056,0,0,0,Group_A
+32,133768,683,12,Master,Male,49211,0,1,1,Group_A
+30,124779,766,9,Master,Female,75569,0,1,1,Group_B
+33,24381,485,18,Bachelor,Male,71527,0,0,0,Group_A
+47,129417,549,9,High School,Male,59463,0,0,0,Group_B
+52,45464,828,9,Master,Male,94578,0,1,0,Group_B
+58,100729,812,7,High School,Male,47401,0,1,1,Group_B
+24,80186,646,3,High School,Female,67263,0,0,0,Group_A
+22,136931,839,20,PhD,Male,33055,0,1,1,Group_A
+47,75390,530,3,Bachelor,Male,30977,0,0,0,Group_B
+51,49283,463,8,Bachelor,Female,35772,0,0,0,Group_B
+40,130027,740,5,Bachelor,Male,50237,0,0,1,Group_B
+39,86617,614,9,Master,Male,45170,0,1,0,Group_A
+56,78232,757,4,Bachelor,Female,29126,0,0,1,Group_B
+28,144586,488,6,High School,Female,50006,0,0,0,Group_A
+46,144044,462,7,High School,Male,5739,0,0,0,Group_A
+22,85149,565,3,Bachelor,Male,25012,0,0,0,Group_B
+55,26464,691,5,Master,Male,19760,0,0,0,Group_B
+33,63790,544,11,Master,Female,88016,0,0,0,Group_B
+57,108290,477,20,High School,Female,56277,0,0,0,Group_A
+31,100907,779,12,Master,Female,26735,0,1,1,Group_A
+32,104085,846,8,Master,Female,19093,1,1,0,Group_A
+55,34650,821,16,High School,Male,80200,1,0,0,Group_B
+50,69052,511,6,Master,Female,7733,1,0,0,Group_B
+50,121212,659,3,Bachelor,Female,64660,0,0,1,Group_B
+55,137393,766,12,High School,Female,33671,0,1,1,Group_A
+55,103860,584,1,Bachelor,Female,74285,0,0,0,Group_B
+32,76398,459,17,Bachelor,Female,38216,0,0,0,Group_A
+36,52888,845,15,Bachelor,Female,30316,0,0,1,Group_B
+34,131776,644,19,High School,Male,55605,0,1,1,Group_A
+39,38733,822,17,Bachelor,Female,53788,0,1,1,Group_B
+23,106338,622,6,Master,Male,7485,0,0,0,Group_B
+49,90211,831,3,PhD,Female,68205,0,1,1,Group_A
+23,37138,786,6,Bachelor,Female,38027,0,1,0,Group_A
+46,115359,520,6,Master,Female,81026,0,0,0,Group_B
+44,63459,645,8,Master,Female,39341,0,0,0,Group_A
+23,93290,614,0,High School,Male,66025,0,0,0,Group_B
+56,41045,580,3,Master,Male,70246,0,0,0,Group_A
+24,131266,570,6,Bachelor,Male,66233,0,0,0,Group_B
+53,60643,542,6,Bachelor,Male,62325,0,0,0,Group_B
+57,125702,709,5,Master,Female,78314,0,0,1,Group_B
+54,44143,669,1,Master,Male,84229,0,0,0,Group_A
+31,99443,604,16,Bachelor,Male,85662,0,1,0,Group_A
+49,137053,580,16,High School,Male,46946,0,0,1,Group_B
+44,149604,660,14,High School,Female,81962,0,1,1,Group_A
+60,49086,782,9,Bachelor,Female,42165,0,0,0,Group_B
+57,110283,507,18,Master,Male,32331,0,0,0,Group_A
+31,85449,559,0,High School,Female,86559,1,0,0,Group_B
+34,33334,835,15,High School,Male,43789,1,0,0,Group_A
+45,146519,536,16,High School,Female,16606,0,1,1,Group_A
+38,97707,648,18,High School,Male,84747,0,1,0,Group_A
+42,108780,632,2,High School,Male,11325,0,0,0,Group_B
+60,77986,539,2,High School,Male,76899,0,0,0,Group_B
+44,64565,492,17,High School,Male,87243,0,0,0,Group_A
+60,143153,493,19,Bachelor,Male,30712,0,0,0,Group_A
+25,146083,699,17,Bachelor,Male,12676,0,1,1,Group_A
+55,82766,568,1,Bachelor,Male,13846,0,0,0,Group_B
+55,89795,609,19,Bachelor,Male,94022,0,0,0,Group_A
+21,23232,807,15,Bachelor,Female,76602,1,0,0,Group_A
+54,91327,731,18,Master,Female,41054,0,1,1,Group_A
+46,84148,505,20,Master,Female,58919,0,0,0,Group_A
+48,80038,677,18,Bachelor,Male,98716,0,1,0,Group_A
+28,63880,804,17,Master,Female,66490,0,1,1,Group_A
+31,69990,644,5,Bachelor,Male,48704,0,0,0,Group_A
+21,119301,736,1,High School,Female,84525,1,0,0,Group_A
+43,76463,798,7,Bachelor,Female,59648,0,1,1,Group_A
+37,40595,661,8,High School,Female,84462,0,0,0,Group_B
+51,75371,835,0,Master,Female,69627,0,1,0,Group_A
+53,96896,615,17,High School,Male,80969,0,1,0,Group_A
+53,135884,457,17,High School,Male,55141,0,0,0,Group_A
+45,145857,647,17,Master,Female,74804,1,0,0,Group_A
+49,75206,727,11,Master,Female,41077,0,1,0,Group_A
+23,39643,760,15,Master,Female,74344,0,0,0,Group_B
+37,52152,451,0,High School,Male,55105,0,0,0,Group_B
+46,44503,513,0,High School,Male,83382,0,0,0,Group_A
+58,23228,614,10,High School,Female,61513,0,0,0,Group_B
+44,41252,549,5,Bachelor,Male,58368,0,0,0,Group_A
+58,65747,811,3,Bachelor,Male,44850,0,0,1,Group_B
+56,58259,477,7,Bachelor,Male,99609,0,0,0,Group_A
+33,101653,731,13,High School,Male,51828,0,0,1,Group_B
+38,56613,659,12,Bachelor,Male,67650,0,0,0,Group_A
+57,42191,736,14,High School,Male,68175,0,0,0,Group_B
+32,44014,518,5,Bachelor,Male,46613,0,0,0,Group_B
+27,66216,548,8,High School,Male,69005,1,0,0,Group_A
+60,148041,682,2,Bachelor,Male,19432,0,1,1,Group_A
+32,47785,598,12,Bachelor,Female,10846,0,0,0,Group_B
+57,33569,621,11,Master,Female,45081,0,0,0,Group_B
+52,131508,768,3,Master,Female,10661,0,1,1,Group_A
+30,66015,695,6,High School,Male,27737,0,0,0,Group_B
+27,120825,610,20,Master,Female,19263,0,1,1,Group_A
+45,118827,767,13,High School,Female,19577,0,1,1,Group_B
+47,43600,613,18,High School,Female,66453,0,0,0,Group_A
+54,70733,688,19,PhD,Male,80500,0,0,0,Group_A
+33,111391,507,17,High School,Male,59353,1,0,0,Group_A
+36,119122,511,12,PhD,Male,79564,1,0,0,Group_B
+49,55333,830,9,Bachelor,Male,6905,1,0,0,Group_A
+24,144633,450,2,Master,Male,98890,1,0,0,Group_A
+37,82515,475,10,Master,Female,35641,0,0,0,Group_A
+25,31267,627,13,PhD,Male,70226,0,0,0,Group_B
+53,59449,835,14,Master,Male,5741,0,1,1,Group_B
+52,134881,684,11,Master,Female,88605,0,0,1,Group_B
+49,109402,574,20,Bachelor,Female,48374,1,0,0,Group_A
+33,125056,815,7,Bachelor,Female,97704,1,1,0,Group_B
+46,94328,572,7,Bachelor,Male,41836,0,0,0,Group_A
+21,103286,821,20,Master,Male,79769,0,1,1,Group_A
+59,132947,693,10,Bachelor,Female,91081,0,1,1,Group_B
+25,50562,601,7,High School,Male,10024,0,0,0,Group_B
+45,120997,773,6,Bachelor,Female,42524,1,0,0,Group_A
+36,93843,495,15,Master,Male,93383,0,1,0,Group_A
+45,49680,558,13,High School,Male,51442,0,0,0,Group_B
+27,50232,775,10,Master,Female,50543,0,0,0,Group_B
+28,141169,787,3,Master,Male,84144,0,1,1,Group_A
+53,25269,577,9,PhD,Male,40966,0,0,0,Group_B
+49,136736,532,9,Bachelor,Male,72260,0,0,0,Group_B
+48,100308,808,4,Master,Female,47129,1,0,0,Group_B
+53,81075,465,6,Bachelor,Male,72833,0,0,0,Group_B
+48,110417,562,8,High School,Female,27870,0,0,0,Group_A
+44,28804,570,16,Bachelor,Female,66822,0,0,0,Group_B
+22,111244,533,17,Master,Male,15497,0,0,0,Group_A
+58,29930,518,19,Master,Male,9705,0,0,0,Group_A
+41,88469,648,10,Bachelor,Female,34653,0,0,0,Group_B
+33,139773,767,13,Bachelor,Female,63679,0,1,1,Group_A
+53,75734,478,4,Bachelor,Female,12375,0,0,0,Group_A
+32,117382,476,16,Bachelor,Male,51113,1,0,0,Group_A
+37,99267,835,14,Bachelor,Female,70262,0,1,1,Group_B
+26,62863,505,6,Bachelor,Male,18177,0,0,0,Group_B
+32,99465,596,8,Master,Female,82277,1,0,0,Group_B
+54,114977,660,8,Master,Female,19826,0,1,1,Group_B
+60,84173,806,7,Master,Female,82240,0,1,1,Group_B
+52,73687,773,12,Master,Female,86717,0,1,1,Group_B
+45,52167,490,19,High School,Female,23780,0,0,0,Group_A
+57,32161,756,1,Bachelor,Male,82895,0,0,0,Group_B
+36,75698,564,8,High School,Female,49597,0,0,0,Group_A
+56,59133,759,13,Bachelor,Female,39374,0,1,0,Group_A
+41,77378,485,2,Bachelor,Female,10100,0,0,0,Group_B
+51,127449,626,19,Master,Male,27141,0,1,1,Group_A
+48,146545,674,4,High School,Male,95095,0,1,1,Group_A
+31,96427,453,11,High School,Male,69760,1,0,0,Group_B
+52,44074,519,5,Master,Female,65747,0,0,0,Group_B
+27,142026,737,15,High School,Female,38832,0,1,1,Group_A
+48,110201,838,0,Bachelor,Female,29509,0,1,1,Group_A
+24,42499,674,9,Bachelor,Male,73164,0,0,0,Group_A
+29,85212,600,16,PhD,Female,24546,0,0,0,Group_B
+50,133857,558,3,Master,Male,27844,0,0,0,Group_B
+36,23084,605,8,PhD,Female,94011,0,0,0,Group_B
+40,21168,636,12,Bachelor,Male,20223,0,0,0,Group_A
+58,122795,726,5,Master,Male,87688,0,1,1,Group_B
+52,40625,739,0,High School,Female,10675,0,0,0,Group_B
+60,27868,684,6,Master,Male,34390,0,0,0,Group_A
+41,66182,774,16,Bachelor,Male,77853,0,1,1,Group_B
+54,143777,574,11,High School,Female,70913,0,1,1,Group_A
+58,93181,654,7,Bachelor,Female,66129,0,1,0,Group_A
+51,138361,739,8,Master,Female,23013,0,1,1,Group_B
+21,35792,808,1,Bachelor,Male,67114,1,0,0,Group_B
+38,82501,651,15,Bachelor,Female,69767,0,1,0,Group_B
+52,68137,686,1,Bachelor,Male,40230,0,0,0,Group_B
+55,28646,817,16,Master,Male,68721,0,1,1,Group_A
+46,118430,818,13,High School,Female,62029,0,1,1,Group_A
+58,143885,774,9,High School,Male,16853,0,1,1,Group_A
+40,58231,708,12,Master,Male,81537,1,0,0,Group_A
+48,103641,605,18,PhD,Female,74270,1,0,0,Group_B
+38,60130,789,3,Master,Female,36359,0,0,0,Group_A
+55,22972,573,17,High School,Female,5916,0,0,0,Group_A
+44,63254,562,18,PhD,Male,21918,0,0,0,Group_A
+42,112850,802,5,Bachelor,Female,98733,0,0,1,Group_A
+48,124871,712,17,High School,Female,60061,0,1,1,Group_A
+49,89639,643,9,Master,Female,91648,1,0,0,Group_B
+34,96102,724,4,Master,Male,22928,0,1,0,Group_A
+23,123883,583,18,Bachelor,Male,74683,1,0,0,Group_A
+32,23720,707,0,Master,Male,29714,0,0,0,Group_B
+32,89093,817,11,High School,Female,92099,1,1,0,Group_A
+24,70222,499,14,High School,Female,67941,0,0,0,Group_A
+48,131825,705,12,Master,Male,30437,0,1,1,Group_A
+37,133755,500,11,Master,Female,11594,0,0,0,Group_A
+42,49086,696,9,Master,Female,8771,0,0,0,Group_B
+55,54409,762,19,High School,Female,42817,0,1,1,Group_A
+58,76799,708,7,Bachelor,Female,40569,0,0,0,Group_B
+37,46145,829,2,High School,Male,99827,0,1,0,Group_A
+49,44466,736,2,High School,Female,64473,0,0,0,Group_A
+57,37118,495,1,Bachelor,Female,72879,0,0,0,Group_A
+33,116633,515,15,Bachelor,Female,39904,0,0,0,Group_A
+25,70468,638,17,High School,Male,83948,0,0,0,Group_B
+60,94323,726,3,High School,Female,88061,0,1,0,Group_A
+35,108887,590,1,Bachelor,Female,60585,0,1,0,Group_A
+47,103488,750,16,Master,Male,32854,0,1,1,Group_B
+41,102643,524,3,Bachelor,Female,66850,0,0,0,Group_A
+31,88416,823,14,Bachelor,Male,14535,0,1,1,Group_B
+57,88104,734,20,Master,Female,65275,0,1,1,Group_A
+25,124403,722,19,Master,Female,83483,0,1,1,Group_B
+48,127430,617,12,Master,Female,47178,0,1,1,Group_A
+40,78026,829,15,High School,Female,73444,0,1,1,Group_B
+43,40698,457,9,Bachelor,Female,92372,0,0,0,Group_A
+41,118099,480,15,PhD,Male,94365,0,0,0,Group_B
+57,46336,458,8,Master,Female,49741,0,0,0,Group_A
+22,115527,727,5,High School,Male,93802,1,0,0,Group_A
+57,118725,537,18,Master,Female,51064,0,0,1,Group_A
+51,34692,744,6,Master,Male,50628,0,0,0,Group_B
+26,83879,683,5,Master,Male,72520,1,0,0,Group_A
+36,90474,831,15,Bachelor,Male,88064,0,1,1,Group_B
+60,96302,581,7,High School,Female,91245,0,0,0,Group_A
+36,148921,733,17,Bachelor,Male,12071,0,1,1,Group_A
+57,70182,768,4,Bachelor,Female,49135,0,1,0,Group_A
+59,26135,514,11,Bachelor,Female,53581,1,0,0,Group_A
+41,38653,661,2,Bachelor,Female,82196,1,0,0,Group_A
+40,86606,693,1,Bachelor,Female,12166,0,1,0,Group_B
+27,64130,473,3,High School,Male,37122,0,0,0,Group_A
+22,50337,643,18,High School,Female,13374,0,1,0,Group_A
+34,111655,509,1,Master,Female,45492,0,0,0,Group_A
+51,83217,835,14,Master,Female,32013,0,1,1,Group_A
+42,115599,665,15,Bachelor,Female,18347,0,1,1,Group_A
+52,135074,787,8,Bachelor,Female,46784,0,1,1,Group_A
+30,84817,548,11,High School,Female,31269,0,0,0,Group_B
+28,31826,601,2,Bachelor,Male,49082,0,0,0,Group_B
+36,40085,719,13,PhD,Male,90169,0,0,0,Group_A
+22,36574,742,14,Bachelor,Male,62103,0,1,0,Group_A
+46,70971,501,19,High School,Male,56799,0,0,0,Group_B
+57,80390,828,4,High School,Male,45711,0,0,1,Group_A
+51,96312,823,6,High School,Male,70839,0,1,1,Group_A
+59,110140,698,12,PhD,Male,71332,0,1,1,Group_B
+58,37106,702,17,High School,Male,88200,0,0,1,Group_B
+40,52016,747,17,Bachelor,Male,31532,0,1,1,Group_A
+26,89586,495,13,Bachelor,Male,66693,0,0,0,Group_A
+42,33231,729,4,Master,Female,49049,0,0,0,Group_A
+45,31962,730,6,Bachelor,Female,78660,0,0,0,Group_A
+22,23543,723,18,Bachelor,Female,8706,0,1,0,Group_A
+41,87288,605,9,Master,Female,83570,0,1,0,Group_A
+35,84604,627,12,Bachelor,Male,94393,0,0,0,Group_B
+28,120846,614,4,Master,Female,32933,1,0,0,Group_B
+44,65124,768,9,Bachelor,Male,38235,0,0,1,Group_B
+24,129765,654,20,Bachelor,Male,60546,0,1,1,Group_A
+32,74857,817,13,High School,Female,26863,1,0,0,Group_B
+27,24763,715,13,Bachelor,Male,36843,0,0,0,Group_B
+30,50699,741,13,Bachelor,Female,18555,0,0,0,Group_A
+35,59321,605,18,Bachelor,Male,43121,0,0,0,Group_A
+23,82665,552,12,Bachelor,Male,78387,0,0,0,Group_A
+26,127369,679,9,Master,Female,42785,0,1,1,Group_B
+51,44700,672,17,High School,Female,60233,0,1,0,Group_A
+43,129198,800,7,Master,Female,44752,1,0,0,Group_B
+29,40039,654,9,High School,Male,39749,1,0,0,Group_B
+29,122272,499,6,High School,Male,88209,0,0,0,Group_B
+23,119292,523,15,High School,Female,83221,0,0,0,Group_A
+54,142406,473,13,Master,Male,11035,0,0,0,Group_B
+34,120422,765,18,Master,Female,49666,0,1,1,Group_A
+46,126705,738,18,Master,Female,19842,0,1,1,Group_B
+27,59390,784,16,Master,Male,72255,0,1,1,Group_A
+48,62012,740,18,Bachelor,Female,80399,0,1,1,Group_A
+59,84016,482,5,Master,Female,51006,1,0,0,Group_A
+60,55891,719,8,Bachelor,Male,39575,0,0,1,Group_B
+39,79274,806,3,Bachelor,Female,71162,0,0,1,Group_B
+52,21893,802,6,Master,Female,41331,0,0,0,Group_A
+57,48205,556,3,Bachelor,Male,89151,0,0,0,Group_A
+60,114634,514,13,High School,Male,79519,0,0,1,Group_A
+24,80942,718,3,High School,Male,16797,0,0,0,Group_A
+58,41400,703,17,High School,Female,37270,0,0,0,Group_B
+26,106064,640,6,Bachelor,Female,61902,0,0,0,Group_B
+60,26638,847,15,Bachelor,Male,15072,1,0,0,Group_B
+45,27857,831,16,High School,Male,92846,0,1,0,Group_A
+53,105998,757,7,High School,Male,90404,0,1,1,Group_B
+23,117247,530,1,High School,Male,38034,0,0,0,Group_B
+35,97926,811,11,Bachelor,Male,91342,0,1,1,Group_A
+25,107333,509,14,Bachelor,Male,92718,0,0,0,Group_B
+54,147572,762,11,Bachelor,Male,36237,0,1,1,Group_A
+48,137708,625,5,Master,Female,17324,0,0,0,Group_B
+41,43723,621,19,Bachelor,Male,42146,0,0,0,Group_A
+28,82013,701,15,High School,Male,14727,0,1,0,Group_A
+54,61505,615,14,High School,Female,47145,0,0,0,Group_A
+49,126847,603,8,High School,Male,34839,0,0,0,Group_B
+33,48930,593,7,High School,Female,34830,1,0,0,Group_A
+49,98648,791,16,High School,Male,75361,0,1,1,Group_B
+44,73051,565,8,Master,Female,63251,0,0,0,Group_B
+37,69056,526,8,High School,Male,16191,0,0,0,Group_B
+54,138171,604,19,Master,Female,67603,0,0,1,Group_A
+33,69178,459,19,Bachelor,Female,45452,0,0,0,Group_A
+60,104585,527,13,Bachelor,Male,24009,0,0,0,Group_A
+31,100206,757,17,PhD,Male,70826,0,1,1,Group_A
+38,111561,607,17,High School,Male,5296,0,0,0,Group_B
+27,140053,770,18,Bachelor,Female,39130,0,1,1,Group_B
+41,110639,590,20,Bachelor,Male,91173,0,1,1,Group_A
+46,78560,510,9,Bachelor,Female,43022,0,0,0,Group_B
+49,82147,738,8,PhD,Male,47202,0,1,1,Group_A
+56,38690,555,6,Bachelor,Female,60424,0,0,0,Group_B
+50,132061,534,14,Master,Male,32855,0,0,0,Group_B
+44,76240,786,5,Bachelor,Female,57497,0,0,1,Group_B
+45,37929,827,5,Master,Female,28393,0,0,0,Group_B
+60,116528,754,11,High School,Female,94875,0,1,1,Group_A
+44,63827,581,15,Master,Female,57727,0,1,0,Group_B
+30,73015,455,7,Bachelor,Female,8177,0,0,0,Group_A
+48,106436,778,8,Bachelor,Female,99013,0,1,1,Group_A
+39,24321,584,3,Bachelor,Male,31886,1,0,0,Group_B
+58,132899,516,0,High School,Male,61879,0,0,0,Group_A
+33,140767,612,13,Master,Female,32993,0,0,1,Group_B
+52,140007,516,0,Bachelor,Male,7632,0,0,0,Group_A
+45,120304,729,8,Bachelor,Male,77981,0,0,1,Group_B
+26,145549,756,2,Bachelor,Female,63582,0,1,1,Group_A
+40,34380,506,16,Bachelor,Female,50915,0,0,0,Group_A
+47,41323,554,13,Bachelor,Female,76419,1,0,0,Group_A
+60,137996,623,14,Bachelor,Male,73079,0,1,1,Group_B
+38,67299,700,1,Master,Male,31763,0,0,0,Group_A
+26,76344,475,7,High School,Female,65922,0,0,0,Group_B
+42,68367,708,0,High School,Male,29287,0,0,0,Group_A
+54,97658,542,6,High School,Male,99002,0,0,0,Group_A
+38,111228,687,16,Bachelor,Female,99093,0,1,1,Group_B
+36,40991,791,20,Bachelor,Male,67249,0,1,1,Group_A
+36,99553,549,9,Master,Male,74481,0,0,0,Group_B
+60,44299,797,13,Bachelor,Female,49507,0,1,1,Group_A
+23,129178,738,7,Bachelor,Female,81768,0,1,1,Group_A
+51,143568,831,5,Master,Female,45839,1,1,0,Group_A
+51,115761,763,19,Bachelor,Male,8578,0,1,1,Group_A
+51,115965,734,15,High School,Male,97950,0,0,1,Group_B
+48,30386,628,5,Bachelor,Male,16655,0,0,0,Group_A
+49,26372,756,20,Bachelor,Male,82009,0,1,0,Group_A
+25,137925,503,12,Bachelor,Female,11885,0,0,0,Group_B
+58,124320,669,6,High School,Male,6839,0,0,1,Group_B
+52,83722,770,2,Bachelor,Male,54372,0,0,1,Group_B
+49,138454,499,14,High School,Male,98574,0,1,0,Group_A
+21,31357,707,4,Bachelor,Male,56138,0,0,0,Group_A
+31,100103,742,0,Master,Female,18118,0,1,0,Group_A
+40,48756,466,15,High School,Female,43215,0,0,0,Group_A
+21,64237,670,18,Bachelor,Female,11040,0,0,0,Group_A
+49,23749,681,17,High School,Female,24853,0,0,0,Group_A
+46,122240,508,15,High School,Female,56747,0,1,0,Group_A
+25,102936,599,0,Master,Male,88274,1,0,0,Group_A
+43,69112,717,7,High School,Female,59827,0,1,0,Group_A
+21,49553,470,13,Master,Male,46306,0,0,0,Group_A
+34,92107,730,4,Bachelor,Female,70139,1,0,0,Group_A
+56,39267,825,6,Bachelor,Male,56672,0,0,0,Group_B
+26,126732,574,18,Bachelor,Male,51458,1,0,0,Group_A
+40,38984,796,8,Master,Female,67457,1,0,0,Group_A
+32,113448,563,17,Bachelor,Male,96168,0,0,0,Group_A
+58,70906,543,15,Master,Male,81999,0,0,0,Group_B
+45,51625,537,1,Bachelor,Male,93141,0,0,0,Group_A
+42,76574,474,16,Master,Male,88689,0,0,0,Group_B
+47,125290,454,0,Bachelor,Male,80914,0,0,0,Group_A
+35,105610,459,9,High School,Female,35619,0,0,0,Group_B
+55,76116,653,17,Bachelor,Male,12089,1,0,0,Group_B
+49,107755,621,20,Master,Female,27778,0,1,1,Group_A
+29,131190,722,17,Bachelor,Male,88018,1,0,0,Group_A
+55,71638,656,18,Bachelor,Male,83045,0,1,0,Group_B
+25,145629,737,6,Bachelor,Male,16422,0,0,1,Group_A
+59,40689,784,2,Master,Female,9527,0,0,0,Group_B
+59,123706,736,17,Bachelor,Male,84109,0,1,1,Group_B
+24,22779,584,1,Bachelor,Female,83615,1,0,0,Group_B
+47,125058,515,16,Master,Female,17010,0,0,1,Group_A
+52,30553,747,6,Bachelor,Female,63330,0,0,0,Group_B
+35,137116,782,11,Master,Female,24449,0,1,1,Group_A
+46,43664,474,12,Bachelor,Female,28038,0,0,0,Group_A
+40,58523,637,7,Bachelor,Male,44543,0,0,0,Group_B
+24,52317,662,12,High School,Male,11857,0,0,0,Group_A
+33,109743,735,2,High School,Male,31362,1,0,0,Group_A
+50,35504,465,17,Master,Male,41273,0,0,0,Group_A
+25,67779,619,6,High School,Female,85831,0,0,0,Group_B
+33,105374,752,16,Master,Female,58143,0,1,1,Group_A
+50,23516,809,17,High School,Female,16391,0,1,1,Group_A
+27,119251,833,0,Bachelor,Male,17451,0,0,1,Group_B
+39,44704,486,17,Bachelor,Male,50256,1,0,0,Group_B
+52,48229,450,4,Bachelor,Male,32255,0,0,0,Group_A
+21,44660,562,7,Bachelor,Female,15715,0,0,0,Group_A
+24,111529,490,18,Master,Female,90240,0,0,0,Group_A
+30,105468,524,13,Bachelor,Male,65312,0,0,0,Group_B
+52,134205,689,8,Bachelor,Female,6884,1,0,0,Group_B
+27,101422,491,18,High School,Female,17812,0,0,0,Group_A
+34,50480,652,1,PhD,Female,43672,0,0,0,Group_B
+23,148518,641,20,Bachelor,Male,78594,0,0,1,Group_B
+41,118695,808,3,High School,Female,61735,1,0,0,Group_B
+42,59709,455,8,High School,Male,65558,0,0,0,Group_B
+38,49831,504,18,Bachelor,Male,82622,0,0,0,Group_B
+44,86471,789,15,High School,Female,66035,0,0,1,Group_B
+52,149688,480,19,High School,Male,46503,0,1,0,Group_A
+57,60222,680,13,Bachelor,Female,79095,0,0,0,Group_A
+33,68128,822,19,Master,Male,34564,0,1,1,Group_A
+54,27489,565,4,High School,Female,11902,0,0,0,Group_A
+24,59462,558,6,Bachelor,Male,56159,0,0,0,Group_A
+48,143731,702,14,Bachelor,Male,58473,1,0,0,Group_A
+46,41473,805,17,High School,Male,68344,0,0,1,Group_B
+51,136045,574,2,Master,Female,5207,0,0,0,Group_A
+29,119244,718,14,High School,Male,21325,0,0,1,Group_B
+37,39880,659,1,Master,Male,98762,0,0,0,Group_A
+49,74675,526,16,Bachelor,Female,57381,0,0,0,Group_B
+55,100032,817,17,High School,Male,31726,0,1,1,Group_B
+49,83212,814,18,Bachelor,Female,27567,0,1,1,Group_A
+36,122907,660,2,Bachelor,Female,80822,0,0,0,Group_B
+21,34591,592,2,High School,Female,12374,1,0,0,Group_B
+57,58196,738,11,Master,Female,11614,0,0,0,Group_B
+59,117459,715,10,Bachelor,Male,16108,0,1,1,Group_A
+46,138571,824,20,Bachelor,Female,54684,0,1,1,Group_A
+37,141648,703,14,Master,Female,94080,0,0,1,Group_B
+43,133672,481,14,Bachelor,Male,74603,0,0,0,Group_B
+39,37393,775,16,Bachelor,Female,16388,0,1,0,Group_A
+55,64143,630,2,Bachelor,Female,5916,0,0,0,Group_B
+21,135600,456,4,Bachelor,Male,16694,0,0,0,Group_A
+52,44596,761,13,High School,Male,34500,0,0,0,Group_B
+36,48804,782,10,Master,Female,82807,0,1,0,Group_A
+53,100730,629,2,Bachelor,Male,82828,0,0,0,Group_B
+45,59041,704,15,Bachelor,Male,61425,0,1,1,Group_B
+33,78759,753,4,High School,Female,58075,1,0,0,Group_A
+53,28521,799,17,High School,Female,94668,1,1,0,Group_A
+26,103329,505,0,High School,Female,20816,0,0,0,Group_B
+55,137491,834,15,High School,Male,94662,0,1,1,Group_A
+32,21184,588,10,Bachelor,Male,56111,0,0,0,Group_A
+44,76022,570,19,High School,Male,45094,0,0,0,Group_A
+39,52463,553,6,High School,Female,66277,0,0,0,Group_B
+37,95956,513,11,High School,Female,15461,1,0,0,Group_A
+33,145463,740,16,Bachelor,Female,13407,0,1,1,Group_A
+30,145266,605,5,High School,Male,64602,0,1,0,Group_A
+28,40661,799,14,Master,Female,35134,0,0,0,Group_A
+44,80758,680,20,High School,Male,82859,0,1,0,Group_A
+48,58751,687,4,High School,Male,56382,0,0,0,Group_B
+44,144277,582,16,Bachelor,Female,15914,0,0,1,Group_B
+48,142066,836,20,High School,Female,38885,0,1,1,Group_A
+24,21831,478,17,High School,Female,71598,0,0,0,Group_B
+21,123016,618,10,Master,Female,45653,0,0,0,Group_B
+32,96428,540,6,High School,Female,29054,0,1,0,Group_A
+40,112918,538,13,Bachelor,Female,50379,0,0,0,Group_A
+47,44309,659,9,Bachelor,Male,27299,0,0,0,Group_A
+49,67234,477,8,Master,Male,81721,0,0,0,Group_A
+52,86425,827,15,Bachelor,Female,39139,0,1,1,Group_B
+37,95622,462,4,Master,Female,52460,1,0,0,Group_B
+44,141770,719,1,Bachelor,Male,85123,0,1,1,Group_A
+55,31360,487,8,Bachelor,Female,13058,0,0,0,Group_A
+52,103384,783,15,Master,Male,28093,1,0,0,Group_B
+39,114948,792,9,Master,Male,55502,0,1,1,Group_B
+32,127092,647,16,High School,Male,26203,0,0,1,Group_B
+21,93173,689,12,High School,Male,64850,0,0,0,Group_B
+29,99079,803,13,Bachelor,Male,22144,0,1,1,Group_A
+23,122413,793,20,Master,Male,22639,0,1,1,Group_B
+57,64333,768,10,Master,Male,75286,0,1,1,Group_A
+56,23981,575,19,High School,Male,65428,1,0,0,Group_A
+35,128522,707,5,Bachelor,Male,52018,1,0,0,Group_B
+53,85614,809,4,Master,Female,53718,0,0,1,Group_A
+35,74144,552,18,High School,Male,84702,0,0,0,Group_B
+59,60870,554,3,High School,Female,35429,0,0,0,Group_A
+55,101171,574,14,High School,Male,5009,0,0,0,Group_A
+59,58169,792,11,Bachelor,Female,95405,1,0,0,Group_A
+59,64247,709,12,Master,Female,65628,0,1,1,Group_A
+55,113948,666,16,Bachelor,Male,21492,1,0,0,Group_A
+45,119174,655,20,High School,Female,81248,0,1,1,Group_A
+22,35479,632,2,High School,Female,94771,0,0,0,Group_B
+39,75711,463,17,Master,Female,65723,0,0,0,Group_A
+28,56824,532,19,Bachelor,Female,61849,0,0,0,Group_A
+31,20229,786,6,High School,Male,23378,0,0,0,Group_A
+53,120485,535,4,Master,Female,62262,0,0,0,Group_B
+46,130782,538,7,Bachelor,Female,91415,1,0,0,Group_B
+43,86275,836,8,Master,Male,79208,1,0,0,Group_B
+24,115305,652,17,Bachelor,Male,46819,0,1,1,Group_A
+54,27490,537,18,Bachelor,Male,58074,0,0,0,Group_B
+48,66691,539,19,Master,Male,73524,0,0,0,Group_B
+39,97239,690,18,Bachelor,Male,92917,0,0,1,Group_B
+54,59884,774,0,Bachelor,Female,34913,0,0,0,Group_A
+47,103795,705,16,High School,Female,52192,0,1,1,Group_B
+40,136925,498,15,Bachelor,Female,41877,0,1,0,Group_A
+48,35689,551,5,Bachelor,Female,41088,1,0,0,Group_A
+47,93805,625,17,High School,Male,34140,1,0,0,Group_A
+33,71287,504,15,High School,Male,72244,0,0,0,Group_B
+44,123619,692,12,Bachelor,Female,93790,1,0,0,Group_B
+48,45616,661,3,Bachelor,Male,98060,0,0,0,Group_B
+55,22581,757,6,High School,Female,97755,1,0,0,Group_A
+24,105617,832,3,Bachelor,Female,39612,0,1,1,Group_A
+48,53065,471,5,Master,Male,25509,0,0,0,Group_A
+42,83079,620,1,High School,Male,86234,0,0,0,Group_A
+34,103767,699,5,High School,Female,56039,0,1,0,Group_A
+22,145942,584,8,Bachelor,Male,78741,0,0,0,Group_A
+38,90404,712,19,Bachelor,Male,46484,0,1,1,Group_A
+32,119083,540,14,Bachelor,Female,91686,0,1,0,Group_B
+28,67761,577,15,Bachelor,Male,68848,0,0,0,Group_B
+49,87560,767,0,Bachelor,Male,83160,0,0,0,Group_B
+32,138972,790,0,High School,Male,22218,0,1,1,Group_A
+22,29196,538,4,Bachelor,Female,47001,0,0,0,Group_A
+49,66686,815,11,High School,Male,28052,0,1,1,Group_A
+24,47052,827,4,Bachelor,Male,58781,0,1,0,Group_A
+28,27957,755,17,High School,Male,35607,0,0,1,Group_B
+48,60524,484,1,Master,Male,96521,0,0,0,Group_A
+33,80740,469,0,Master,Male,25236,0,0,0,Group_A
+57,108583,469,11,Bachelor,Female,6369,0,0,0,Group_A
+46,45596,834,14,Master,Female,32588,1,0,0,Group_A
+52,141768,469,8,Master,Male,21975,0,0,0,Group_A
+30,45496,728,8,Master,Male,63166,0,0,0,Group_B
+48,128475,664,2,Master,Female,75102,0,0,1,Group_A
+29,20595,765,20,High School,Female,14537,0,0,1,Group_A
+21,88045,751,0,Bachelor,Male,94145,0,1,0,Group_A
+26,108177,842,16,Bachelor,Female,80058,0,1,1,Group_A
+37,88694,650,9,PhD,Female,57670,1,0,0,Group_A
+46,77889,510,17,PhD,Male,12787,0,0,0,Group_A
+33,53332,597,8,Bachelor,Female,90331,0,0,0,Group_A
+26,47885,451,12,Bachelor,Male,98760,0,0,0,Group_A
+40,119515,780,16,High School,Female,5576,0,1,1,Group_A
+25,124675,806,11,Master,Male,67938,1,0,0,Group_B
+54,131915,577,4,High School,Female,40878,0,0,0,Group_B
+21,80119,617,7,Bachelor,Male,91555,0,0,0,Group_B
+52,21737,846,9,Bachelor,Male,35169,0,0,0,Group_B
+50,29943,849,5,Master,Male,18285,0,0,0,Group_A
+40,125219,505,12,Bachelor,Male,9010,1,0,0,Group_B
+51,103788,736,19,High School,Female,37104,0,1,1,Group_B
+28,66157,558,4,Master,Male,8640,0,0,0,Group_B
+24,69037,573,15,High School,Male,52592,1,0,0,Group_B
+33,125386,482,15,Bachelor,Female,64655,0,1,0,Group_A
+47,147119,673,9,Bachelor,Female,32703,1,0,0,Group_A
+44,135158,561,3,High School,Female,17985,1,0,0,Group_A
+33,106436,804,6,High School,Male,78363,0,1,1,Group_A
+24,125796,714,7,Bachelor,Female,16752,0,0,1,Group_A
+59,146340,709,8,High School,Female,25328,0,1,1,Group_B
+24,26080,743,11,Master,Male,13801,1,0,0,Group_A
+35,118682,515,19,PhD,Male,48728,0,1,0,Group_A
+21,55450,640,1,Bachelor,Female,84294,0,0,0,Group_B
+31,98422,569,14,Master,Male,45214,0,0,0,Group_A
+45,89521,470,14,Master,Female,99846,0,0,0,Group_A
+58,78097,523,20,PhD,Female,90641,0,0,0,Group_B
+42,48561,792,9,Bachelor,Male,94075,0,1,0,Group_A
+35,82370,628,3,Bachelor,Female,89839,1,0,0,Group_A
+44,131943,778,0,High School,Male,46409,0,1,1,Group_A
+52,77656,492,15,Master,Female,20361,0,0,0,Group_A
+39,114438,629,8,Bachelor,Male,60611,0,1,0,Group_A
+26,33851,847,5,Master,Female,44662,0,0,0,Group_B
+21,141684,586,18,Bachelor,Female,15494,0,1,1,Group_A
+32,147156,749,6,Master,Male,36365,0,1,1,Group_A
+43,37509,613,13,High School,Male,69520,0,0,0,Group_A
+39,86060,502,20,Master,Male,23261,1,0,0,Group_B
+43,62137,681,1,High School,Female,49695,0,0,0,Group_B
+29,125008,526,13,Master,Male,58934,0,0,0,Group_A
+49,63481,670,9,Bachelor,Female,95332,0,0,0,Group_A
+46,36619,553,12,High School,Male,61121,0,0,0,Group_A
+46,120154,753,3,High School,Female,79554,0,0,1,Group_B
+49,98543,521,19,High School,Male,25753,0,0,0,Group_A
+37,88199,610,17,High School,Female,59654,0,0,0,Group_A
+51,93970,819,5,Master,Male,92000,0,1,1,Group_A
+43,65875,724,19,High School,Female,13652,0,1,1,Group_A
+40,39023,552,13,Bachelor,Female,51442,0,0,0,Group_B
+40,112244,518,8,High School,Female,49281,0,0,0,Group_A
+54,128777,811,16,Master,Male,62230,0,1,1,Group_A
+23,124601,636,20,Master,Female,52303,1,0,0,Group_A
+32,42195,778,15,High School,Female,13359,0,1,0,Group_A
+49,30450,703,11,Bachelor,Male,39224,0,0,0,Group_A
+28,133181,702,6,Bachelor,Female,21711,0,0,0,Group_B
+22,28531,730,0,High School,Female,13116,0,0,0,Group_A
+30,32666,523,12,Bachelor,Male,75486,0,0,0,Group_A
+39,108416,471,12,Bachelor,Female,88395,0,1,0,Group_A
+35,98282,758,10,PhD,Female,59646,0,1,1,Group_A
+45,118918,535,5,Master,Male,86163,0,0,0,Group_A
+35,74478,679,13,High School,Female,60912,0,1,0,Group_A
+54,26727,782,3,Bachelor,Female,59560,0,0,0,Group_A
+43,104685,747,14,PhD,Female,37797,0,1,1,Group_B
+26,34549,457,15,High School,Male,24054,1,0,0,Group_A
+44,62470,481,0,Master,Male,15079,0,0,0,Group_A
+53,68291,799,17,PhD,Female,5982,0,1,1,Group_A
+59,92742,702,19,Bachelor,Male,28940,0,0,1,Group_A
+54,37948,554,5,Bachelor,Female,25402,0,0,0,Group_A
+25,144462,763,0,High School,Female,79905,0,1,1,Group_A
+33,127422,715,9,High School,Female,17980,0,1,1,Group_A
+24,30195,794,7,Master,Female,84887,1,0,0,Group_B
+53,104790,484,1,Master,Female,13812,1,0,0,Group_A
+59,32879,702,13,Bachelor,Male,76998,1,0,0,Group_A
+55,22765,559,9,Master,Male,42711,0,0,0,Group_A
+48,63539,680,15,Master,Male,28638,0,0,0,Group_B
+46,79635,697,17,Master,Female,16183,0,1,1,Group_A
+50,130350,512,7,Master,Male,12539,0,1,0,Group_A
+39,86490,557,14,Bachelor,Male,9763,0,0,0,Group_B
+59,113220,758,19,High School,Male,17609,1,1,1,Group_A
+47,32632,831,12,High School,Female,59395,1,0,0,Group_B
+54,103565,823,3,Bachelor,Male,65773,0,1,1,Group_A
+31,67374,633,6,High School,Male,51635,0,0,0,Group_B
+32,47464,522,0,Bachelor,Female,63976,0,0,0,Group_B
+28,101788,525,19,PhD,Male,32150,0,0,0,Group_B
+35,71952,462,5,Bachelor,Female,65943,0,0,0,Group_A
+52,101418,706,15,Bachelor,Male,49777,0,1,1,Group_A
+22,30750,705,4,Master,Male,57383,0,0,0,Group_B
+44,98572,595,16,PhD,Female,58102,1,0,0,Group_B
+28,130460,576,0,High School,Male,76913,0,0,0,Group_A
+46,82532,777,17,PhD,Female,98814,0,1,1,Group_A
+56,79251,825,14,Master,Male,17923,0,1,1,Group_A
+25,39187,670,12,Master,Female,33483,0,0,0,Group_A
+21,23650,658,11,Master,Male,14422,0,0,0,Group_B
+54,119227,485,13,High School,Female,32177,0,1,0,Group_A
+60,116870,554,18,Master,Female,21973,0,1,1,Group_A
+58,52826,523,20,High School,Male,94146,0,0,0,Group_A
+28,105469,501,12,PhD,Male,22702,0,0,0,Group_B
+60,113246,752,8,Bachelor,Male,99377,1,0,0,Group_A
+49,54758,575,7,Bachelor,Female,59215,0,0,0,Group_A
+55,123775,664,0,PhD,Male,45021,0,0,0,Group_B
+53,93620,669,1,Bachelor,Female,10647,0,1,0,Group_A
+43,47160,772,6,High School,Male,53743,0,0,0,Group_B
+45,65117,658,13,High School,Female,13602,0,1,0,Group_A
+28,115345,838,14,Master,Male,83440,0,1,1,Group_B
+33,104981,767,7,Bachelor,Female,75608,0,1,1,Group_A
+46,132196,522,9,Bachelor,Female,96517,0,0,0,Group_B
+44,60718,606,20,Master,Female,69617,0,1,0,Group_A
+44,109234,695,19,High School,Female,97500,1,1,0,Group_A
+46,92573,777,11,High School,Male,27623,0,0,1,Group_B
+39,116895,465,7,High School,Female,84499,0,0,0,Group_A
+43,65591,802,1,High School,Female,85056,0,0,1,Group_B
+42,29190,483,7,High School,Female,55560,0,0,0,Group_B
+44,88447,535,5,High School,Male,5220,0,0,0,Group_B
+52,134012,451,19,Master,Female,28830,0,0,0,Group_B
+26,55398,785,18,Bachelor,Female,67094,0,1,1,Group_B
+59,105711,657,1,Master,Female,69655,0,1,0,Group_B
+59,51556,731,1,Master,Male,70305,0,0,0,Group_B
+25,100171,627,14,Bachelor,Male,65211,0,1,0,Group_A
+39,135947,686,9,High School,Male,96786,0,1,1,Group_A
+22,124089,709,10,High School,Male,11142,0,0,1,Group_B
+46,78008,531,10,Master,Male,37241,0,0,0,Group_B
+42,138428,459,0,High School,Female,72630,0,0,0,Group_A
+48,148181,469,0,Master,Female,8105,1,0,0,Group_A
+48,114341,616,0,High School,Female,5228,0,0,0,Group_A
+33,120400,643,6,Master,Female,87095,0,1,0,Group_B
+52,22892,648,19,Master,Male,59480,0,0,0,Group_A
+57,107876,591,14,Bachelor,Male,25349,0,0,0,Group_B
+57,53324,522,12,Bachelor,Female,83000,1,0,0,Group_B
+47,60473,825,15,High School,Male,85694,0,1,1,Group_A
+34,133689,453,20,Bachelor,Male,34011,0,0,0,Group_A
+44,21524,731,19,High School,Female,89377,0,0,0,Group_B
+55,112837,613,7,Bachelor,Female,33432,1,0,0,Group_A
+57,144588,706,14,Bachelor,Male,90747,0,1,1,Group_A
+37,114108,538,18,High School,Male,27168,1,0,0,Group_A
+28,133880,563,3,Bachelor,Male,71689,0,0,0,Group_A
+38,57344,636,13,Bachelor,Male,99934,0,0,0,Group_A
+48,73309,849,14,Bachelor,Male,91723,0,1,1,Group_A
+57,149030,558,9,Master,Male,15517,1,0,0,Group_B
+50,99731,835,14,Bachelor,Female,14968,0,1,1,Group_A
+32,123712,560,16,Master,Male,66745,0,0,0,Group_A
+58,78535,721,11,Bachelor,Female,34745,0,0,1,Group_B
+24,109452,490,9,Bachelor,Male,33304,0,0,0,Group_A
+48,94255,731,2,Bachelor,Male,18167,0,1,0,Group_A
+52,24379,603,2,High School,Male,69058,1,0,0,Group_B
+23,138819,825,13,High School,Female,6095,0,1,1,Group_B
+21,59867,540,11,High School,Male,92917,0,0,0,Group_A
+34,31221,622,19,Master,Male,43910,0,0,0,Group_A
+35,128612,513,12,High School,Male,48400,0,0,0,Group_A
+46,71990,635,7,Bachelor,Male,24726,0,0,0,Group_B
+39,47564,727,4,PhD,Male,10682,0,0,0,Group_B
+53,114491,465,17,High School,Male,70539,0,0,0,Group_B
+40,59220,704,20,High School,Male,21118,0,0,1,Group_B
+41,23190,753,2,Bachelor,Male,52229,0,0,0,Group_B
+31,126073,706,19,Master,Female,97517,0,1,1,Group_B
+44,58185,538,8,Bachelor,Male,57278,0,0,0,Group_A
+30,22887,464,1,High School,Male,47771,1,0,0,Group_A
+35,131904,667,20,High School,Male,63700,1,0,0,Group_B
+22,139159,487,20,High School,Male,95561,1,0,0,Group_A
+41,60696,624,14,Master,Male,17924,0,0,0,Group_A
+34,102797,825,4,High School,Female,77661,1,0,0,Group_B
+28,33731,641,8,Master,Female,6243,1,0,0,Group_A
+27,56444,563,11,PhD,Female,33975,0,0,0,Group_A
+52,90740,684,9,Master,Female,91752,0,1,0,Group_A
+47,109317,583,2,High School,Female,87887,0,0,0,Group_A
+35,109326,617,5,Master,Female,12087,0,1,0,Group_A
+29,77786,730,8,PhD,Male,18488,0,1,1,Group_B
+52,85242,668,2,Bachelor,Male,46572,0,0,0,Group_A
+52,47105,725,6,Bachelor,Male,48919,0,1,0,Group_A
+32,130402,788,14,Bachelor,Female,46030,0,0,1,Group_B
+35,72091,561,13,PhD,Male,51686,0,0,0,Group_B
+52,33331,534,2,High School,Female,92500,0,0,0,Group_A
+37,24823,766,1,Bachelor,Male,65238,1,0,0,Group_A
+53,98812,545,7,High School,Female,66291,0,0,0,Group_A
+42,119976,691,8,Master,Male,82653,0,1,1,Group_A
+22,62818,696,17,Bachelor,Female,53704,0,0,0,Group_A
+28,60325,810,7,Master,Female,27246,0,1,0,Group_A
+40,28789,718,9,Bachelor,Male,59441,1,0,0,Group_B
+25,62771,815,15,Master,Female,17377,0,1,1,Group_A
+58,26523,555,7,Master,Male,57814,0,0,0,Group_B
+46,41889,768,7,Bachelor,Male,15619,0,1,0,Group_A
+60,95761,500,3,High School,Male,46000,0,0,0,Group_A
+56,70508,624,12,Bachelor,Male,43940,0,0,0,Group_B
+59,71448,684,3,High School,Male,88515,0,0,0,Group_A
+55,145851,478,4,Master,Male,82109,0,0,0,Group_A
+34,144010,634,18,Master,Female,66224,0,1,1,Group_A
+25,141544,779,16,Bachelor,Female,86663,0,1,1,Group_B
+60,23203,467,6,High School,Female,17219,0,0,0,Group_B
+27,35089,743,5,Bachelor,Male,69903,0,0,0,Group_A
+55,88685,767,17,Master,Male,63648,0,0,1,Group_B
+31,75648,698,4,Bachelor,Male,10742,1,0,0,Group_B
+51,127760,720,8,Bachelor,Female,47048,0,1,1,Group_B
+58,90354,803,6,High School,Female,92773,1,1,0,Group_A
+48,80924,670,18,PhD,Female,11693,0,0,0,Group_A
+38,20555,505,9,Bachelor,Female,66236,0,0,0,Group_A
+28,97355,637,3,Bachelor,Male,22004,1,0,0,Group_B
+28,140044,646,2,Bachelor,Male,56810,0,0,0,Group_B
+51,99693,519,16,PhD,Female,23778,1,0,0,Group_A
+42,122097,493,9,High School,Male,25703,1,0,0,Group_B
+22,106442,691,19,Master,Male,28013,1,0,0,Group_A
+41,123780,740,16,High School,Female,56864,0,1,1,Group_B
+29,149553,769,13,Bachelor,Female,73025,0,1,1,Group_B
+21,114543,716,3,Master,Male,79910,0,0,0,Group_A
+31,149613,533,7,Master,Male,27104,0,0,0,Group_B
+33,98863,836,20,High School,Male,47323,0,1,1,Group_A
+57,138680,651,4,Bachelor,Female,88518,1,0,0,Group_B
+47,108657,631,13,High School,Female,68140,0,0,1,Group_B
+39,89893,494,3,High School,Male,14743,0,0,0,Group_A
+37,100820,768,16,High School,Female,31264,0,1,1,Group_B
+31,28177,521,14,High School,Male,80696,0,0,0,Group_B
+33,112906,802,9,Bachelor,Male,15111,0,1,1,Group_B
+58,49140,535,16,High School,Male,68756,0,0,0,Group_A
+52,101531,720,0,Bachelor,Male,53866,0,1,0,Group_A
+22,41209,775,13,Bachelor,Female,48390,0,0,0,Group_B
+46,63005,716,17,Master,Female,19414,0,1,0,Group_A
+42,134337,487,3,Bachelor,Female,57480,0,1,0,Group_A
+29,25077,695,7,High School,Male,66405,0,0,0,Group_A
+58,142989,453,19,High School,Female,31098,0,0,0,Group_B
+36,89922,496,0,Bachelor,Male,25931,0,0,0,Group_B
+50,34271,525,5,High School,Female,33527,0,0,0,Group_B
+55,59385,545,7,Master,Male,20201,0,0,0,Group_A
+30,117649,463,13,Bachelor,Male,17815,0,0,0,Group_A
+50,54812,767,3,Master,Male,87433,0,0,0,Group_B
+22,129164,649,18,Bachelor,Male,18832,0,0,1,Group_B
+55,31984,738,8,High School,Male,16590,0,1,0,Group_A
+27,30310,468,19,Master,Male,42675,1,0,0,Group_A
+22,47094,725,17,High School,Male,63259,0,0,0,Group_A
+49,55187,542,11,High School,Female,44824,0,0,0,Group_A
+45,95318,593,19,High School,Male,8546,0,0,0,Group_B
+55,104577,726,18,Bachelor,Male,89618,0,1,1,Group_A
+44,29615,473,7,Bachelor,Female,24163,0,0,0,Group_A
+54,35867,478,19,PhD,Male,11581,0,0,0,Group_B
+49,147006,670,6,Bachelor,Male,17965,1,0,0,Group_B
+56,92394,646,17,Master,Female,32866,0,1,1,Group_B
+60,132651,825,11,Master,Female,28488,1,1,0,Group_B
+25,95379,728,11,Bachelor,Male,15971,0,1,1,Group_A
+32,87684,479,17,Master,Female,79062,0,0,0,Group_A
+49,24368,610,13,High School,Male,43512,0,0,0,Group_B
+46,139415,510,8,High School,Female,96558,0,1,0,Group_A
+23,40607,755,1,High School,Male,95213,0,0,0,Group_A
+46,74633,542,8,Bachelor,Female,54999,0,0,0,Group_B
+60,81465,498,12,Bachelor,Male,77688,0,0,0,Group_A
+40,130584,591,17,Master,Female,31440,0,1,1,Group_A
+42,83456,669,11,High School,Female,44529,0,1,0,Group_A
+54,139020,459,7,PhD,Male,23332,0,0,0,Group_A
+48,25419,705,0,Master,Female,64171,0,0,0,Group_B
+26,72428,698,11,Bachelor,Male,51889,0,0,0,Group_A
+60,83382,806,7,High School,Male,80265,0,1,1,Group_A
+59,113076,821,19,High School,Female,12231,0,1,1,Group_B
+48,46639,656,12,Bachelor,Female,57929,1,0,0,Group_B
+57,71482,819,18,Master,Male,65118,0,1,1,Group_A
+22,123826,474,7,Bachelor,Male,28978,0,0,0,Group_A
+32,58762,657,1,Master,Female,10127,0,0,0,Group_B
+50,25867,775,16,Bachelor,Female,72403,0,1,0,Group_B
+35,22895,538,18,Bachelor,Male,39232,0,0,0,Group_A
+49,121711,782,13,PhD,Male,98202,1,0,0,Group_A
+54,83753,633,18,Bachelor,Male,7519,0,0,0,Group_A
+42,120336,503,7,Bachelor,Male,67397,0,0,0,Group_A
+37,128538,625,8,Bachelor,Male,96081,1,0,0,Group_B
+23,92534,613,15,Bachelor,Male,99250,0,0,0,Group_B
+27,80091,529,5,High School,Male,52952,1,0,0,Group_B
+29,94286,605,12,Bachelor,Female,80806,0,1,0,Group_A
+47,146881,509,17,PhD,Female,98810,0,0,1,Group_A
+41,75739,622,10,Bachelor,Male,92620,1,0,0,Group_A
+41,117493,711,15,High School,Female,57421,0,0,1,Group_B
+37,100021,610,20,Master,Male,65920,0,1,1,Group_A
+49,104577,646,16,Master,Female,84142,0,0,1,Group_B
+31,140562,654,10,PhD,Female,56516,0,1,1,Group_A
+28,148347,520,4,High School,Male,16498,0,1,0,Group_A
+22,101132,753,8,Bachelor,Female,82428,0,0,1,Group_B
+57,109131,794,9,High School,Female,82253,0,1,1,Group_A
+24,54565,612,9,Master,Female,8470,0,0,0,Group_B
+28,94417,720,19,Bachelor,Female,70553,0,1,1,Group_B
+43,119811,592,16,High School,Male,82480,1,0,0,Group_A
+42,143549,783,13,Master,Female,68611,0,1,1,Group_B
+41,91139,756,10,High School,Male,88576,0,1,1,Group_A
+33,95986,519,18,Bachelor,Male,48196,0,0,0,Group_A
+45,146065,778,8,High School,Male,74939,0,1,1,Group_B
+58,144891,644,14,Master,Female,20297,0,1,1,Group_B
+48,106292,717,15,Bachelor,Male,39804,0,1,1,Group_A
+53,147775,522,16,Bachelor,Male,50197,0,1,0,Group_A
+41,84360,700,17,Bachelor,Female,33007,0,0,1,Group_B
+21,40746,450,9,Master,Male,21992,0,0,0,Group_B
+49,88475,457,10,Master,Male,59026,1,0,0,Group_A
+36,24581,545,6,Master,Male,18060,0,0,0,Group_B
+39,98082,509,19,Bachelor,Male,58201,0,0,0,Group_A
+34,117372,748,0,Master,Female,51017,0,0,0,Group_B
+59,41498,471,9,Master,Male,37003,1,0,0,Group_B
+49,103658,642,11,High School,Female,65196,0,1,0,Group_A
+33,90434,666,2,Bachelor,Male,50231,0,0,0,Group_A
+38,40056,796,14,PhD,Male,10092,0,0,1,Group_B
+43,138961,746,7,Bachelor,Male,58796,0,1,1,Group_B
+54,125289,481,3,Bachelor,Male,18869,0,0,0,Group_A
+60,104003,480,16,Bachelor,Male,84140,0,1,0,Group_A
+23,36121,615,5,High School,Male,20309,0,0,0,Group_B
+25,57860,606,1,Bachelor,Male,94210,0,0,0,Group_B
+28,112705,558,5,High School,Male,7897,0,0,0,Group_A
+46,101434,625,14,High School,Female,64888,0,0,0,Group_B
+31,130476,502,5,PhD,Male,62121,0,0,0,Group_A
+21,147288,507,9,Bachelor,Male,56966,0,1,0,Group_A
+37,50544,725,14,Bachelor,Male,36386,0,0,0,Group_A
+60,101720,830,19,Bachelor,Female,57430,1,0,1,Group_B
+45,23285,840,1,High School,Male,23272,0,0,0,Group_B
+58,101417,675,14,Bachelor,Male,24699,0,1,1,Group_A
+40,71588,802,15,Bachelor,Male,35620,1,0,0,Group_B
+43,128536,722,9,Bachelor,Male,54588,0,1,1,Group_B
+56,21079,590,20,High School,Male,17572,0,0,0,Group_B
+47,83749,794,14,Master,Female,88957,0,1,1,Group_A
+31,48350,577,10,Master,Male,46164,0,0,0,Group_B
+49,44648,722,11,High School,Male,36603,1,0,0,Group_A
+22,136595,719,15,High School,Male,74037,1,0,0,Group_A
+50,145604,496,18,Master,Male,19582,0,0,0,Group_A
+26,97928,509,11,High School,Male,21359,0,0,0,Group_A
+23,135329,811,14,High School,Male,70263,0,1,1,Group_B
+24,98177,514,11,Bachelor,Male,48159,0,0,0,Group_A
+35,67085,797,12,Bachelor,Male,24476,0,1,1,Group_A
+24,78047,764,16,High School,Male,8812,0,1,1,Group_A
+42,46206,567,5,Master,Female,74015,1,0,0,Group_B
+28,76572,599,0,Master,Male,49610,0,0,0,Group_A
+50,70755,699,15,Bachelor,Female,69807,0,1,0,Group_A
+45,110648,525,13,High School,Male,53559,0,0,0,Group_B
+24,37046,729,8,Bachelor,Male,21468,0,0,0,Group_A
+43,127399,589,11,High School,Male,57705,0,1,0,Group_A
+42,63074,486,19,Master,Female,67807,0,0,0,Group_A
+45,128965,465,20,High School,Male,51096,0,0,0,Group_B
+44,51390,598,12,Master,Female,21239,0,0,0,Group_B
+55,68733,822,19,Master,Male,76839,0,1,1,Group_A
+59,126985,535,4,Master,Male,52471,0,0,0,Group_A
+56,85421,818,14,Bachelor,Male,79951,1,0,0,Group_B
+42,30702,678,17,Master,Male,18169,0,0,0,Group_A
+23,25583,516,20,High School,Female,10557,0,0,0,Group_B
+33,52624,621,18,Bachelor,Male,43270,0,0,0,Group_B
+56,55929,656,4,Bachelor,Female,68328,0,0,0,Group_B
+33,138645,541,16,High School,Female,94463,0,1,0,Group_A
+35,95910,542,10,High School,Female,82997,0,0,0,Group_B
+43,147398,561,1,High School,Male,20038,0,0,0,Group_B
+26,46026,728,16,Master,Female,88544,1,0,0,Group_A
+39,94694,537,6,Master,Male,24834,0,0,0,Group_A
+40,21044,791,3,Bachelor,Male,49699,1,0,0,Group_A
+57,35960,510,18,Bachelor,Male,71746,0,0,0,Group_A
+41,106133,736,16,Bachelor,Male,66613,0,1,1,Group_A
+22,107759,800,6,Bachelor,Female,54972,0,1,1,Group_A
+55,61984,617,3,Master,Male,13568,0,0,0,Group_A
+37,29969,683,12,Bachelor,Female,45030,0,0,0,Group_A
+30,68340,786,1,Bachelor,Female,90482,0,0,0,Group_A
+40,149070,526,2,Bachelor,Male,96099,0,0,0,Group_B
+53,102987,482,3,High School,Female,7631,1,0,0,Group_A
+30,90934,637,2,Bachelor,Male,95423,1,0,0,Group_B
+29,91387,507,17,High School,Male,11688,0,0,0,Group_B
+22,91621,699,3,High School,Female,98728,0,1,0,Group_B
+35,61954,775,5,High School,Male,42844,0,0,0,Group_A
+21,95082,680,12,Bachelor,Male,7940,0,0,0,Group_A
+29,68773,790,0,High School,Female,58471,1,0,0,Group_B
+56,113309,527,8,Master,Male,71155,0,0,0,Group_A
+57,78703,667,3,High School,Female,29875,0,0,0,Group_A
+57,135919,753,9,High School,Male,49215,0,1,1,Group_B
+38,70311,739,12,High School,Male,76538,0,0,1,Group_B
+25,39122,657,20,PhD,Female,69137,0,0,0,Group_B
+47,55694,565,17,Master,Female,25431,0,0,0,Group_B
+59,111356,551,7,Master,Female,22243,0,1,0,Group_A
+26,91997,843,15,Master,Female,5252,0,1,1,Group_B
+28,127340,602,2,High School,Male,68674,0,1,0,Group_A
+45,127509,692,16,Bachelor,Female,91938,1,0,0,Group_B
+38,82320,674,15,Bachelor,Male,65294,0,1,0,Group_A
+38,74362,664,4,Bachelor,Male,79018,0,0,0,Group_B
+49,149457,745,10,Master,Male,34604,0,1,1,Group_B
+46,62932,754,1,High School,Male,58498,0,1,0,Group_A
+38,121121,837,3,Master,Female,29688,0,0,1,Group_B
+41,130533,565,13,Master,Male,10341,0,0,0,Group_A
+44,71502,665,3,PhD,Male,31947,0,1,0,Group_A
+60,95118,735,18,Bachelor,Female,34925,0,1,1,Group_B
+28,129979,838,15,Bachelor,Male,34540,0,1,1,Group_A
+34,129863,745,17,PhD,Female,47137,0,1,1,Group_B
+43,42763,593,14,Bachelor,Male,64461,0,0,0,Group_A
+46,78866,574,14,High School,Male,82934,0,0,0,Group_B
+30,143626,654,7,Bachelor,Female,54541,0,1,0,Group_A
+51,131259,457,17,Bachelor,Female,42460,0,0,0,Group_B
